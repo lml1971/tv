@@ -2,9 +2,13 @@
 {
     "urls": [
        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/茂哥.json",
+            "name": "茂哥┃茂哥线路"
+        },
+        {
             "url": "http://www.饭太硬.com/tv",
             "name": "茂哥┃饭太硬线路"
-        },                                                                                                 
+        },                                                                                                   
         {
             "url": "http://肥猫.com",
             "name": "茂哥┃肥猫线路"
