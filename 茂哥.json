@@ -72,9 +72,36 @@
             "channels": null,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "group": null,
-            "name": "小雅·gaoma",
+            "name": "suxuang直播ipv4",
             "type": 0,
             "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u",
+            "status": 1
+        },
+        {
+            "channels": null,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "group": null,
+            "name": "茂哥直播",
+            "type": 0,
+            "url": "http://281906399.top:35456/m3u/1",
+            "status": 1
+        },
+        {
+            "channels": null,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "group": null,
+            "name": "茂哥直播1",
+            "type": 0,
+            "url": "http://281906399.top:9876/v1/tv/w/diyp",
+            "status": 1
+        },
+        {
+            "channels": null,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "group": null,
+            "name": "茂哥直播2",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/lml1971/iptv-api/refs/heads/master/output/result.m3u",
             "status": 1
         },
         {
