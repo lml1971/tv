@@ -26,10 +26,6 @@
             "name": "茂哥┃喵影视线路"
         },   
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
-            "name": "茂哥┃月光线路"
-        },
-        {
             "url": "http://ok321.top/tv",
             "name": "茂哥┃OK线路"
         },
@@ -41,10 +37,6 @@
             "url": "http://fmys.top/fmys.json",
             "name": "茂哥┃驸马线路"
         },	
-        {
-            "url": "https://dxawi.github.io/0/0.json",
-            "name": "茂哥┃Ray线路"
-        },		
         {
             "url": "http://175.178.251.183:6689/tv.txt",
             "name": "茂哥┃懒人线路"
@@ -64,12 +56,8 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "茂哥┃南风线路"
-        },   
+        },          
         {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "茂哥┃小米线路"
-         },          
-         {
             "url": "http://www.xueximeng.com/p/jsm.json",
             "name": "茂哥┃PG线路"
         },          
@@ -94,37 +82,17 @@
             "name": "茂哥┃星辰线路"
         }, 
         {
-            "url": "http://kxrj.site:55/天天开心",
-            "name": "茂哥┃开心线路"
-        }, 
-        {
             "url": "https://tv.xn--11x555b.top/svip",
             "name": "茂哥┃蜗牛线路"
         }, 
-        {
-            "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
-            "name": "茂哥┃青龙线路"
-        },
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
             "name": "茂哥┃不良帅线路"
         }, 
         {
-            "url":"http://zhangqun66.com/zq/api.json",
-            "name": "茂哥┃采集线路"
-        }, 
-        {
-            "url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/feimao/jk/raw/T4.json",
-            "name": "茂哥┃T4线路"
-        }, 
-        {
             "url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "茂哥┃高天流云"
-        },      
-        {
-            "url": "https://龙伊.top",
-            "name": "茂哥┃龙伊线路"
-        },        
+        },             
         {
             "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
             "name": "茂哥┃业余线路"
@@ -133,10 +101,6 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
             "name": "茂哥┃胜寒线路"
         },	
-        {
-            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
-            "name": "茂哥┃二哈线路"
-        },
         {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
             "name": "茂哥┃巧技线路"
@@ -154,60 +118,20 @@
             "name": "茂哥┃健康家用"
         },
         {
-            "url": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
-            "name": "茂哥┃宝盒线路"
-        },
-        {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "茂哥┃王二小"
-        },
-        {
-            "url": "https://ghp.ci/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
-            "name": "茂哥┃FongMI线路"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "茂哥┃巧计线路"
         },
         {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "茂哥┃小米"
-        },
-        {
-            "url": "https://100km.top/0",
-            "name": "茂哥┃骚 0线路"
-        },
-        {
-            "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "茂哥┃高天流云js"
-        },
-        {
-            "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "茂哥┃高天流云 XYQ"
-        },
-        {
             "url": "http://www.lyyytv.cn/yt/yt.json",
             "name": "茂哥┃影探线路"
         },
         {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "茂哥┃dxawi线路"
-        },
-        {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "茂哥┃南风"
-        },
-        {
             "url": "https://szyyds.cn/tv/x.json",
             "name": "茂哥┃小马线路"
-        },
-        {
-            "url": "https://www.wya6.cn/tv/yc.json",
-            "name": "茂哥┃无意线路"
-        },
-        {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "茂哥┃潇洒哥线路"
         }	
     ]
 }
