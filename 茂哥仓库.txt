@@ -1,14 +1,14 @@
 //此仓库接口列表为茂哥(13935092785)辛苦整理网络公开接口而成。因自用,所有接口前全部添加"茂哥",本人无意冒犯各位接口大神!
 {
     "urls": [
-       {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/茂哥.json",
-            "name": "茂哥┃茂哥线路"
-        },
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "茂哥┃饭太硬线路"
         },                                                                                                   
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "茂哥┃影探线路"
+        },
         {
             "url": "http://肥猫.com",
             "name": "茂哥┃肥猫线路"
@@ -86,10 +86,6 @@
             "name": "茂哥┃蜗牛线路"
         }, 
         {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-            "name": "茂哥┃不良帅线路"
-        }, 
-        {
             "url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "茂哥┃高天流云"
         },             
@@ -124,10 +120,6 @@
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "茂哥┃巧计线路"
-        },
-        {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "茂哥┃影探线路"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
