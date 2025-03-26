@@ -1,16 +1,8 @@
-//此仓库接口列表为茂哥(13935092785)自用,收集网络公开接口整理而成,故所有接口前全部添加"茂哥",本人无意冒犯各位接口大神!
 {
     "urls": [
+                                                                                                         
         {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "茂哥┃饭太硬线路"
-        },                                                                                                   
-        {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "茂哥┃影探线路"
-        },
-        {
-            "url": "http://肥猫.com",
+            "url": "http://ceshi.肥猫.com/PandaQ",
             "name": "茂哥┃肥猫线路"
         },   
         {
@@ -18,16 +10,28 @@
             "name": "茂哥┃欧歌线路"
         }, 
         {
-            "url": "https://weixine.net/ysc.json",
-            "name": "茂哥┃运输车路"
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "茂哥┃潇洒线路"
+        }, 
+        {
+            "url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+            "name": "茂哥┃小米线路"
         },
         {
-            "url": "http://meowtv.cn/tv",
-            "name": "茂哥┃喵影视线路"
-        },   
+            "url": "https://weixine.net/ysc.json",
+            "name": "茂哥┃运输车线路"
+        },
         {
             "url": "http://ok321.top/tv",
             "name": "茂哥┃OK线路"
+        },
+        {
+            "url": "https://盒子迷.top/禁止贩卖",
+            "name": "茂哥┃盒子迷线路"
+        },
+        {
+            "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
+            "name": "茂哥┃茄子库线路"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -58,21 +62,9 @@
             "name": "茂哥┃南风线路"
         },          
         {
-            "url": "http://www.xueximeng.com/p/jsm.json",
-            "name": "茂哥┃PG线路"
-        },          
-        {
-            "url": "http://www.fish2018.ip-ddns.com/z/FongMi.json",
-            "name": "茂哥┃真心线路"
-        },
-        {
             "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/config.bin",
             "name": "茂哥┃网盘线路"
         },
-        {
-            "url": "http://www.fish2018.ip-ddns.com/p/jsm.json",
-            "name": "茂哥┃PG线路"
-        }, 
         {
             "url": "https://毒盒.com/tv",
             "name": "茂哥┃毒盒线路"
@@ -120,6 +112,10 @@
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "茂哥┃巧计线路"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "茂哥┃影探线路"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
