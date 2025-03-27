@@ -2,7 +2,7 @@
     "urls": [
                                                                                                          
         {
-            "url": "http://www.饭太硬.net/tv",
+            "url": "http://fty.xxooo.cf/tv",
             "name": "茂哥┃饭太硬线路"
         },  
         {
@@ -18,7 +18,7 @@
             "name": "茂哥┃潇洒线路"
         }, 
         {
-            "url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+            "url": "http://miqk.cc/小米/DEMO.json",
             "name": "茂哥┃小米线路"
         },
         {
