@@ -2,7 +2,7 @@
     "urls": [
                                                                                                          
         {
-            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+            "url": "http://www.饭太硬.net/tv",
             "name": "茂哥┃饭太硬线路"
         },  
         {
