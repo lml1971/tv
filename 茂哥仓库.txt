@@ -2,13 +2,21 @@
     "urls": [
                                                                                                          
         {
-            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-            "name": "茂哥┃饭太硬线路"
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "茂哥┃小🍎接口"
         },  
+        {
+            "url": "https://10526.kstore.vip/星河.txt",
+            "name": "茂哥┃星河线路"
+        },
         {
             "url": "https://6296.kstore.vip/facat.json",
             "name": "茂哥┃肥猫线路"
         },   
+        {
+            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+            "name": "茂哥┃饭太硬线路"
+        },
         {
             "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
             "name": "茂哥┃欧歌线路"
