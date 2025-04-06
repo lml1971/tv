@@ -130,8 +130,8 @@
             "name": "茂哥┃影探线路"
         },
         {
-            "url": "https://szyyds.cn/tv/x.json",
-            "name": "茂哥┃小马线路"
+            "url": "https://tv.203511.xyz/0821.json",
+            "name": "茂哥┃小雅线路"
         }	
     ]
 }
