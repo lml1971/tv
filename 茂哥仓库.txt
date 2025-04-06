@@ -124,11 +124,7 @@
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
             "name": "茂哥┃影探线路"
-        }, 
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodspider/main/json/demo.json",
-            "name": "茂哥┃蜜蜂接口"
-        },  
+        },          
         {
             "url": "https://tv.203511.xyz/0821.json",
             "name": "茂哥┃小雅线路"
