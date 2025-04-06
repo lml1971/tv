@@ -54,8 +54,8 @@
             "name": "茂哥┃驸马线路"
         },	
         {
-            "url": "http://175.178.251.183:6689/tv.txt",
-            "name": "茂哥┃懒人线路"
+            "url": "https://tvbox.catvod.com/jsm.json",
+            "name": "茂哥┃catvod线路"
         },    
         {
             "url": "http://tvbox.王二小放牛娃.top",
