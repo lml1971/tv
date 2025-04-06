@@ -2,8 +2,8 @@
     "urls": [
                                                                                                          
         {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "茂哥┃小🍎接口"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodspider/main/json/demo.json",
+            "name": "茂哥┃蜜蜂接口"
         },  
         {
             "url": "https://10526.kstore.vip/星河.txt",
