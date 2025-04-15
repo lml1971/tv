@@ -6,7 +6,7 @@
             "name": "茂哥┃星河线路"
         },
         {
-            "url": "https://6296.kstore.vip/facat.json",
+            "url": "https://肥猫.com/",
             "name": "茂哥┃肥猫线路"
         },   
         {
