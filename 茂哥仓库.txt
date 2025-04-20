@@ -2,7 +2,7 @@
     "urls": [
                                                                                                          
        {
-            "url": "https://10526.kstore.vip/星河.txt",
+            "url": "https://10526.kstore.vip/云霄.txt",
             "name": "茂哥┃星河线路"
         },
         {
