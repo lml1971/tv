@@ -1,4 +1,5 @@
 央视频道,#genre#
+CCTV-1综合,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV-1综合,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
 CCTV-1综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-1综合,http://39.135.133.157:80/TVOD/88888888/224/3221225816/main.m3u8
@@ -33,7 +34,6 @@ CCTV-1综合,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/22
 CCTV-1综合,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
 CCTV-1综合,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-1综合,http://111.29.9.33:6610/000000001000/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=3
-CCTV-1综合,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV-1综合,http://156.253.12.5:932/tslive/IPTV.php?id=CCTV1
 CCTV-1综合,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 CCTV-1综合,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
