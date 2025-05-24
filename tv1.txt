@@ -1,3 +1,5 @@
+茂哥直播,#genre#
+13935092785,http://113.219.39.20:8887/udp/239.76.252.131:9000
 央视频道,#genre#
 CCTV-1综合,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV-1综合,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
