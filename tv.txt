@@ -1,8 +1,5 @@
 茂哥直播,#genre#
 猫咪小白,https://alimov2.a.yximgs.com/upic/2024/06/16/18/BMjAyNDA2MTYxODE0MDhfNTYzNzExMzY1XzEzNTE1NjUwMzQ5Nl8yXzM=_b_B52404d257b877c8f102333da69752072.mp4?tag=1-1748318072-sp-0-psamkjmwnz-d4a5f283138292a9&clientCacheKey=3x2m8z8ce6usd49_b.mp4&tt=b&di=9f4ba2b0&bp=12341
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-法治频道,http://115.58.217.231:60001/hls/19/index.m3u8
-美食汇,http://115.58.217.231:60001/hls/30/index.m3u8
 测试,https://cccimg.com/down.php/a2edaf1d6c0d503f8f7b0b21a3aad670.mp4
 
 央视频道,#genre#
@@ -2229,6 +2226,7 @@ TVBEntertainent,http://156.253.12.5:932/tslive/IPTV.php?id=TVB%20Entertainment
 河南新闻,http://156.253.12.5:932/tslive/IPTV.php?id=%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB
 河南电视剧,http://156.253.12.5:932/tslive/IPTV.php?id=%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7
 河南公共,http://156.253.12.5:932/tslive/IPTV.php?id=%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1
+法治频道,http://115.58.217.231:60001/hls/19/index.m3u8
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 梨园频道,http://156.253.12.5:932/tslive/IPTV.php?id=%E6%B2%B3%E5%8D%97%E6%A2%A8%E5%9B%AD
@@ -2326,6 +2324,7 @@ TVBEntertainent,http://156.253.12.5:932/tslive/IPTV.php?id=TVB%20Entertainment
 开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武术世界,http://156.253.12.5:932/tslive/IPTV.php?id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C
+美食汇,http://115.58.217.231:60001/hls/30/index.m3u8
 睛彩中原频道,http://156.253.12.5:932/tslive/IPTV.php?id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F
 新密电视台,http://156.253.12.5:932/tslive/IPTV.php?id=%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88
 杞县电视台,http://156.253.12.5:932/tslive/IPTV.php?id=%E6%9D%9E%E5%8E%BF%E7%BB%BC%E5%90%88
