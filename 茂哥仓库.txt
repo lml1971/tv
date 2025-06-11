@@ -6,7 +6,7 @@
             "name": "茂哥┃挺好分享"
         },
         {
-            "url": "https://10526.kstore.vip/星河.txt",
+            "url": "http://10526.kstore.vip/长庚.txt",
             "name": "茂哥┃星河线路"
         },
         {
@@ -151,3 +151,4 @@
         }	
     ]
 }
+
