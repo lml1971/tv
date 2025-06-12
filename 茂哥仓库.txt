@@ -15,7 +15,15 @@
         }, 
         {
             "url": "https://d.kstore.dev/download/12020/t4.json",
-            "name": "茂哥┃mysc线路"
+            "name": "茂哥┃老猫迷666线路"
+        },
+        {
+            "url": "http://xhztv.top/4k.json",
+            "name": "茂哥┃聚玩盒4k线路"
+        },
+        {
+            "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+            "name": "茂哥┃蓝天Luck（央视大全）"
         },
         {
             "url": "https://肥猫.com/",
