@@ -51,6 +51,11 @@ CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 韩国KBSLiveCaDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 法国时尚21,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 法国时尚11,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+BBC新闻,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+外12,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+不可描述,#genre#
 HOTHBOИзраиль,http://myott.top/stream/DT6QU63K5VX/381.m3u8
 HBOREIU,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
@@ -62,7 +67,6 @@ Jaanese,http://cdn.adultiptv.net/japanese.m3u8
 AstroAOD2,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 BigTits,http://live.redtraffic.xyz/bigtits.m3u8
 BigDick,http://live.redtraffic.xyz/bigdick.m3u8
-BBC新闻,http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 AsianGirls,http://live.mycamtv.com/asian.m3u8
 Blonde2,http://cdn.adultiptv.net/blonde.m3u8
 Asian1,http://live.redtraffic.xyz/asian.m3u8
@@ -87,10 +91,6 @@ TEEN,http://cdn.redtraffic.net/teen.m3u8
 RUSSIANTV,http://cdn.redtraffic.net/russian.m3u8
 OV,http://cdn.redtraffic.net/pov.m3u8
 THREESO,http://cdn.redtraffic.net/threesome.m3u8
-外12,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-
-不可描述,#genre#
 1,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 欧美版大屌1,http://live.redtraffic.xyz/rough.m3u8
 欧美版一本道3,http://live.redtraffic.xyz:80/bigass.m3u8
