@@ -3,7 +3,6 @@
 党员教育,http://iiptv.xyz/wspd.php?id=dangyuanjiaoyu$远程
 党员教育,https://12371wbndali.v.myalicdn.com/12371wbnd/dangyuanwang_2hd.m3u8
 央视频道,#genre#
-CCTV-1综合,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-1综合,http://110.180.148.5:8933/udp/239.1.1.7:8007
 CCTV-1综合,http://89922050.xyz:61201/udp/239.1.1.7:8007
 CCTV-1综合,http://www.lanyue168.cn:61201/udp/239.1.1.7:8007
@@ -82,6 +81,7 @@ CCTV-6电影,http://61.156.228.12:8154/tsfile/live/0006_1.m3u8?key=txiptv&playli
 CCTV-6电影,http://111.9.163.109:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6电影,http://fxgm.fxjf.work:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7国防军事,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-7国防军事,http://110.180.148.5:8933/udp/239.1.1.14:8014
 CCTV-7国防军事,http://lanyue168.cn:61201/udp/239.1.1.14:8014
 CCTV-7国防军事,http://dxf.us.kg:61201/udp/239.1.1.14:8014
