@@ -297,14 +297,12 @@ SiTV欢笑剧场-4k,http://lml1971.cn:35455/bst/hxjc4k@15000000.m3u8
 电影4K,http://lml1971.cn:35455/bst/dypd4k@15000000.m3u8
 少儿4K,http://lml1971.cn:35455/bst/sepd4k@15000000.m3u8
 数字频道,#genre#
-NewTV央广购物,http://lml1971.cn:35455/bst/yggwsd2d5m@2500000.m3u8
 看天下精选,http://lml1971.cn:35455/bst/ktxjx8m@8000000.m3u8
 健康养生,http://lml1971.cn:35455/bst/jkysvcc4m@4000000.m3u8
 百变课堂,http://lml1971.cn:35455/bst/bbktvcc4m@4000000.m3u8
 CHC-动作电影,http://171.125.90.241:6001/rtp/226.0.2.94:8012
 CHC-家庭影院,http://171.125.90.241:6001/rtp/226.0.2.240:9820
 CHC-高清电影,http://171.125.90.241:6001/rtp/226.0.2.93:8004
-NewTV央广购物,http://171.125.90.241:6001/rtp/226.0.2.230:9752
 聚鲨环球精选,http://171.125.90.241:6001/rtp/226.0.2.122:8888
 动漫乐园,#genre#
 北京卡酷少儿,http://lml1971.cn:35455/gptv/G_KAKU.m3u8
@@ -312,17 +310,13 @@ NewTV央广购物,http://171.125.90.241:6001/rtp/226.0.2.230:9752
 青春动漫,http://lml1971.cn:35455/bst/qcdmvcc4m@4000000.m3u8
 宝宝动画,http://lml1971.cn:35455/bst/bbdhvcc4m@4000000.m3u8
 卡酷卡通,http://lml1971.cn:35455/bst/kkkt@1300000.m3u8
-电影轮播,#genre#
+剧集频道,#genre#
 全球大片,http://lml1971.cn:35455/bst/qqdpvcc4m@4000000.m3u8
 星光影院,http://lml1971.cn:35455/bst/xgyyvcc4m@4000000.m3u8
 华语影院,http://lml1971.cn:35455/bst/hyyyvcc4m@4000000.m3u8
-剧集轮播,#genre#
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 谍战剧场,http://lml1971.cn:35455/bst/dzjcvcc4m@4000000.m3u8
 热门剧场,http://lml1971.cn:35455/bst/rmjcvcc4m@4000000.m3u8
-咪咕频道,#genre#
-咪咕4k-1,http://lml1971.cn:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕4k-2,http://lml1971.cn:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 文体频道,#genre#
 CCTV-5体育,http://lml1971.cn:35455/bst/cctv5hd@4000000.m3u8
 CCTV-5体育,http://lml1971.cn:35455/bst/cctv5hdhai@4000000.m3u8
@@ -342,6 +336,7 @@ CCTV-16奥林匹克,http://171.125.90.241:6001/rtp/226.0.2.169:9264
 戏曲精选,http://lml1971.cn:35455/bst/xqjxvcc4m@4000000.m3u8
 热门综艺,http://lml1971.cn:35455/bst/rmzyvcc4m@4000000.m3u8
 山西地区,#genre#
+山西卫视,http://lml1971.cn:35455/bst/shanxiws@1300000.m3u8
 山西卫视,http://112.80.203.154:9003/hls/42/index.m3u8
 山西卫视,http://171.125.90.241:6001/rtp/226.0.2.11:8000
 山西卫视,http://171.125.90.241:6001/rtp/226.0.2.152:9128
@@ -743,3 +738,4 @@ SiTV乐游,http://171.125.90.241:6001/rtp/226.0.2.77:8528
 韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+
