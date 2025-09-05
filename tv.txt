@@ -128,6 +128,7 @@ CGTN-俄语,https://0472.org/hls/cgtne.m3u8
 CGTN-法语,https://0472.org/hls/cgtnf.m3u8
 CGTN-西班牙语,https://0472.org/hls/cgtnx.m3u8
 CGTN-阿拉伯语,https://0472.org/hls/cgtna.m3u8
+
 卫视频道,#genre#
 广东卫视,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
@@ -204,7 +205,6 @@ CGTN-阿拉伯语,https://0472.org/hls/cgtna.m3u8
 吉林卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225916/1.m3u8
 吉林卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226019/1.m3u8
-江西卫视,http://39.164.160.249:9901/tsfile/live/0138_1.m3u8
 江西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225984/1.m3u8
 江西卫视,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
@@ -365,7 +365,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 24小时电影,https://mursor.ottiptv.cc/yy/1356051105
 三七电影V,https://mursor.ottiptv.cc/douyu/9457792
-东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 二胖影视,https://mursor.ottiptv.cc/douyu/10064260
 互换身份成龙主演电影双龙会,https://mursor.ottiptv.cc/yy/1382735625
 五分钟电影汇,https://mursor.ottiptv.cc/douyu/8443438
@@ -392,7 +391,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 大江大河高分影视推荐,https://mursor.ottiptv.cc/yy/1382736806
 大米饭影视,https://mursor.ottiptv.cc/douyu/9824094
 大荒电影,https://mursor.ottiptv.cc/douyu/3508538
-大趴电影院,https://mursor.ottiptv.cc/douyu/8747638
 天堂电影1895,https://mursor.ottiptv.cc/douyu/9573592
 寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 小儛电影嘚啵嘚,https://mursor.ottiptv.cc/douyu/8362978
@@ -416,12 +414,9 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 有部电影儿,https://mursor.ottiptv.cc/douyu/9736479
 末日系列外国电影合集,https://mursor.ottiptv.cc/yy/1354889019
 李连杰电影,http://iptv.jxpan.vip:18888/aio/huya/11342390
-林正英电影,http://iptv.jxpan.vip:18888/aio/huya/11342421
-枪战电影,http://iptv.jxpan.vip:18888/aio/huya/21059579
 欧美大片,http://iptv.jxpan.vip:18888/aio/douyu/2793084
 欧美配音电影,https://mursor.ottiptv.cc/yy/1354693629
 每日好电影V,https://mursor.ottiptv.cc/douyu/9533302
-洗冤录,http://iptv.jxpan.vip:18888/aio/huya/29465851
 洛克电影,https://mursor.ottiptv.cc/douyu/9414884
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 热血动作电影,https://mursor.ottiptv.cc/yy/1382736804
@@ -464,7 +459,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 逐梦电影,https://mursor.ottiptv.cc/douyu/4058285
 邵氏影院,http://iptv.jxpan.vip:18888/aio/douyu/4246519
 野山鹰影视剧,https://mursor.ottiptv.cc/yy/1354932395
-鉴证实录,http://iptv.jxpan.vip:18888/aio/huya/23903183
 铁血影视汇,https://mursor.ottiptv.cc/douyu/9649701
 阿苏电影,https://mursor.ottiptv.cc/douyu/9037784
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
@@ -475,7 +469,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 儿童频道,#genre#
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-动画魂,https://mursor.ottiptv.cc/douyu/9393242
 林小二动画,https://mursor.ottiptv.cc/douyu/11184164
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -520,7 +513,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
@@ -561,7 +553,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
-广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
@@ -676,7 +667,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 西和综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-西宁新闻综合,http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
@@ -713,7 +703,6 @@ NewTV哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
-巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 怒江新闻,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 文山州新闻,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
 江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
@@ -764,7 +753,6 @@ yaoyao说,https://mursor.ottiptv.cc/douyu/884073
 已知艺术家漫画解说,https://mursor.ottiptv.cc/douyu/5907076
 幕撩电影,https://mursor.ottiptv.cc/douyu/9486015
 微笑影视解说,https://mursor.ottiptv.cc/douyu/9476790
-快哥说老片,https://mursor.ottiptv.cc/douyu/10411518
 据说放映室,https://mursor.ottiptv.cc/douyu/8837964
 撩电影8,https://mursor.ottiptv.cc/douyu/9351043
 易说影视,https://mursor.ottiptv.cc/douyu/10859591
@@ -776,7 +764,6 @@ yaoyao说,https://mursor.ottiptv.cc/douyu/884073
 梓帆说电影,https://mursor.ottiptv.cc/douyu/9769563
 楚哥说电影,https://mursor.ottiptv.cc/douyu/9375743
 汪哥说电影,https://mursor.ottiptv.cc/douyu/9312685
-浩贤说电影,https://mursor.ottiptv.cc/douyu/10535867
 漫画解说,https://www.goodiptv.club/douyu/5907076
 火龙果说电影,https://mursor.ottiptv.cc/douyu/9559158
 灵佑奇谈,https://mursor.ottiptv.cc/douyu/9678207
