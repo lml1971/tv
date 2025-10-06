@@ -6,10 +6,6 @@
             "name": "茂哥┃挺好分享"
         },
         {
-            "url": "http://10526.kstore.vip/长庚.txt",
-            "name": "茂哥┃星河线路"
-        },
-        {
            "url": "https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json",
            "name": "茂哥┃七星戏曲"
         }, 
