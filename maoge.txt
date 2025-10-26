@@ -148,10 +148,22 @@
         {
             "url": "https://gitee.com/sd-live/zb/raw/master/js.json",
             "name": "茂哥┃快龙资源"
+        },
+        {
+            "url":"https://gitee.com/yiwu369/6758/raw/master/1.json",
+            "name": "🚀青龙线路"
         },         
         {
             "url": "https://tv.203511.xyz/0821.json",
             "name": "茂哥┃小雅线路"
+        }, 		
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "🚀多多线路"
+        }, 		
+        {
+            "url": "https://yydsys.netlify.app/config.json",
+            "name": "🚀多多备用"
         }	
     ]
 }
