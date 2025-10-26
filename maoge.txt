@@ -20,6 +20,10 @@
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "茂哥┃健康家用"
+        },	
+        {
+            "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+            "name": "🚀短剧线路"
         },
         {
             "url": "https://肥猫.com/",
