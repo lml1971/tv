@@ -22,6 +22,10 @@
             "name": "茂哥┃健康家用"
         },	
         {
+            "url": "https://catbox.n13.club/jk/jsm.json",
+            "name": "🚀太太太硬"
+        },	
+        {
             "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
             "name": "🚀短剧线路"
         },
