@@ -14,20 +14,20 @@
             "name": "茂哥┃医工学习日志"
         },
         {
-           "url": "https://7337.kstore.space/%E4%B8%83%E6%98%9F%E6%88%8F%E6%9B%B2/api.json",
-           "name": "茂哥┃七星戏曲"
-        },
+           "url": "https://7337.kstore.vip/tw.json",
+           "name": "茂哥┃科技天微"
+        },	
         {
-            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-            "name": "茂哥┃健康家用"
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "茂哥┃俊佬线路"
         },	
         {
             "url": "https://catbox.n13.club/jk/jsm.json",
-            "name": "🚀太太太硬"
+            "name": "茂哥┃太太太硬"
         },	
         {
             "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
-            "name": "🚀短剧线路"
+            "name": "茂哥┃短剧线路"
         },
         {
             "url": "https://肥猫.com/",
@@ -50,7 +50,7 @@
             "name": "茂哥┃饭太硬线路"
         },
         {
-            "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+            "url": "http://tv.nxog.top/m/",
             "name": "茂哥┃欧歌线路"
         },
         {
@@ -100,6 +100,10 @@
         {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "茂哥┃王二小线路"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "茂哥┃小虎斑线路"
         },
         {
             "url": "http://tv.laohu.cool/tvbox.json",
@@ -159,19 +163,27 @@
         },
         {
             "url":"https://gitee.com/yiwu369/6758/raw/master/1.json",
-            "name": "🚀青龙线路"
+            "name": "茂哥┃青龙线路"
         },         
         {
             "url": "https://tv.203511.xyz/0821.json",
             "name": "茂哥┃小雅线路"
+        },
+        {
+            "url": "https://7337.kstore.vip/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
+            "name": "茂哥┃七星影仓"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "茂哥┃健康家用"
         }, 		
         {
             "url": "https://yydsys.top/duo",
-            "name": "🚀多多线路"
+            "name": "茂哥┃多多线路"
         }, 		
         {
             "url": "https://yydsys.netlify.app/config.json",
-            "name": "🚀多多备用"
+            "name": "茂哥┃多多备用"
         }	
     ]
 }
