@@ -4,10 +4,6 @@
        {
             "url": "https://zthaa.top/thzx/th.json",
             "name": "茂哥┃挺好分享"
-        }, 
-        {
-            "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "茂哥┃潇洒线路"
         },
          {
             "url": "https://tv.203511.xyz/0821.json",
@@ -184,6 +180,10 @@
         {
             "url": "https://yydsys.netlify.app/config.json",
             "name": "茂哥┃多多备用"
+        }, 
+        {
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "茂哥┃潇洒线路"
         }	
     ]
 }
