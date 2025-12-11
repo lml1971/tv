@@ -155,7 +155,6 @@ NewTV武博世界_4M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/bokese
 NewTV炫舞未来_4M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=m
 NewTV怡伴健康_4M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=m
 NewTV中国功夫_4M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=m
-
 SiTV上海移动IPV6,#genre#
 SiTV东方财经_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=m
 SiTV动漫秀场_4M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=m
@@ -186,9 +185,7 @@ SiTV游戏风云_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000
 爱悬疑_7.2M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000050630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=m
 爱幼教_7.2M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=m
 爱院线_7.2M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=m
-
 卫视上海移动IPV6,#genre#
-
 安徽卫视_4M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000001000027288/1.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=m
 安徽卫视_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000023002/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=m
 安徽卫视_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/6000000001000009954/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=m
@@ -304,7 +301,6 @@ SiTV游戏风云_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000
 江西卫视_4M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=m
 江西卫视_5.5M1080HEVC,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000005000265032/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=m
 江西卫视_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=m
-
 睛彩广场舞_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
 睛彩广场舞_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000006000270008/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270008&livemode=1&stbId=m
 睛彩广场舞(水印)_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/3000000020000011524/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
@@ -519,7 +515,6 @@ Hot亚洲影院_2.5M720,http://[2409:8087:1e01:23::10]:8112/000000001000/5841816
 浙江教科影视_1.8M576,http://[2409:8087:1e01:23::10]:8112/000000001000/6168413979419290568/1.m3u8?channel-id=wasusyt&Contentid=6168413979419290568&livemode=1&stbId=m
 浙江卫视_2.5M720,http://[2409:8087:1e01:23::10]:8112/000000001000/8717793494045622160/1.m3u8?channel-id=wasusyt&Contentid=8717793494045622160&livemode=1&stbId=m
 重庆卫视_2.5M720,http://[2409:8087:1e01:23::10]:8112/000000001000/8403513971272460267/1.m3u8?channel-id=wasusyt&Contentid=8403513971272460267&livemode=1&stbId=m
-
 4KUHD_20M2160,http://[2409:8087:1e01:23::10]:8112/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=m
 BesTV百变课堂_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288001&livemode=1&stbId=m
 BesTV宝宝动画_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288002/1.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=m
@@ -534,7 +529,6 @@ BesTV热门剧场_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/500000
 BesTV热门综艺_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288011/1.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=m
 BesTV戏曲精选_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288012/1.m3u8?channel-id=bestzb&Contentid=5000000011000288012&livemode=1&stbId=m
 BesTV星光影院_8M1080,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000288013/1.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=m
-
 上海移动-央视,#genre#
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -568,7 +562,6 @@ CETV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 CETV4[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 CETV4[768*576],https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 CGTN[768*576],https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
-
 上海移动-地方,#genre#
 江苏卫视[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 黑龙江卫视[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
@@ -637,7 +630,6 @@ CGTN[768*576],https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 睛彩竞技[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场舞[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-
 央视频道,#genre#
 CCTV-1综合,http://112.254.55.106:22222/udp/239.253.254.77:8000
 CCTV-1综合,http://115.171.216.39:4000/rtp/225.1.8.1:8008
@@ -963,7 +955,6 @@ CGTN-外语纪录,http://144.255.32.94:8288/rtp/239.21.2.31:5002
 CGTN-阿拉伯语,http://144.255.32.94:8288/rtp/239.21.2.34:5002
 CCTV-中国天气,http://116.237.37.244:8888/udp/239.45.3.141:5140
 CCTV-中国天气,http://223.10.81.146:8888/rtp/239.1.1.107:8107
-
 卫视频道,#genre#
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
 凤凰中文,http://223.10.164.178:8459/rtp/239.1.1.126:8126
@@ -1352,7 +1343,6 @@ CCTV-中国天气,http://223.10.81.146:8888/rtp/239.1.1.107:8107
 内蒙古卫视,http://125.80.157.49:7788/rtp/235.254.198.42:1444
 内蒙古卫视,http://114.100.195.213:4022/rtp/238.1.78.103:6696
 内蒙古卫视,http://182.123.208.170:12345/rtp/225.1.4.45:1074
-
 数字频道,#genre#
 CHC-动作电影,http://112.254.55.106:22222/udp/239.253.254.153:8000
 CHC-动作电影,http://171.83.103.119:9999/rtp/239.69.1.242:11094
@@ -1423,20 +1413,13 @@ NewTV睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B
 湖南快乐垂钓频道,http://116.237.37.244:8888/udp/239.45.3.12:5140
 湖南快乐垂钓频道,http://223.10.81.146:8888/rtp/239.1.1.86:8086
 湖南快乐垂钓频道,http://114.100.195.213:4022/rtp/238.1.79.31:4360
-
-
 高清频道,#genre#
 华数4K,http://125.80.157.49:7788/rtp/235.254.198.102:7980
 华数4K,http://125.80.158.137:7788/rtp/235.254.198.102:7980
-CCTV-4K,http://144.255.32.94:8288/rtp/239.21.2.152:5002
-CCTV-4K,http://114.100.195.213:4022/rtp/238.1.78.137:6968
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 峨眉电影4k,http://60.255.72.119:4022//udp/239.132.1.87:5000
 北京卫视4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
 浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-广东卫视4K,http://144.255.32.94:8288/rtp/239.21.2.173:5002
-北京卫视4K,http://144.255.32.94:8288/rtp/239.21.2.172:5002
-深圳卫视4K,http://144.255.32.94:8288/rtp/239.21.2.174:5002
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 4k travel,https://stream1.freetv.fun/4k-travel-2.m3u8
 俄4ka,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
@@ -1446,7 +1429,6 @@ EroLuxe 4k-1,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/98452/h
 4K Travel,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 EroLuxe 4k-2,http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/98462/hls/pl.m3u8
 深圳卫视4K,https://migu.188766.xyz/?migutoken=aee62f182139c84321695d811e2537db&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-
 动漫乐园,#genre#
 北京卡酷少儿,http://115.171.216.39:4000/rtp/225.1.8.35:8000
 北京卡酷少儿,http://171.83.103.119:9999/rtp/239.69.1.193:10800
@@ -1467,7 +1449,6 @@ EroLuxe 4k-2,http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/98462/h
 湖南金鹰卡通,http://125.80.158.137:7788/rtp/235.254.198.50:1476
 湖南金鹰卡通,http://114.100.195.213:4022/rtp/238.1.78.100:6672
 江苏优漫卡通,http://223.10.81.146:8888/rtp/239.1.1.72:8072
-
 香港地区,#genre#
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
@@ -1518,7 +1499,6 @@ AstroQJ,http://php.jdshipin.com/smt.php?id=Quanjia
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 卫视电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-
 台湾地区,#genre#
 靖天电影台,http://141.11.87.241:20013/4gtv-4gtv061/index.m3u8?proxy=true
 中天新闻,http://141.11.87.241:20013/4gtv-4gtv009/index.m3u8?proxy=true
@@ -1562,17 +1542,14 @@ ELTA娱乐,http://141.11.87.241:20013/4gtv-4gtv070/index.m3u8?proxy=true
 东森亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 龙华洋片台,http://cdn8.163189.xyz/163189/lhyp
 唯心衛視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-
 澳门地区,#genre#
 莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
-
 广东地区,#genre#
 广东珠江,http://r.jdshipin.com/sE5vO
 广东体育,http://r.jdshipin.com/LiYdg
 广州综合,http://r.jdshipin.com/iR6Gq
 广州南国都市,http://r.jdshipin.com/nWaZO
 广州综合,http://r.jdshipin.com/snhya
-
 山西地区,#genre#
 山西卫视高清,http://223.10.164.178:8459/rtp/239.1.1.1:8001
 黄河电视台高清,http://223.10.164.178:8459/rtp/239.1.1.2:8002
@@ -1585,7 +1562,6 @@ ELTA娱乐,http://141.11.87.241:20013/4gtv-4gtv070/index.m3u8?proxy=true
 运城1台高清,http://223.10.164.178:8459/rtp/239.1.1.123:8123
 运城2台高清,http://223.10.164.178:8459/rtp/239.1.1.124:8124
 盐湖频道高清,http://223.10.164.178:8459/rtp/239.1.1.125:8125
-
 电影轮播,#genre#
 刘德华,http://cfss.cc/cdn/hy/11342424.m3u8
 李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
@@ -1830,7 +1806,6 @@ SAO东西又再说SAO话,https://www.goodiptv.club/douyu/8833450
 昵称违规-QQFbxw1A,https://www.goodiptv.club/huya/11352958
 胖次过肩摔,https://www.goodiptv.club/huya/11352903
 小猪猪,https://www.goodiptv.club/huya/11342416
-动漫乐园,#genre#
 血小板呐呐,https://www.goodiptv.club/douyu/4285043
 天才霸总的狐崽崽,https://www.goodiptv.club/douyu/10394922
 是小x同学呀,https://www.goodiptv.club/douyu/9415020
