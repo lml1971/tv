@@ -2,7 +2,7 @@
     "urls": [
                                                                                                          
        {
-            "url": "https://zthaa.top/thzx/th.json",
+            "url": "https://ztha.top/TVBox/thzx/th.json",
             "name": "茂哥┃挺好分享"
         },
          {
