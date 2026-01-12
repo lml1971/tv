@@ -19,14 +19,13 @@
       "ext": {}
     },
     {
-        "key": "hipy_js_暖光影视",
-        "name": "🐬暖光影视",
-         "type": 3,
-         "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
-         "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
+      "key": "hipy_js_暖光影视",
+      "name": "🐬暖光影视",
+      "type": 3,
+      "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
     },
     {
       "key": "Ddrk",
