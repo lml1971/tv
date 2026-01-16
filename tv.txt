@@ -2,207 +2,132 @@
 CCTV-1综合,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2财经,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3综艺,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-4中文国际,http://23.237.228.134/live5/CCTV4.m3u8
 CCTV-5体育,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-5⁺体育赛事,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-6电影,http://23.237.228.134/live5/CCTV6.m3u8
 CCTV-7国防军事,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-8电视剧,http://23.237.228.134/live5/CCTV8.m3u8
 CCTV-9纪录,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-10科教,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV-11戏曲,http://23.237.228.134/live3/CCTV11.m3u8
 CCTV-12社会与法,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV-13新闻,http://23.237.228.134/live3/CCTV13.m3u8
 CCTV-15音乐,http://23.237.228.134/live3/CCTV15.m3u8
 CCTV-17农业农村,http://23.237.228.134/live3/CCTV17.m3u8
-CCTV-1综合,http://keke.kandiantv.cn/migu720p.php?id=608807420
 CCTV-1综合,http://sun135790.x3322.net:9901/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-1综合,http://tvlist.top/jd/index.php?id=cctv1&qt=183.224.122.114:8014
 CCTV-1综合,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8
-CCTV-1综合,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
-CCTV-1综合,http://hczn.x3322.net:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1综合,http://tvlist.top/jd/index.php?id=cctv1&qt=61.51.81.78:8014
-CCTV-1综合,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-1综合,http://tvlist.top/jd/index.php?id=cctv1&qt=118.212.78.251:8014
 CCTV-1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-CCTV-1综合,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 CCTV-1综合,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2财经,http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2财经,http://222.214.208.34:59901/tsfile/live/0002_1.m3u8
-CCTV-2财经,http://59.173.123.31:8989/rtp/239.69.1.102:10250
 CCTV-2财经,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2财经,http://keke.kandiantv.cn/migu720p.php?id=631780532
-CCTV-2财经,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8
-CCTV-2财经,http://sun135790.x3322.net:9901/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2财经,http://27.41.245.32:801/hls/2/index.m3u8
-CCTV-2财经,https://iptv.catvod.com/live.php?id=CCTV-2
-CCTV-2财经,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2财经,http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 CCTV-2财经,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-2财经,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-3综艺,http://117.36.76.86:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3综艺,http://keke.kandiantv.cn/migu720p.php?id=624878271
 CCTV-3综艺,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-CCTV-3综艺,http://sh.lnott.top:880/dx03.m3u8
-CCTV-3综艺,http://hczn.x3322.net:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3综艺,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
-CCTV-3综艺,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-3综艺,http://hczn.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3综艺,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-CCTV-4中文国际,http://keke.kandiantv.cn/migu720p.php?id=631780421
 CCTV-4中文国际,http://btjg.net:809/hls/144/index.m3u8
-CCTV-4中文国际,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8
-CCTV-4中文国际美洲,http://keke.kandiantv.cn/migu720p.php?id=608807416
-CCTV-4中文国际欧洲,http://keke.kandiantv.cn/migu720p.php?id=608807419
 CCTV-4中文国际欧洲,http://btjg.net:809/hls/143/index.m3u8
 CCTV-4中文国际美洲,http://dsl1.oni2023.uk:8888/udp/239.253.43.121:5146
 CCTV-4中文国际,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4中文国际,http://111.221.137.234:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4中文国际,http://sun135790.x3322.net:9901/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5体育,http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5体育,http://keke.kandiantv.cn/migu720p.php?id=641886683
 CCTV-5体育,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5体育,http://27.41.245.32:801/hls/5/index.m3u8
 CCTV-5体育,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5体育,http://btjg.net:809/hls/5/index.m3u8
 CCTV-5体育,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV-5体育,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-5体育,http://hczn.x3322.net:9902/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5体育,http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
-CCTV-5体育,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8
 CCTV-5体育,http://tvlist.top/jd/index.php?id=cctv5&qt=tkmark.direct.quickconnect.to:8014
 CCTV-5⁺体育赛事,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
-CCTV-5⁺体育赛事,http://keke.kandiantv.cn/migu720p.php?id=641886773
-CCTV-5⁺体育赛事,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5⁺体育赛事,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8
 CCTV-5⁺体育赛事,http://btjg.net:809/hls/17/index.m3u8
 CCTV-5⁺体育赛事,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6电影,http://112.27.235.94:8000/hls/7/index.m3u8
-CCTV-6电影,http://keke.kandiantv.cn/migu720p.php?id=624878396
-CCTV-6电影,http://sh.lnott.top:880/dx06.m3u8
 CCTV-6电影,http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
 CCTV-6电影,http://gfr.x3322.net:9901/tsfile/live/1071_1.m3u8
 CCTV-6电影,http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-6电影,http://27.41.245.32:801/hls/6/index.m3u8
-CCTV-6电影,https://iptv.catvod.com/live.php?id=CCTV-6
 CCTV-6电影,http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
-CCTV-6电影,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV-6电影,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV-6电影,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-6电影,http://183.57.249.119:8183/tsfile/live/0006_1.m3u8
 CCTV-7国防军事,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
-CCTV-7国防军事,http://keke.kandiantv.cn/migu720p.php?id=673168121
 CCTV-7国防军事,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
 CCTV-7国防军事,http://112.27.235.94:8000/hls/8/index.m3u8
 CCTV-7国防军事,http://27.41.245.32:801/hls/7/index.m3u8
-CCTV-7国防军事,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
 CCTV-7国防军事,http://tvlist.top/jd/index.php?id=cctv7&qt=118.212.78.251:8014
-CCTV-7国防军事,https://iptv.catvod.com/live.php?id=CCTV-7
-CCTV-7国防军事,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-7国防军事,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-CCTV-7国防军事,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-7国防军事,http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
 CCTV-7国防军事,http://sun135790.x3322.net:9901/tsfile/live/16014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8电视剧,http://sun135790.x3322.net:9901/tsfile/live/16015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8电视剧,http://117.36.76.86:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8电视剧,http://keke.kandiantv.cn/migu720p.php?id=624878356
 CCTV-8电视剧,http://27.41.245.32:801/hls/8/index.m3u8
 CCTV-8电视剧,http://btjg.net:809/hls/8/index.m3u8
-CCTV-8电视剧,http://tvlist.top/jd/index.php?id=cctv8&qt=tkmark.direct.quickconnect.to:8014
 CCTV-8电视剧,http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8电视剧,http://hczn.x3322.net:9902/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8电视剧,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8
-CCTV-8电视剧,http://23.237.228.134/live5/CCTV8.m3u8
 CCTV-8电视剧,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-8电视剧,http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009
-CCTV-9纪录,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8
 CCTV-9纪录,http://111.221.137.234:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9纪录,http://btjg.net:809/hls/9/index.m3u8
-CCTV-9纪录,http://keke.kandiantv.cn/migu720p.php?id=673168140
 CCTV-9纪录,http://27.41.245.32:801/hls/9/index.m3u8
 CCTV-9纪录,http://tvlist.top/jd/index.php?id=cctv9&qt=118.212.78.251:8014
-CCTV-9纪录,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
-CCTV-9纪录,http://23.237.228.134/live5/CCTV9.m3u8
-CCTV-10科教,http://keke.kandiantv.cn/migu720p.php?id=624878405
 CCTV-10科教,http://111.221.137.234:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10科教,http://27.41.245.32:801/hls/10/index.m3u8
 CCTV-10科教,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
 CCTV-10科教,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-CCTV-10科教,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8
-CCTV-10科教,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
-CCTV-10科教,http://tvlist.top/jd/index.php?id=cctv10&qt=118.212.78.251:8014
 CCTV-10科教,http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009
 CCTV-10科教,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-CCTV-10科教,http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
 CCTV-11戏曲,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV-11戏曲,http://sun135790.x3322.net:9901/tsfile/live/16018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11戏曲,http://keke.kandiantv.cn/migu720p.php?id=667987558
 CCTV-11戏曲,http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV-11戏曲,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMS5tM3U4
 CCTV-11戏曲,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-CCTV-12社会与法,http://keke.kandiantv.cn/migu720p.php?id=673168185
 CCTV-12社会与法,http://222.169.85.8:9901/tsfile/live/0012_1.m3u8
-CCTV-12社会与法,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv
 CCTV-12社会与法,http://111.221.137.234:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-12社会与法,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8
 CCTV-12社会与法,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13新闻,http://sun135790.x3322.net:9901/tsfile/live/16020_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13新闻,http://111.221.137.234:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13新闻,http://keke.kandiantv.cn/migu720p.php?id=608807423
 CCTV-13新闻,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13新闻,http://btjg.net:809/hls/13/index.m3u8
-CCTV-13新闻,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV-13新闻,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13新闻,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14少儿,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV-14少儿,http://111.221.137.234:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14少儿,http://keke.kandiantv.cn/migu720p.php?id=624878440
 CCTV-14少儿,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14少儿,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
 CCTV-14少儿,http://27.41.245.32:801/hls/14/index.m3u8
 CCTV-14少儿,http://sun135790.x3322.net:9901/tsfile/live/16021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14少儿,http://23.237.228.134/live3/CCTV14.m3u8
-CCTV-14少儿,https://iptv.catvod.com/live.php?id=CCTV-14
 CCTV-14少儿,http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
 CCTV-14少儿,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14少儿,http://69.30.246.194/live/cctv14.m3u8
 CCTV-14少儿,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 CCTV-15音乐,http://111.221.137.234:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-15音乐,http://keke.kandiantv.cn/migu720p.php?id=673168223
 CCTV-15音乐,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
 CCTV-15音乐,http://btjg.net:809/hls/15/index.m3u8
 CCTV-15音乐,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-15音乐,http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
 CCTV-15音乐,http://69.30.246.194/live/cctv15.m3u8
-CCTV-15音乐,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-15音乐,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV-16奥林匹克,http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
-CCTV-16奥林匹克,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 CCTV-16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV-17农业农村,http://keke.kandiantv.cn/migu720p.php?id=673168256
 CCTV-17农业农村,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17农业农村,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-CCTV-17农业农村,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNy5tM3U4
-CCTV-17农业农村,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
-CCTV-17农业农村,http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
 CGTN-新闻,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN-新闻,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CETV-中国教育4,http://btjg.net:809/hls/107/index.m3u8
 CETV-中国教育4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CGTN-外语纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN-法语,https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN-阿拉伯语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN-俄语,https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-CCTV-中学生,http://keke.kandiantv.cn/migu720p.php?id=708869532
-CETV-中国教育1,http://keke.kandiantv.cn/migu720p.php?id=923287154
 CGTN-西班牙语,https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CETV-中国教育2,http://keke.kandiantv.cn/migu720p.php?id=923287211
 CGTN-法语,http://btjg.net:809/hls/147/index.m3u8
-CETV-中国教育4,http://keke.kandiantv.cn/migu720p.php?id=923287339
 CCTV-第一剧场,http://iptv.4666888.xyz/iptv2A.php?id=13
 CCTV-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 CCTV-风云足球,http://27.41.245.32:801/hls/906/index.m3u8
@@ -211,15 +136,12 @@ CGTN-阿拉伯语,http://btjg.net:809/hls/148/index.m3u8
 CGTN-外语纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN-西班牙语,https://0472.org/hls/cgtnx.m3u8
 CGTN-法语,https://0472.org/hls/cgtnf.m3u8
-CGTN-俄语,https://0472.org/hls/cgtne.m3u8
 CCTV-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-CCTV-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+
 卫视频道,#genre#
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 湖北卫视,http://111.221.137.234:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
@@ -241,60 +163,40 @@ CCTV-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://sun135790.x3322.net:9901/tsfile/live/16035_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8
 山东教育卫视,http://btjg.net:809/hls/120/index.m3u8
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
-辽宁卫视,http://keke.kandiantv.cn/migu720p.php?id=630291707
-江西卫视,http://keke.kandiantv.cn/migu720p.php?id=783847495
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 海南卫视,http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://keke.kandiantv.cn/migu720p.php?id=738910838
 江苏卫视,http://sun135790.x3322.net:9901/tsfile/live/16029_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://222.214.208.34:59901/tsfile/live/0130_1.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-江苏卫视,http://keke.kandiantv.cn/migu720p.php?id=623899368
 四川卫视,http://btjg.net:809/hls/48/index.m3u8
 江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-东方卫视,http://keke.kandiantv.cn/migu720p.php?id=651632648
-四川卫视,http://sh.lnott.top:880/dx45.m3u8
 山东卫视,http://tvlist.top/jd/index.php?id=sdws&qt=183.224.122.114:8014
-安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
-山东教育卫视,http://keke.kandiantv.cn/migu720p.php?id=609154353
 山东教育卫视,http://btjg.net:809/hls/112/index.m3u8
-海南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 青海卫视,http://tvlist.top/jd/index.php?id=qhws&qt=183.224.122.114:8014
-兵团卫视,http://keke.kandiantv.cn/migu720p.php?id=956923145
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 吉林卫视,http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
 四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=03
 重庆卫视,http://sun135790.x3322.net:9901/tsfile/live/16041_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8
-内蒙古卫视,http://tvlist.top/jd/index.php?id=neimenggu&qt=183.224.122.114:8014
 北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
 山西卫视,http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
 山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-贵州卫视,http://tvlist.top/jd/index.php?id=gzws&qt=183.224.122.114:8014
-农林卫视,http://keke.kandiantv.cn/migu720p.php?id=956904896
 广东卫视,http://sun135790.x3322.net:9901/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://sun135790.x3322.net:9901/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://keke.kandiantv.cn/migu720p.php?id=947472496
 湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
 东方卫视,http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
 浙江卫视,https://www.wmviv.com/iptv/bc2t.php?id=zjws
 辽宁卫视,http://sun135790.x3322.net:9901/tsfile/live/16032_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://sun135790.x3322.net:9901/tsfile/live/16043_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 河北卫视,http://sun135790.x3322.net:9901/tsfile/live/16037_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://sun135790.x3322.net:9901/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://59.173.123.31:8989/rtp/239.254.96.143:8932
 湖南卫视,http://btjg.net:809/hls/47/index.m3u8
-湖南卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=hunws4k
 山东卫视,http://btjg.net:809/hls/37/index.m3u8
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 天津卫视,http://btjg.net:809/hls/46/index.m3u8
@@ -305,21 +207,18 @@ CCTV-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 湖北卫视,http://btjg.net:809/hls/31/index.m3u8
 辽宁卫视,http://111.221.137.234:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,http://111.221.137.234:44330/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视4K,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 四川卫视,http://sun135790.x3322.net:9901/tsfile/live/16040_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://sun135790.x3322.net:9901/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://sun135790.x3322.net:9901/tsfile/live/16046_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,https://www.wmviv.com/iptv/bc2t.php?id=fhzw
 浙江卫视,http://111.221.137.234:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=zjws4k
 北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=118.212.78.251:8014
 深圳卫视,http://111.221.137.234:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://tvlist.top/jd/index.php?id=dnws&qt=118.212.78.251:8014
 东方卫视,http://111.221.137.234:44330/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://btjg.net:809/hls/34/index.m3u8
-大湾区卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.215:5146
 四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育卫视,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 重庆卫视,http://btjg.net:809/hls/54/index.m3u8
@@ -328,7 +227,6 @@ CCTV-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 浙江卫视,http://btjg.net:809/hls/29/index.m3u8
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
 陕西卫视,http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
 凤凰香港,https://www.wmviv.com/iptv/bc2t.php?id=fhhk
 安徽卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMjAvaW5kZXgubTN1OA==
 广东卫视,http://btjg.net:809/hls/32/index.m3u8
@@ -337,49 +235,32 @@ CCTV-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 东方卫视,http://tvlist.top/jd/index.php?id=dfws&qt=118.212.78.251:8014
 东方卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=dfws4k
 三沙卫视,https://www.wmviv.com/iptv/bc2t.php?id=ssws
-吉林卫视,http://tvlist.top/jd/index.php?id=jlws&qt=118.212.78.251:8014
 山东卫视,http://tvlist.top/jd/index.php?id=sdws&qt=118.212.78.251:8014
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-深圳卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.254:4056
 河北卫视,http://btjg.net:809/hls/45/index.m3u8
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-黑龙江卫视,http://tvlist.top/jd/index.php?id=hljws&qt=118.212.78.251:8014
 凤凰资讯,https://www.wmviv.com/iptv/bc2t.php?id=fhzx
-北京卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.226:4056
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://tvlist.top/jd/index.php?id=live1053&qt=tkmark.direct.quickconnect.to:8014
 四川卫视,http://tvlist.top/jd/index.php?id=scws&qt=118.212.78.251:8014
 深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-北京卫视,http://tvlist.top/jd/index.php?id=live1023&qt=tkmark.direct.quickconnect.to:8014
-广东卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.252:4056
-广东卫视,http://218.17.33.178:53290/tsfile/live/0125_1.m3u8
 湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
 安徽卫视,http://btjg.net:809/hls/42/index.m3u8
-江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
 湖南卫视,http://sun135790.x3322.net:9901/tsfile/live/16026_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
-湖南卫视,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8
 江苏卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTkvaW5kZXgubTN1OA==
 浙江卫视,https://www.wmviv.com/iptv/bc2t.php?id=zjws&line=2
 河南卫视,http://183.222.242.31:8088/hls/35/index.m3u8
 甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
 山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-湖北卫视,http://tvlist.top/jd/index.php?id=hbws&qt=118.212.78.251:8014
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 重庆卫视,http://tvlist.top/jd/index.php?id=live1041&qt=tkmark.direct.quickconnect.to:8014
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 湖北卫视,http://sun135790.x3322.net:9901/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://23.237.228.134/live8/shandong.m3u8
-黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
@@ -388,31 +269,20 @@ CCTV-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-黑龙江卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDUvaW5kZXgubTN1OA==
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
 江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-湖北卫视,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://23.237.228.134/live6/henan.m3u8
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv
-甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
-天津卫视,http://tvlist.top/jd/index.php?id=tjws&qt=183.224.122.114:8014
-黑龙江卫视,http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
-辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
-东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=118.212.78.251:8014
 辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
 云南卫视,http://111.221.137.234:44330/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://183.57.249.119:8183/tsfile/live/1007_1.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
 凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
@@ -420,56 +290,45 @@ CCTV-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-江西卫视,http://tvlist.top/jd/index.php?id=jxws&qt=118.212.78.251:8014
-广东卫视,http://idc.zymok.cn:10000/udp/239.77.0.84:5146
-湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
 广东卫视,http://119.135.192.194:10000/udp/239.77.0.84:5146
 大湾区卫视,http://hello.ejoydom.com:9999/udp/239.77.0.215:5146
 大湾区卫视,http://119.135.192.194:10000/udp/239.77.0.215:5146
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 东南卫视,http://23.237.228.134/live6/dongnan.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqca/hnwshd.m3u8?auth=test20251009
 浙江卫视,http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
-天津卫视,http://sh.lnott.top:880/dx30.m3u8
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
-甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8
-四川卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNDcvaW5kZXgubTN1OA==
-辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 江苏卫视,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
-重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqca/jswshd.m3u8?auth=test20251009
+
 高清频道,#genre#
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+湖南卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=hunws4k
+浙江卫视4K,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
+浙江卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=zjws4k
+深圳卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.254:4056
+北京卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.226:4056
+广东卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.252:4056
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 华数4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.123:4056
-北京IPTV-4K高清,http://otangtang.com:38848/udp/239.3.1.249:8001
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+苏州4k,https://www.wmviv.com/iptv/bc2t.php?id=sz4k
+
 数字频道,#genre#
-CHC-华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 CHC-影迷电影,http://58.245.255.38:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC-家庭影院,http://113.195.172.192:808/hls/111/index.m3u8
-新片放映厅,http://keke.kandiantv.cn/migu720p.php?id=619495952
-CHC-影迷电影,http://keke.kandiantv.cn/migu720p.php?id=952383261
-体坛名栏汇,http://keke.kandiantv.cn/migu720p.php?id=629943305
-经典香港电影,http://keke.kandiantv.cn/migu720p.php?id=625703337
 CHC-动作电影,http://58.245.255.38:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-大片,http://keke.kandiantv.cn/migu720p.php?id=629943678
-赛事最经典,http://keke.kandiantv.cn/migu720p.php?id=646596895
 CHC-家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC-动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC-影迷电影,http://113.195.172.192:808/hls/110/index.m3u8
-CHC-动作电影,http://113.195.172.192:808/hls/112/index.m3u8
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 CHC-影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC-影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
-CHC-家庭影院,http://yp.qqqtv.top/1/api.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&auth=666858
-咪咕24小时体育,http://keke.kandiantv.cn/migu720p.php?id=654102378
-熊猫频道1,http://keke.kandiantv.cn/migu720p.php?id=609158151
-新动力量创一流,http://keke.kandiantv.cn/migu720p.php?id=713589837
-和美乡途轮播台,http://keke.kandiantv.cn/migu720p.php?id=713591450
-抗战经典影片,http://keke.kandiantv.cn/migu720p.php?id=617432318
+
 轮播影视,#genre#
 周润发,http://222.186.39.38:8000/587078/index.m3u8
 周星驰,http://live.nctv.top/huya.php?id=11342412
@@ -478,28 +337,20 @@ CHC-家庭影院,http://yp.qqqtv.top/1/api.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1
 成龙,http://live.nctv.top/huya.php?id=11342386
 重温经典,http://111.221.137.234:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 重温经典,http://8.138.7.223/tv/cwjd.php
-封神榜,http://cfss.cc/cdn/hy/23749096.m3u8
 仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
 楚汉骄雄,http://live.iill.top/huya.php?id=23740156
-铁齿铜牙纪晓岚,http://live.metshop.top/huya/11342396
 重温经典,http://69.30.246.194/live/cwjd.m3u8
 鬼吹灯之怒晴湘西,http://live.metshop.top/huya/11602075
-楚汉骄雄,https://live.iill.top/huya.php?id=23740156
-庆余年,https://live.iill.top/huya/11352960
 神雕侠侣,http://live.metshop.top/huya/11352964
 爱情公寓,http://live.metshop.top/huya/11336726
-庆余年,http://live.iill.top/huya.php?id=11352960
-笑傲江湖,https://live.iill.top/huya/23865142
 重温经典,http://111.198.37.28:4400/udp/239.3.1.25:8001
 重温经典,http://otangtang.com:38848/udp/239.3.1.25:8001
-铁齿铜牙纪晓岚,http://live.iill.top/huya.php?id=11342396
 铁齿铜牙纪晓岚,https://live.iill.top/huya/11342396
 新水浒传,http://live.metshop.top/huya/11342384
 铁齿铜牙纪晓岚,https://live.iill.top/huya.php?id=11342396
-经典动画大集,http://keke.kandiantv.cn/migu720p.php?id=629942219
+
 🇭🇰香港地区,#genre#
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 TVB无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 华文电视台1,http://oh.eztv.vip/live/eztv1.m3u8
 TVB千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
@@ -509,7 +360,6 @@ TVB明珠台,http://hls.168.us.kg/u/84/master.m3u8
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠台,http://bxtv.3a.ink/api.php?id=mz
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
-TVB无线新闻台,http://bxtv.3a.ink/api.php?id=wxxw
 NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 TVB无线新闻台,http://rihou.cc:555/tv/[Mt]无线新闻
 美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
@@ -521,22 +371,20 @@ NOW直播台,http://rihou.cc:555/tv/[Mt]Now直播
 TVBlus,http://hls.168.us.kg/u/82/master.m3u8
 翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-TVBlus,http://bxtv.3a.ink/api.php?id=tvbp
-翡翠台,http://r.jdshipin.com/n90gt
 TVB明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 TVB无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 NOW财经台,http://rihou.cc:555/tv/[Mt]Now财经
 ViuTV,https://yang-1989.eu.org/live/ViuTV
+
 澳门地区,#genre#
 澳门资讯台,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+
 台湾地区,#genre#
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 东森电影台,http://183.57.249.119:8183/tsfile/live/1013_1.m3u8
 国会频道2,http://nmk.ioapk.com:5050/li-4gtv-4gtv085/index.m3u8?proxy=true
 中视菁采台,http://nmk.ioapk.com:5050/li-4gtv-4gtv064/index.m3u8?proxy=true
@@ -547,26 +395,15 @@ TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 寰宇新闻,http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
 台视,rtmp://f13h.mine.nu/sat/tv071
-GlobalTrekker,http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8?proxy=true
 公视戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
-靖天欢乐,http://nmk.ioapk.com:5050/4gtv-4gtv054/index.m3u8?proxy=true
 靖天卡通台,http://nmk.ioapk.com:5050/li-4gtv-4gtv044/index.m3u8?proxy=true
-靖天综合,http://nmk.ioapk.com:5050/4gtv-4gtv046/index.m3u8?proxy=true
-靖洋卡通,http://nmk.ioapk.com:5050/li-4gtv-4gtv057/index.m3u8?proxy=true
 中视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true
-SBN全球财经台,http://nmk.ioapk.com:5050/4gtv-live060/index.m3u8?proxy=true
-靖洋戏剧,http://nmk.ioapk.com:5050/4gtv-4gtv045/index.m3u8?proxy=true
-龙华卡通,http://nmk.ioapk.com:5050/litv-longturn01/index.m3u8?proxy=true
-LUXETV,http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8?proxy=true
-TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
-滚动力rollor,http://nmk.ioapk.com:5050/4gtv-live012/index.m3u8?proxy=true
 
 地方频道,#genre#
 北京影视,http://114.242.62.109:888/hls/20/index.m3u8
 北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
 北京文艺,http://114.242.62.109:888/hls/18/index.m3u8
 北京生活,http://114.242.62.109:888/hls/23/index.m3u8
-环球旅游,http://keke.kandiantv.cn/migu720p.php?id=958475356
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
 庆元电视台,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
@@ -607,7 +444,6 @@ TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 浙江少儿,https://www.wmviv.com/iptv/bc2t.php?id=zjse
 浙江钱江,https://www.wmviv.com/iptv/bc2t.php?id=zjqj
 浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
@@ -628,7 +464,6 @@ TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 浙江民生休闲频道,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -637,48 +472,35 @@ TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-广东经济科教,http://hongzhijiaoyu.net:8188/udp/239.77.0.85:5146
 广州综合,http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
 深圳龙岗,http://zhfw-t.szlg.com:8080/live/television1.m3u8
-肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
-广东少儿,http://zhengyilu503.myqnapcloud.com:5000/udp/239.77.0.250:5146
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
 广州综合,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
-汕头综合,http://hongzhijiaoyu.net:8188/udp/239.253.43.45:5146
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-揭阳新闻综合,http://hongzhijiaoyu.net:8188/udp/239.77.0.229:5146
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
-广东新闻,http://hongzhijiaoyu.net:8188/udp/239.77.0.173:5146
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广东少儿,http://hongzhijiaoyu.net:8188/udp/239.77.0.250:5146
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 东莞综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东移动频道,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
-广东少儿,http://idc.zymok.cn:10000/udp/239.77.0.250:5146
 广东经济科教,http://119.135.192.194:10000/udp/239.77.0.85:5146
-广东少儿,http://119.135.192.194:10000/udp/239.77.0.250:5146
 广东新闻,http://119.135.192.194:10000/udp/239.77.0.173:5146
 揭阳生活,http://hello.ejoydom.com:9999/udp/239.77.0.251:5146
 广东民生,http://hello.ejoydom.com:9999/udp/239.77.0.225:5146
 广东影视,http://119.135.192.194:10000/udp/239.77.0.217:5146
 汕尾综合,http://hello.ejoydom.com:9999/udp/239.77.0.25:5146
-广东影视,http://idc.zymok.cn:10000/udp/239.77.0.217:5146
 广东珠江,http://119.135.192.194:10000/udp/239.77.0.1:5146
 广东少儿,http://hello.ejoydom.com:9999/udp/239.77.0.250:5146
-揭阳生活,http://idc.zymok.cn:10000/udp/239.77.0.251:5146
-广东珠江,http://idc.zymok.cn:10000/udp/239.77.0.1:5146
 揭阳新闻综合,http://hello.ejoydom.com:9999/udp/239.77.0.229:5146
 广东珠江,http://hello.ejoydom.com:9999/udp/239.77.0.1:5146
 广东影视,http://hello.ejoydom.com:9999/udp/239.77.0.217:5146
@@ -687,13 +509,11 @@ TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 汕头综合,http://hello.ejoydom.com:9999/udp/239.253.43.45:5146
 广东体育,http://hello.ejoydom.com:9999/udp/239.77.0.112:5146
 广东新闻,http://hello.ejoydom.com:9999/udp/239.77.0.173:5146
-潮州民生,http://idc.zymok.cn:10000/udp/239.253.43.75:5146
 汕头综合,http://119.135.192.194:10000/udp/239.253.43.45:5146
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 潮州民生,http://hello.ejoydom.com:9999/udp/239.253.43.75:5146
 潮州新闻综合,http://hello.ejoydom.com:9999/udp/239.253.43.70:5146
 南国都市,http://r.jdshipin.com/nWaZO
-潮州新闻综合,http://idc.zymok.cn:10000/udp/239.253.43.70:5146
 广东移动频道,https://www.wmviv.com/iptv/bc2t.php?id=gdyd
 广东体育,https://www.wmviv.com/iptv/bc2t.php?id=gdty&line=2
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
@@ -701,20 +521,12 @@ TVBS欢乐台,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 秦安电视台,rtmp://play.kankanlive.com/live/1680577080200944
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古文体娱乐,https://www.wmviv.com/iptv/bc2t.php?id=nmgwtly
-四海钓鱼,http://keke.kandiantv.cn/migu720p.php?id=637444975
-陕西体育休闲频道,http://keke.kandiantv.cn/migu720p.php?id=956909356
-最强综艺趴,http://keke.kandiantv.cn/migu720p.php?id=629942228
-JJ斗地主,https://live.iill.top/douyin/685317364746
 五星体育,https://www.wmviv.com/iptv/bc2t.php?id=wxty
-五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
-天津体育,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 智林体育,http://nmk.ioapk.com:5050/li-4gtv-4gtv101/index.m3u8?proxy=true
 智林体育,http://nmk.ioapk.com:5050/4gtv-4gtv101/index.m3u8?proxy=true
 南宁新闻综合,rtmp://hls.nntv.cn/nnlive/XWZH_24
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 广西影视,http://38.75.136.137:98/gslb/dsdqpub/gxys.m3u8?auth=testpub
-广西移动,http://38.75.136.137:98/gslb/dsdqpub/gxyd.m3u8?auth=testpub
 广西都市,http://38.75.136.137:98/gslb/dsdqpub/gxds.m3u8?auth=testpub
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
@@ -733,26 +545,18 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
-苏州4k,https://www.wmviv.com/iptv/bc2t.php?id=sz4k
-盐城新闻综合,http://keke.kandiantv.cn/migu720p.php?id=639731825
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 涟水综合,https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
-南通新闻综合,http://keke.kandiantv.cn/migu720p.php?id=955227985
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
-财富天下频道,http://keke.kandiantv.cn/migu720p.php?id=956923159
-江阴新闻综合,http://keke.kandiantv.cn/migu720p.php?id=955227979
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
-溧水新闻综合,http://keke.kandiantv.cn/migu720p.php?id=639737327
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
-宜兴新闻综合,http://keke.kandiantv.cn/migu720p.php?id=955227996
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
@@ -766,24 +570,12 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 内蒙古蒙语文化频道,https://www.wmviv.com/iptv/bc2t.php?id=nmgywh
 内蒙古蒙语卫视,https://www.wmviv.com/iptv/bc2t.php?id=nmgyws
 重庆社会与法,http://38.75.136.137:98/gslb/dsdqpub/cqds.m3u8?auth=testpub
-重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 重庆汽摩频道,http://38.75.136.137:98/gslb/dsdqpub/cqqm.m3u8?auth=testpub
-陕西都市青春频道,http://keke.kandiantv.cn/migu720p.php?id=956909358
-陕西新闻资讯频道,http://keke.kandiantv.cn/migu720p.php?id=956909289
-陕西秦腔频道,http://keke.kandiantv.cn/migu720p.php?id=956909303
-陕西银龄频道,http://keke.kandiantv.cn/migu720p.php?id=956909362
-上海新闻综合,http://keke.kandiantv.cn/migu720p.php?id=651632657
 魔都眼,https://www.wmviv.com/iptv/bc2t.php?id=shmdy
 上海都市,https://www.wmviv.com/iptv/bc2t.php?id=shds
 上海第一财经,https://www.wmviv.com/iptv/bc2t.php?id=shdycj
-都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
-上海都市,http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
 新纪实,https://www.wmviv.com/iptv/bc2t.php?id=shxjs
-上海新闻综合,http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
-欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
-上海第一财经,http://38.75.136.137:98/gslb/dsdqpub/dycjhd.m3u8?auth=testpub
-动漫秀场频道,http://38.75.136.137:98/gslb/dsdqpub/dmxchd.m3u8?auth=testpub
 宝兴电视台,rtmp://tv.yunxya.com:1937/channellive/baoxing
 汶川新闻综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01?zsicd;http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
@@ -791,21 +583,14 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 金川新闻综合,rtmp://live.jinchuanrmt.com/live/zhxw
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
 名山电视台,rtmp://tv.yunxya.com:1937/channellive/mingshan
-汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 荥经电视台,rtmp://tv.yunxya.com:1937/channellive/yingjing
 海南公共,https://www.wmviv.com/iptv/bc2t.php?id=haingg
 海南少儿,https://www.wmviv.com/iptv/bc2t.php?id=hainse
 海南自贸,https://www.wmviv.com/iptv/bc2t.php?id=hainzm
 海南文旅,https://www.wmviv.com/iptv/bc2t.php?id=hainwl
 海南新闻,https://www.wmviv.com/iptv/bc2t.php?id=hainxw
-天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
-天津影视,http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
-天津都市,http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub
-天津教育,http://38.75.136.137:98/gslb/dsdqpub/tjtv6.m3u8?auth=testpub
-天津文艺,http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
 祁门电视台,rtmp://tv.qmxrmt.com/chan/ch1?zanhd
 祁门电视台,rtmp://tv.qmxrmt.com/chan/ch1
-
 漫长的季节,#genre#
 第01集,https://vip.ffzy-online5.com/20230422/10921_214e81bf/index.m3u8
 第02集,https://vip.ffzy-online5.com/20230422/10922_864d7afd/index.m3u8
@@ -819,7 +604,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第10集,https://svipsvip.ffzy-online5.com/20230429/11147_1cdbd1ea/index.m3u8
 第11集,https://svipsvip.ffzy-online5.com/20230430/11174_ecafe2c5/index.m3u8
 第12集,https://svipsvip.ffzy-online5.com/20230501/11223_c41d280c/index.m3u8
-
 亮剑️,#genre#
 第01集,https://vip.ffzy-play1.com/20230113/51806_72d20784/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play1.com/20230113/51805_af533edb/2000k/hls/mixed.m3u8
@@ -851,7 +635,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第28集,https://vip.ffzy-play1.com/20230113/51831_be7040f9/2000k/hls/mixed.m3u8
 第29集,https://vip.ffzy-play1.com/20230113/51832_54e2177f/2000k/hls/mixed.m3u8
 第30集,https://vip.ffzy-play1.com/20230113/51835_4bda68e3/2000k/hls/mixed.m3u8
-
 走向共和,#genre#
 第1集,https://yzzy.play-cdn11.com/20221026/946_db791fff/index.m3u8
 第2集,https://yzzy.play-cdn11.com/20221026/947_f36dfaac/index.m3u8
@@ -921,7 +704,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第66集,https://yzzy.play-cdn11.com/20221026/1011_f8a97af1/index.m3u8
 第67集,https://yzzy.play-cdn11.com/20221026/1013_b5ce27e4/index.m3u8
 第68集,https://yzzy.play-cdn11.com/20221026/1012_579b2ee9/index.m3u8
-
 大明王朝1566,#genre#
 第01集,https://vip.ffzy-online.com/20221127/25865_dca33440/index.m3u8
 第02集,https://vip.ffzy-online.com/20221127/25867_41ca27c3/index.m3u8
@@ -969,7 +751,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第44集,https://vip.ffzy-online.com/20221127/25908_4c2c1312/index.m3u8
 第45集,https://vip.ffzy-online.com/20221127/25909_032b9fb6/index.m3u8
 第46集,https://vip.ffzy-online.com/20221127/25912_46342a67/index.m3u8
-
 琅琊榜,#genre#
 第1集,https://c1.rrcdnbf1.com/video/langyabang/%E7%AC%AC01%E9%9B%86/index.m3u8
 第2集,https://c1.rrcdnbf1.com/video/langyabang/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -1025,7 +806,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第52集,https://c1.rrcdnbf1.com/video/langyabang/%E7%AC%AC52%E9%9B%86/index.m3u8
 第53集,https://c1.rrcdnbf1.com/video/langyabang/%E7%AC%AC53%E9%9B%86/index.m3u8
 第54集,https://c1.rrcdnbf1.com/video/langyabang/%E7%AC%AC54%E9%9B%86/index.m3u8
-
 🇨🇳剑魔独孤求败,#genre#
 第01集,https://vip.ffzy-play10.com/20221210/2069_dd606075/index.m3u8
 第02集,https://vip.ffzy-play10.com/20221210/2073_dbb36d41/index.m3u8
@@ -1048,7 +828,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第19集,https://vip.ffzy-play10.com/20221210/2093_f8946619/index.m3u8
 第20集,https://vip.ffzy-play10.com/20221210/2090_99fc634d/index.m3u8
 第21集,https://vip.ffzy-play10.com/20221210/2088_00914dcb/index.m3u8
-
 情深深雨蒙蒙,#genre#
 第01集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC01%E9%9B%86/index.m3u8
 第02集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -1099,7 +878,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第47集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC47%E9%9B%86/index.m3u8
 第48集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC48%E9%9B%86/index.m3u8
 第49集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC49%E9%9B%86/index.m3u8
-
 还珠格格第一部,#genre#
 第1集,https://yzzy.play-cdn8.com/20220710/3671_314a6b1b/index.m3u8
 第2集,https://yzzy.play-cdn8.com/20220710/3670_cdafc23f/index.m3u8
@@ -1125,7 +903,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第22集,https://yzzy.play-cdn8.com/20220710/3650_bde9774f/index.m3u8
 第23集,https://yzzy.play-cdn8.com/20220710/3649_95656d66/index.m3u8
 第24集,https://yzzy.play-cdn8.com/20220710/3648_29d10de2/index.m3u8
-
 还珠格格第二部,#genre#
 第1集,https://yzzy.play-cdn8.com/20220710/3647_728f0513/index.m3u8
 第2集,https://yzzy.play-cdn8.com/20220710/3646_f9026ae9/index.m3u8
@@ -1175,7 +952,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第46集,https://yzzy.play-cdn8.com/20220710/3602_bd1ccb00/index.m3u8
 第47集,https://yzzy.play-cdn8.com/20220710/3601_071cd762/index.m3u8
 第48集,https://yzzy.play-cdn8.com/20220710/3600_ea939ce8/index.m3u8
-
 花非花雾非雾,#genre#
 第01集,https://vip.ffzy-online2.com/20230424/34012_49cf4fe4/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online2.com/20230424/34013_358b88ea/2000k/hls/mixed.m3u8
@@ -1231,7 +1007,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第52集,https://vip.ffzy-online2.com/20230424/34063_bc8b727a/2000k/hls/mixed.m3u8
 第53集,https://vip.ffzy-online2.com/20230424/34064_8fabef63/2000k/hls/mixed.m3u8
 第54集,https://vip.ffzy-online2.com/20230424/34065_80839b2e/2000k/hls/mixed.m3u8
-
 还珠格格第三部,#genre#
 第01集,https://yzzy.play-cdn12.com/20230104/13455_6cb6b0ec/1000k/hls/index.m3u8
 第02集,https://yzzy.play-cdn12.com/20230104/13452_b7724b37/1000k/hls/index.m3u8
@@ -1273,7 +1048,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第38集,https://yzzy.play-cdn12.com/20230104/13487_eb412892/1000k/hls/index.m3u8
 第39集,https://yzzy.play-cdn12.com/20230104/13488_7f211443/1000k/hls/index.m3u8
 第40集,https://yzzy.play-cdn12.com/20230104/13490_fd76d89e/1000k/hls/index.m3u8
-
 新白娘子传奇,#genre#
 第01集,https://vip.ffzy-online.com/20221207/29683_1338bd77/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online.com/20221207/29684_3dab2eb4/2000k/hls/mixed.m3u8
@@ -1325,7 +1099,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第48集,https://vip.ffzy-online.com/20221207/29730_5b1a05cd/2000k/hls/mixed.m3u8
 第49集,https://vip.ffzy-online.com/20221207/29732_fa83b88d/2000k/hls/mixed.m3u8
 第50集,https://vip.ffzy-online.com/20221207/29731_1cea3325/2000k/hls/mixed.m3u8
-
 🇨🇳包青天-频道,#genre#
 包青天1993第1集,https://vip.lz-cdn8.com/20220717/18577_ee2dae94/index.m3u8
 包青天1993第2集,https://vip.lz-cdn8.com/20220717/18578_36814acb/index.m3u8
@@ -1561,7 +1334,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 包青天1993第234集,https://vip.lz-cdn8.com/20220718/18810_fca77f26/index.m3u8
 包青天1993第235集,https://vip.lz-cdn8.com/20220718/18811_f4d87f2d/index.m3u8
 包青天1993第236集,https://vip.lz-cdn8.com/20220718/18812_e2b0947f/index.m3u8
-
 🇨🇳圆月弯刀-频道,#genre#
 ﻿1,https://v.cdnlz16.com/20230915/39008_4e8c316a/index.m3u8
 2,https://v.cdnlz16.com/20230915/39010_0da8e8a6/index.m3u8
@@ -1582,7 +1354,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 18,https://v.cdnlz16.com/20230915/39025_88ccc1c4/index.m3u8
 19,https://v.cdnlz16.com/20230915/39027_133efc77/index.m3u8
 20,https://v.cdnlz16.com/20230915/39026_15d209a7/index.m3u8
-
 🇨🇳天龙八部-频道,#genre#
 ﻿1,https://vip.ffzy-online.com/20221023/3079_d81dccac/index.m3u8
 2,https://vip.ffzy-online.com/20221023/3080_de4adeca/index.m3u8
@@ -1629,7 +1400,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 43,https://vip.ffzy-online.com/20221023/3121_20179cfd/index.m3u8
 44,https://vip.ffzy-online.com/20221023/3122_a83a4fd1/index.m3u8
 45,https://vip.ffzy-online.com/20221023/3123_5804580f/index.m3u8
-
 🇨🇳三国演义老版,#genre#
 ﻿三国演义第01集,https://vip.ffzy-online3.com/20230126/6123_b94abe2c/index.m3u8
 三国演义第02集,https://vip.ffzy-online3.com/20230126/6122_d5272023/index.m3u8
@@ -1715,7 +1485,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 三国演义第82集,https://vip.ffzy-online3.com/20230126/6208_373d73a2/index.m3u8
 三国演义第83集,https://vip.ffzy-online3.com/20230126/6205_30079482/index.m3u8
 三国演义第84集,https://vip.ffzy-online3.com/20230126/6207_748ccd35/index.m3u8
-
 绝密1950,#genre#
 第01集,https://vip.ffzy-online.com/20221219/36708_456a5b7c/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online.com/20221219/36707_e5875e93/2000k/hls/mixed.m3u8
@@ -1747,7 +1516,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第28集,https://vip.ffzy-online.com/20221219/36733_ac7b99b8/2000k/hls/mixed.m3u8
 第29集,https://vip.ffzy-online.com/20221219/36736_6498bcc2/2000k/hls/mixed.m3u8
 第30集,https://vip.ffzy-online.com/20221219/36734_91eab13e/2000k/hls/mixed.m3u8
-
 绝密543,#genre#
 第01集,https://vip.ffzy-online1.com/20240302/44711_0bdef9cf/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online1.com/20240302/44712_38a6c756/2000k/hls/mixed.m3u8
@@ -1785,7 +1553,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第34集,https://vip.ffzy-online1.com/20240302/44744_750d324e/2000k/hls/mixed.m3u8
 第35集,https://vip.ffzy-online1.com/20240302/44745_50514b1e/2000k/hls/mixed.m3u8
 第36集,https://vip.ffzy-online1.com/20240302/44746_9ea2cfa1/2000k/hls/mixed.m3u8
-
 刑事侦缉档案,#genre#
 ﻿刑事侦缉档案第01集,https://vip.ffzy-online.com/20221029/6348_1c67c6e1/index.m3u8
 刑事侦缉档案第02集,https://vip.ffzy-online.com/20221029/6349_511241f8/index.m3u8
@@ -1847,7 +1614,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 刑事侦缉档案-2第38集,https://vip.ffzy-online.com/20221029/6387_a20c39dd/index.m3u8
 刑事侦缉档案-2第39集,https://vip.ffzy-online.com/20221029/6388_5faad7f4/index.m3u8
 刑事侦缉档案-2第40集,https://vip.ffzy-online.com/20221029/6392_909dac83/index.m3u8
-
 🇨🇳无忧渡,#genre#
 无忧渡_第01集,https://v.cdnlz12.com/20250412/20916_1f387920/index.m3u8
 无忧渡_第02集,https://v.cdnlz12.com/20250412/20920_fa5355f8/index.m3u8
@@ -1873,7 +1639,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 无忧渡_第22集,https://v.cdnlz12.com/20250420/21417_9504bcb6/index.m3u8
 无忧渡_第23集,https://v.cdnlz12.com/20250421/21451_b064606a/index.m3u8
 无忧渡_第24集,https://v.cdnlz12.com/20250421/21450_4612b551/index.m3u8
-
 🇨🇳借命而生,#genre#
 借命而生_第01集,https://v.cdnlz12.com/20250418/21321_65e949c9/index.m3u8
 借命而生_第02集,https://v.cdnlz12.com/20250418/21322_7cdc1c55/index.m3u8
@@ -1883,7 +1648,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 借命而生_第06集,https://v.cdnlz12.com/20250420/21424_6c7de0c5/index.m3u8
 借命而生_第07集,https://v.cdnlz12.com/20250420/21423_8a8b08b6/index.m3u8
 借命而生_第08集,https://v.cdnlz12.com/20250421/21454_efb29b5f/index.m3u8
-
 🇨🇳铁血大旗门,#genre#
 铁血大旗门国语_第01集,https://v.cdnlz17.com/20231011/29105_0503e271/index.m3u8
 铁血大旗门国语_第02集,https://v.cdnlz17.com/20231011/29109_7e719a48/index.m3u8
@@ -1906,7 +1670,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 铁血大旗门国语_第19集,https://v.cdnlz17.com/20231011/29123_f6c86cd8/index.m3u8
 铁血大旗门国语_第20集,https://v.cdnlz17.com/20231011/29127_8867f7f0/index.m3u8
 铁血大旗门国语_第21集,https://v.cdnlz17.com/20231011/29126_4cc7a0d7/index.m3u8
-
 🇨🇳孤城客,#genre#
 孤城客国语_第01集,https://v.lzcdn26.com/20250223/10531_310eb756/index.m3u8
 孤城客国语_第02集,https://v.lzcdn26.com/20250223/10532_448f2cac/index.m3u8
@@ -1948,7 +1711,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 孤城客粤语_第18集,https://v.lzcdn24.com/20250223/20465_2d1bb8b4/index.m3u8
 孤城客粤语_第19集,https://v.lzcdn24.com/20250223/20466_09bc878a/index.m3u8
 孤城客粤语_第20集,https://v.lzcdn24.com/20250223/20467_7a93c3ff/index.m3u8
-
 🇨🇳赖布衣,#genre#
 寻龙剑侠赖布衣电影解说_第01集,https://v.lzcdn23.com/20240924/5192_516d98f1/index.m3u8
 寻龙剑侠赖布衣国语_第01集,https://vip1.lz-cdn8.com/20221007/28514_1700a6b3/index.m3u8
@@ -1971,7 +1733,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 寻龙剑侠赖布衣国语_第18集,https://vip1.lz-cdn8.com/20221007/28531_f550dc38/index.m3u8
 寻龙剑侠赖布衣国语_第19集,https://vip1.lz-cdn8.com/20221007/28532_ac7c959c/index.m3u8
 寻龙剑侠赖布衣国语_第20集,https://vip1.lz-cdn8.com/20221007/28533_c9b70f00/index.m3u8
-
 🇨🇳挥剑问情,#genre#
 挥剑问情马景涛版_第01集,https://v.cdnlz17.com/20231014/29461_a5c9ea22/index.m3u8
 挥剑问情马景涛版_第02集,https://v.cdnlz17.com/20231014/29469_58e38832/index.m3u8
@@ -1990,7 +1751,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 挥剑问情马景涛版_第15集,https://v.cdnlz17.com/20231014/29477_5bba7d9a/index.m3u8
 挥剑问情马景涛版_第16集,https://v.cdnlz17.com/20231014/29483_ab504670/index.m3u8
 挥剑问情马景涛版_第17集,https://v.cdnlz17.com/20231014/29479_6da76004/index.m3u8
-
 🇨🇳书剑恩仇录,#genre#
 书剑恩仇录1987国语_第01集,https://v.lzcdn24.com/20250216/19784_4313612b/index.m3u8
 书剑恩仇录1987国语_第02集,https://v.lzcdn24.com/20250216/19785_25b2e563/index.m3u8
@@ -2020,7 +1780,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 书剑恩仇录1987国语_第26集,https://v.lzcdn24.com/20250216/19809_2aaeecc2/index.m3u8
 书剑恩仇录1987国语_第27集,https://v.lzcdn24.com/20250216/19810_f175f180/index.m3u8
 书剑恩仇录1987国语_第28集,https://v.lzcdn24.com/20250216/19811_d9fab254/index.m3u8
-
 🇨🇳恩仇录,#genre#
 书剑恩仇录2009_第01集,https://v.cdnlz19.com/20240918/45515_16362849/index.m3u8
 书剑恩仇录2009_第02集,https://v.cdnlz19.com/20240918/45516_9c959f49/index.m3u8
@@ -2062,7 +1821,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 书剑恩仇录2009_第38集,https://v.cdnlz19.com/20240918/45552_0e3d9883/index.m3u8
 书剑恩仇录2009_第39集,https://v.cdnlz19.com/20240918/45553_012d0d98/index.m3u8
 书剑恩仇录2009_第40集,https://v.cdnlz19.com/20240918/45554_6a0ef249/index.m3u8
-
 🇨🇳恩仇录02,#genre#
 书剑恩仇录2002_第01集,https://v.cdnlz19.com/20240918/45470_fcaf88ab/index.m3u8
 书剑恩仇录2002_第02集,https://v.cdnlz19.com/20240918/45471_2a417bd7/index.m3u8
@@ -2109,7 +1867,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 书剑恩仇录2002_第43集,https://v.cdnlz19.com/20240918/45512_9d63c9ee/index.m3u8
 书剑恩仇录2002_第44集,https://v.cdnlz19.com/20240918/45513_e76779a9/index.m3u8
 书剑恩仇录2002_第45集,https://v.cdnlz19.com/20240918/45514_fea4c208/index.m3u8
-
 🇨🇳恩仇录94,#genre#
 书剑恩仇录1994_第01集,https://v.cdnlz19.com/20240917/45454_dc398391/index.m3u8
 书剑恩仇录1994_第02集,https://v.cdnlz19.com/20240917/45455_d7e8b81b/index.m3u8
@@ -2131,7 +1888,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 书剑恩仇录2023_HD中字,https://v.cdnlz12.com/20230903/9844_a31915e1/index.m3u8
 书剑恩仇录1981_HD中字,https://vip1.lz-cdn1.com/20220514/5558_e27a2eee/index.m3u8
 书剑恩仇录2002电影解说_第01集,https://vip1.lz-cdn10.com/20230703/14563_a6040987/index.m3u8
-
 🇨🇳白马啸西风,#genre#
 白马啸西风_第01集,https://vip1.lz-cdn8.com/20220903/25611_852756cb/index.m3u8
 白马啸西风_第02集,https://vip1.lz-cdn8.com/20220902/25096_71d3cd89/index.m3u8
@@ -2145,7 +1901,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 白马啸西风_第10集,https://vip1.lz-cdn8.com/20220902/25104_ab516c90/index.m3u8
 白马啸西风_第11集,https://vip1.lz-cdn8.com/20220902/25105_f71ab457/index.m3u8
 白马啸西风_第12集,https://vip1.lz-cdn8.com/20220902/25106_5720074e/index.m3u8
-
 🇨🇳连城决,#genre#
 连城诀1980电影解说_第01集,https://v.cdnlz18.com/20231215/8071_78d6ab8b/index.m3u8
 连城诀粤语郭晋安版_第01集,https://vip1.lz-cdn.com/20220929/33866_676a4928/index.m3u8
@@ -2168,7 +1923,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 连城诀粤语郭晋安版_第18集,https://vip1.lz-cdn.com/20220929/33823_3fe1b2d4/index.m3u8
 连城诀粤语郭晋安版_第19集,https://vip1.lz-cdn.com/20220929/33824_f39004cc/index.m3u8
 连城诀粤语郭晋安版_第20集,https://vip1.lz-cdn.com/20220929/33825_19654c14/index.m3u8
-
 🇨🇳连城决2,#genre#
 连城诀_HD中字,https://vip1.lz-cdn1.com/20220405/1125_7553a1c2/index.m3u8
 连城诀吴樾版_第01集,https://vip1.lz-cdn6.com/20220908/27369_d19e84e6/index.m3u8
@@ -2204,7 +1958,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 连城诀吴樾版_第31集,https://vip1.lz-cdn6.com/20220908/27399_17489e62/index.m3u8
 连城诀吴樾版_第32集,https://vip1.lz-cdn6.com/20220908/27400_8e5c05f0/index.m3u8
 连城诀吴樾版_第33集,https://vip1.lz-cdn6.com/20220908/27401_de2f9477/index.m3u8
-
 🇨🇳连城决郭,#genre#
 连城诀国语郭晋安版_第01集,https://vip1.lz-cdn.com/20221007/34582_eb20897b/index.m3u8
 连城诀国语郭晋安版_第02集,https://vip1.lz-cdn.com/20221007/34583_4d75b7d8/index.m3u8
@@ -2227,7 +1980,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 连城诀国语郭晋安版_第19集,https://vip1.lz-cdn.com/20221007/34600_abab1201/index.m3u8
 连城诀国语郭晋安版_第20集,https://vip1.lz-cdn.com/20221007/34601_a379ed47/index.m3u8
 连城诀2004电影解说_第01集,https://vip1.lz-cdn10.com/20230703/14582_b66e05c5/index.m3u8
-
 🇨🇳碧血剑国语,#genre#
 碧血剑1985国语_第01集,https://v.cdnlz19.com/20241019/50948_5d9b3677/index.m3u8
 碧血剑1985国语_第02集,https://v.cdnlz19.com/20241019/50949_ebfa71ac/index.m3u8
@@ -2249,7 +2001,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 碧血剑1985国语_第18集,https://v.cdnlz19.com/20241019/50965_93457523/index.m3u8
 碧血剑1985国语_第19集,https://v.cdnlz19.com/20241019/50966_13cb07b9/index.m3u8
 碧血剑1985国语_第20集,https://v.cdnlz19.com/20241019/50967_adaa7efc/index.m3u8
-
 🇨🇳碧血剑07,#genre#
 碧血剑2007_第01集,https://v.cdnlz19.com/20240924/46741_01efdb4a/index.m3u8
 碧血剑2007_第02集,https://v.cdnlz19.com/20240924/46742_28d2b43f/index.m3u8
@@ -2282,7 +2033,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 碧血剑2007_第29集,https://v.cdnlz19.com/20240924/46769_d6d1b310/index.m3u8
 碧血剑2007_第30集,https://v.cdnlz19.com/20240924/46771_0ac64962/index.m3u8
 碧血剑2000电影解说_第01集,https://v.lzcdn23.com/20240923/5135_f6d56f71/index.m3u8
-
 新碧血剑,#genre#
 新碧血剑电影解说_第01集,https://v.cdnlz18.com/20231105/6411_7599bb16/index.m3u8
 新碧血剑_HD中字,https://vip.lzcdn2.com/20220408/2709_eb3747d1/index.m3u8
@@ -2323,7 +2073,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 碧血剑国语林家栋版_第35集,https://vip.lz-cdn16.com/20230123/7257_b963f5dc/index.m3u8
 碧血剑1981_HD中字,https://vip1.lz-cdn7.com/20230514/15982_4972b6c1/index.m3u8
 碧血剑2007电影解说_第01集,https://vip1.lz-cdn10.com/20230703/14577_71dd0138/index.m3u8
-
 🇨🇳南帝北丐国,#genre#
 南帝北丐国语_第01集,https://vip1.lz-cdn6.com/20220920/28086_f1bd6e51/index.m3u8
 南帝北丐国语_第02集,https://vip1.lz-cdn6.com/20220920/28087_89f687bd/index.m3u8
@@ -2345,7 +2094,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 南帝北丐国语_第18集,https://vip1.lz-cdn6.com/20220920/28103_92c2c226/index.m3u8
 南帝北丐国语_第19集,https://vip1.lz-cdn6.com/20220920/28104_2049545b/index.m3u8
 南帝北丐国语_第20集,https://vip1.lz-cdn6.com/20220920/28105_ec8c2673/index.m3u8
-
 🇨🇳南帝北帝粤,#genre#
 南帝北丐粤语_第01集,https://vip1.lz-cdn6.com/20220920/28106_6226e040/index.m3u8
 南帝北丐粤语_第02集,https://vip1.lz-cdn6.com/20220920/28107_251e46dc/index.m3u8
@@ -2367,7 +2115,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 南帝北丐粤语_第18集,https://vip1.lz-cdn6.com/20220920/28123_0901e342/index.m3u8
 南帝北丐粤语_第19集,https://vip1.lz-cdn6.com/20220920/28124_ee75dbe3/index.m3u8
 南帝北丐粤语_第20集,https://vip1.lz-cdn6.com/20220920/28125_35ab8267/index.m3u8
-
 🇨🇳大地飞鹰国,#genre#
 大地飞鹰国语_第01集,https://v.lzcdn26.com/20250211/9069_ff8aa817/index.m3u8
 大地飞鹰国语_第02集,https://v.lzcdn26.com/20250211/9070_7ed0dccd/index.m3u8
@@ -2389,7 +2136,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 大地飞鹰国语_第18集,https://v.lzcdn26.com/20250211/9086_198569b6/index.m3u8
 大地飞鹰国语_第19集,https://v.lzcdn26.com/20250211/9087_d854a84b/index.m3u8
 大地飞鹰国语_第20集,https://v.lzcdn26.com/20250211/9088_02c4bf6a/index.m3u8
-
 🇨🇳孤岛飞鹰,#genre#
 孤岛飞鹰_第01集,https://v.cdnlz19.com/20240907/43706_e80cce54/index.m3u8
 孤岛飞鹰_第02集,https://v.cdnlz19.com/20240907/43707_f0d177f8/index.m3u8
@@ -2431,7 +2177,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 孤岛飞鹰_第38集,https://v.cdnlz19.com/20240907/43743_0aa7a99e/index.m3u8
 孤岛飞鹰_第39集,https://v.cdnlz19.com/20240907/43744_b9c061ba/index.m3u8
 孤岛飞鹰_第40集,https://v.cdnlz19.com/20240907/43745_9a50085e/index.m3u8
-
 🇨🇳飞鹰,#genre#
 大地飞鹰1978电影解说_第01集,https://v.cdnlz21.com/20240418/281_b2a8fcdc/index.m3u8
 远去的飞鹰电影解说_第01集,https://v.cdnlz18.com/20240213/10155_fa0cbdbe/index.m3u8
@@ -2465,7 +2210,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 飞鹰_HD中字,https://vip1.lz-cdn1.com/20220408/1256_aafb30df/index.m3u8
 飞鹰艾迪_HD中字,https://vip.lz-cdn3.com/20221008/14578_4626f33b/index.m3u8
 飞鹰艾迪电影解说_第01集,https://vip1.lz-cdn5.com/20221117/46057_2a7efe18/index.m3u8
-
 🇨🇳津门飞鹰,#genre#
 津门飞鹰_第01集,https://vip.lz-cdn16.com/20230315/12771_5c4e1bea/index.m3u8
 津门飞鹰_第02集,https://vip.lz-cdn16.com/20230315/12775_5f4d2941/index.m3u8
@@ -2502,7 +2246,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 津门飞鹰_第33集,https://vip.lz-cdn16.com/20230315/12802_6542de78/index.m3u8
 津门飞鹰_第34集,https://vip.lz-cdn16.com/20230315/12804_5833e70d/index.m3u8
 津门飞鹰_第35集,https://vip.lz-cdn16.com/20230315/12809_f38b83c7/index.m3u8
-
 🇨🇳怒剑啸狂沙,#genre#
 怒剑啸狂沙国语_第01集,https://v.lzcdn26.com/20250206/8256_36a586ec/index.m3u8
 怒剑啸狂沙国语_第02集,https://v.lzcdn26.com/20250206/8257_b460a1cd/index.m3u8
@@ -2524,7 +2267,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 怒剑啸狂沙国语_第18集,https://v.lzcdn26.com/20250206/8273_d125eb30/index.m3u8
 怒剑啸狂沙国语_第19集,https://v.lzcdn26.com/20250206/8274_183ac685/index.m3u8
 怒剑啸狂沙国语_第20集,https://v.lzcdn26.com/20250206/8275_6a881e4e/index.m3u8
-
 🇨🇳飞燕惊龙,#genre#
 飞燕惊龙_第01集,https://vip.lz-cdn17.com/20221225/209_bd816cf8/index.m3u8
 飞燕惊龙_第02集,https://vip.lz-cdn17.com/20221225/210_c92b1599/index.m3u8
@@ -2559,7 +2301,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 飞燕惊龙_第31集,https://vip.lz-cdn17.com/20221225/239_0c49857c/index.m3u8
 飞燕惊龙_第32集,https://vip.lz-cdn17.com/20221225/238_57cdc303/index.m3u8
 飞燕惊龙_第33集,https://vip.lz-cdn17.com/20221225/241_bd51a7ea/index.m3u8
-
 🇨🇳金剑雕翎,#genre#
 金剑雕翎_第01集,https://v.cdnlz20.com/20240523/8278_c4da0f51/index.m3u8
 金剑雕翎_第02集,https://v.cdnlz20.com/20240523/8277_cd865a43/index.m3u8
@@ -2600,7 +2341,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 金剑雕翎_第37集,https://v.cdnlz20.com/20240523/8312_8142b0f2/index.m3u8
 金剑雕翎_第38集,https://v.cdnlz20.com/20240523/8316_de8c838f/index.m3u8
 金剑雕翎_第39集,https://v.cdnlz20.com/20240523/8315_33d77a20/index.m3u8
-
 🇨🇳饮马江湖,#genre#
 饮马江湖国语_第01集,https://vip1.lz-cdn8.com/20221126/31774_c46fd495/index.m3u8
 饮马江湖国语_第02集,https://vip1.lz-cdn8.com/20221126/31775_b6eaf115/index.m3u8
@@ -2620,7 +2360,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 饮马江湖国语_第16集,https://vip1.lz-cdn8.com/20221126/31789_e667d37d/index.m3u8
 饮马江湖国语_第17集,https://vip1.lz-cdn8.com/20221126/31790_59acc4ab/index.m3u8
 饮马江湖国语_第18集,https://vip1.lz-cdn8.com/20221126/31791_fbcb79be/index.m3u8
-
 🇨🇳江湖浪子,#genre#
 江湖浪子国语_第01集,https://v.lzcdn26.com/20250223/10571_979ab333/index.m3u8
 江湖浪子国语_第02集,https://v.lzcdn26.com/20250223/10572_8263fbb2/index.m3u8
@@ -2642,7 +2381,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 江湖浪子国语_第18集,https://v.lzcdn26.com/20250223/10587_b544a127/index.m3u8
 江湖浪子国语_第19集,https://v.lzcdn26.com/20250223/10589_fbea280c/index.m3u8
 江湖浪子国语_第20集,https://v.lzcdn26.com/20250223/10590_757cd408/index.m3u8
-
 🇨🇳天涯明月刀,#genre#
 天涯明月刀1976电影解说_第01集,https://v.lzcdn23.com/20240810/3616_ffbd6f9d/index.m3u8
 天涯明月刀国语潘志文版_第01集,https://vip1.lz-cdn.com/20220718/24825_915c01fc/index.m3u8
@@ -2665,7 +2403,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天涯明月刀国语潘志文版_第18集,https://vip1.lz-cdn.com/20220718/24842_a8b4a3fb/index.m3u8
 天涯明月刀国语潘志文版_第19集,https://vip1.lz-cdn.com/20220718/24843_2967ce17/index.m3u8
 天涯明月刀国语潘志文版_第20集,https://vip1.lz-cdn.com/20220718/24844_669f2320/index.m3u8
-
 🇨🇳明月刀,#genre#
 天涯明月刀钟汉良版_第01集,https://vip1.lz-cdn.com/20220718/24865_9924f2bb/index.m3u8
 天涯明月刀钟汉良版_第02集,https://vip1.lz-cdn.com/20220718/24866_653fc704/index.m3u8
@@ -2708,7 +2445,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天涯明月刀钟汉良版_第39集,https://vip1.lz-cdn.com/20220718/24903_a37698fd/index.m3u8
 天涯明月刀钟汉良版_第40集,https://vip1.lz-cdn.com/20220718/24904_b29c62fd/index.m3u8
 天涯明月刀钟汉良版_第41集,https://vip1.lz-cdn.com/20220718/24905_8d7ecf3f/index.m3u8
-
 🇨🇳明月刀粤语,#genre#
 天涯明月刀粤语潘志文版_第01集,https://vip1.lz-cdn.com/20220719/24975_9c3e0e62/index.m3u8
 天涯明月刀粤语潘志文版_第02集,https://vip1.lz-cdn.com/20220718/24846_27645448/index.m3u8
@@ -2731,7 +2467,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天涯明月刀粤语潘志文版_第19集,https://vip1.lz-cdn.com/20220718/24863_98f7e36d/index.m3u8
 天涯明月刀粤语潘志文版_第20集,https://vip1.lz-cdn.com/20220718/24864_d76f9d89/index.m3u8
 天涯明月刀电影解说_第01集,https://vip1.lz-cdn10.com/20230108/3303_d5307c50/index.m3u8
-
 🇨🇳冷月孤星剑,#genre#
 冷月孤星剑_第01集,https://v.cdnlz20.com/20240407/2535_e6ecfb5b/index.m3u8
 冷月孤星剑_第02集,https://v.cdnlz20.com/20240407/2533_3adb0795/index.m3u8
@@ -2763,7 +2498,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 冷月孤星剑_第28集,https://v.cdnlz20.com/20240407/2561_703f042e/index.m3u8
 冷月孤星剑_第29集,https://v.cdnlz20.com/20240407/2562_d3944574/index.m3u8
 冷月孤星剑_第30集,https://v.cdnlz20.com/20240407/2563_2b5b2e90/index.m3u8
-
 九月鹰飞粤语,#genre#
 九月鹰飞粤语_第01集,https://v.lzcdn26.com/20250216/9698_24bcfa10/index.m3u8
 九月鹰飞粤语_第02集,https://v.lzcdn26.com/20250216/9699_5818866f/index.m3u8
@@ -2782,7 +2516,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 九月鹰飞粤语_第15集,https://v.lzcdn26.com/20250216/9712_e3394953/index.m3u8
 九月鹰飞粤语_第16集,https://v.lzcdn26.com/20250216/9713_029a272c/index.m3u8
 九月鹰飞粤语_第17集,https://v.lzcdn26.com/20250216/9714_cb05a637/index.m3u8
-
 🇨🇳九月鹰飞国,#genre#
 九月鹰飞国语_第01集,https://v.cdnlz20.com/20241016/15316_180ca195/index.m3u8
 九月鹰飞国语_第02集,https://v.cdnlz20.com/20241016/15315_ac84e1ef/index.m3u8
@@ -2801,7 +2534,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 九月鹰飞国语_第15集,https://v.cdnlz20.com/20241016/15329_03b9e76e/index.m3u8
 九月鹰飞国语_第16集,https://v.cdnlz20.com/20241016/15330_a2727b1c/index.m3u8
 九月鹰飞国语_第17集,https://v.cdnlz20.com/20241016/15331_7bdc9880/index.m3u8
-
 🇨🇳天蚕变,#genre#
 天蚕变之再与天比高国语_第01集,https://v.lzcdn24.com/20250128/16967_e9b23edc/index.m3u8
 天蚕变之再与天比高国语_第02集,https://v.lzcdn24.com/20250128/16968_4315a08c/index.m3u8
@@ -2834,7 +2566,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天蚕变之再与天比高国语_第29集,https://v.lzcdn24.com/20250128/16995_c045250c/index.m3u8
 天蚕变之再与天比高国语_第30集,https://v.lzcdn24.com/20250128/16996_d363ed30/index.m3u8
 天蚕变之再与天比高国语_第31集,https://v.lzcdn24.com/20250128/16998_6cf508e6/index.m3u8
-
 🇨🇳天蚕变粤语,#genre#
 天蚕变之再与天比高粤语_第01集,https://v.lzcdn26.com/20250127/7247_e8c6c9f1/index.m3u8
 天蚕变之再与天比高粤语_第02集,https://v.lzcdn26.com/20250127/7248_173001e9/index.m3u8
@@ -2867,7 +2598,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天蚕变之再与天比高粤语_第29集,https://v.lzcdn26.com/20250127/7276_20f4bde6/index.m3u8
 天蚕变之再与天比高粤语_第30集,https://v.lzcdn26.com/20250127/7275_481c7a0f/index.m3u8
 天蚕变之再与天比高粤语_第31集,https://v.lzcdn26.com/20250127/7277_5d54f5b5/index.m3u8
-
 🇨🇳天蚕变国语,#genre#
 天蚕变之布衣神相电影解说_第01集,https://v.cdnlz18.com/20231102/6265_5a916ad0/index.m3u8
 天蚕变_HD中字,https://vip1.lz-cdn1.com/20220404/835_5e61646d/index.m3u8
@@ -2933,7 +2663,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天蚕变国语_第58集,https://vip.lz-cdn16.com/20230603/26009_09379165/index.m3u8
 天蚕变国语_第59集,https://vip.lz-cdn16.com/20230603/26012_ba8cbd5b/index.m3u8
 天蚕变国语_第60集,https://vip.lz-cdn16.com/20230603/26011_f2073599/index.m3u8
-
 🇨🇳日月神剑,#genre#
 日月神剑国语_第01集,https://v.lzcdn24.com/20250120/15707_82b1329d/index.m3u8
 日月神剑国语_第02集,https://v.lzcdn24.com/20250120/15709_713b0e91/index.m3u8
@@ -2955,7 +2684,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 日月神剑国语_第18集,https://v.lzcdn24.com/20250120/15724_9f9ac7f5/index.m3u8
 日月神剑国语_第19集,https://v.lzcdn24.com/20250120/15725_e4d5897b/index.m3u8
 日月神剑国语_第20集,https://v.lzcdn24.com/20250120/15726_b5171844/index.m3u8
-
 🇨🇳日月神剑粤,#genre#
 日月神剑粤语_第01集,https://v.lzcdn24.com/20250120/15728_d7b1f3ae/index.m3u8
 日月神剑粤语_第02集,https://v.lzcdn24.com/20250120/15727_1a29455f/index.m3u8
@@ -2977,7 +2705,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 日月神剑粤语_第18集,https://v.lzcdn24.com/20250120/15744_d191f9ab/index.m3u8
 日月神剑粤语_第19集,https://v.lzcdn24.com/20250120/15745_c7eed5ad/index.m3u8
 日月神剑粤语_第20集,https://v.lzcdn24.com/20250120/15746_b66b4cb3/index.m3u8
-
 🇨🇳决战玄武门,#genre#
 决战玄武门国语_第01集,https://vip1.lz-cdn6.com/20221002/28970_87585bec/index.m3u8
 决战玄武门国语_第02集,https://vip1.lz-cdn6.com/20221002/28971_2243c24c/index.m3u8
@@ -3001,7 +2728,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 决战玄武门国语_第20集,https://vip1.lz-cdn6.com/20221002/28989_020ca837/index.m3u8
 养生之旅_第01集,https://v.cdnlz21.com/20250422/8916_2c3f2e5e/index.m3u8
 从夺走你的那天起_第01集,https://v.cdnlz22.com/20250422/15937_c7b5a149/index.m3u8
-
 🇨🇳名不虚传,#genre#
 名不虚传_第01集,https://v.cdnlz12.com/20250422/21549_e690be33/index.m3u8
 名不虚传_第02集,https://v.cdnlz12.com/20250422/21548_f63100a1/index.m3u8
@@ -3015,7 +2741,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 好警察坏警察_第07集,https://v.cdnlz22.com/20250422/15933_b2c4ec25/index.m3u8
 好警察坏警察_第08集,https://v.cdnlz22.com/20250422/15934_9783881a/index.m3u8
 重生之我在2005年种树_20250422,https://v.cdnlz21.com/20250422/8899_7a17e3bc/index.m3u8
-
 🇨🇳碧血青天,#genre#
 碧血青天珍珠旗国语_第01集,https://v.lzcdn24.com/20250206/17774_d42f5056/index.m3u8
 碧血青天珍珠旗国语_第02集,https://v.lzcdn24.com/20250206/17775_c753cd67/index.m3u8
@@ -3047,7 +2772,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 碧血青天珍珠旗国语_第28集,https://v.lzcdn24.com/20250206/17801_8f68ec4e/index.m3u8
 碧血青天珍珠旗国语_第29集,https://v.lzcdn24.com/20250206/17802_1a15c93d/index.m3u8
 碧血青天珍珠旗国语_第30集,https://v.lzcdn24.com/20250206/17803_e86b4b01/index.m3u8
-
 🇨🇳碧血青天杨,#genre#
 碧血青天杨家将粤语_第01集,https://v.lzcdn24.com/20250124/15995_9c42c403/index.m3u8
 碧血青天杨家将粤语_第02集,https://v.lzcdn24.com/20250124/15996_326d1a4d/index.m3u8
@@ -3079,7 +2803,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 碧血青天杨家将粤语_第28集,https://v.lzcdn24.com/20250124/16022_bd7bc13c/index.m3u8
 碧血青天杨家将粤语_第29集,https://v.lzcdn24.com/20250124/16023_abd39ab8/index.m3u8
 碧血青天杨家将粤语_第30集,https://v.lzcdn24.com/20250124/16024_1b4c502c/index.m3u8
-
 🇨🇳碧血青天国,#genre#
 碧血青天杨家将国语_第01集,https://vip.lz-cdn16.com/20230724/32550_29044770/index.m3u8
 碧血青天杨家将国语_第02集,https://vip.lz-cdn16.com/20230724/32549_399ed27f/index.m3u8
@@ -3111,7 +2834,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 碧血青天杨家将国语_第28集,https://vip.lz-cdn16.com/20230724/32572_9d1d7a50/index.m3u8
 碧血青天杨家将国语_第29集,https://vip.lz-cdn16.com/20230724/32573_6b716b5b/index.m3u8
 碧血青天杨家将国语_第30集,https://vip.lz-cdn16.com/20230724/32574_33e62d6e/index.m3u8
-
 🇨🇳箭侠恩仇粤,#genre#
 箭侠恩仇粤语_第01集,https://v.lzcdn24.com/20250206/17654_d7c098a3/index.m3u8
 箭侠恩仇粤语_第02集,https://v.lzcdn24.com/20250206/17655_94d4c891/index.m3u8
@@ -3133,7 +2855,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 箭侠恩仇粤语_第18集,https://v.lzcdn24.com/20250206/17671_5929263c/index.m3u8
 箭侠恩仇粤语_第19集,https://v.lzcdn24.com/20250206/17672_b2dd9ed2/index.m3u8
 箭侠恩仇粤语_第20集,https://v.lzcdn24.com/20250206/17673_4c8fc8b2/index.m3u8
-
 🇨🇳箭侠恩仇国,#genre#
 箭侠恩仇国语_第01集,https://v.lzcdn24.com/20250206/17964_06228ce6/index.m3u8
 箭侠恩仇国语_第02集,https://v.lzcdn24.com/20250206/17965_0926ea69/index.m3u8
@@ -3155,7 +2876,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 箭侠恩仇国语_第18集,https://v.lzcdn24.com/20250206/17982_5491802f/index.m3u8
 箭侠恩仇国语_第19集,https://v.lzcdn24.com/20250206/17981_287a52ee/index.m3u8
 箭侠恩仇国语_第20集,https://v.lzcdn24.com/20250206/17984_e8e70a31/index.m3u8
-
 🇨🇳独孤神剑,#genre#
 独孤神剑国语_第01集,https://v.cdnlz19.com/20240930/48175_60f64eb9/index.m3u8
 独孤神剑国语_第02集,https://v.cdnlz19.com/20240930/48176_6cc6c204/index.m3u8
@@ -3167,7 +2887,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 独孤神剑国语_第08集,https://v.cdnlz19.com/20240930/48182_3f2f4c7b/index.m3u8
 独孤神剑国语_第09集,https://v.cdnlz19.com/20240930/48183_6c096e86/index.m3u8
 独孤神剑国语_第10集,https://v.cdnlz19.com/20240930/48184_e1528b96/index.m3u8
-
 🇨??香帅传奇,#genre#
 香帅传奇_第01集,https://vip1.lz-cdn.com/20220421/9697_6827b773/index.m3u8
 香帅传奇_第02集,https://vip1.lz-cdn.com/20220421/9698_1ae9453a/index.m3u8
@@ -3219,7 +2938,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 香帅传奇_第48集,https://vip1.lz-cdn.com/20220421/9744_8d2a4ba3/index.m3u8
 香帅传奇_第49集,https://vip1.lz-cdn.com/20220421/9745_f51e8bb9/index.m3u8
 香帅传奇_第50集,https://vip1.lz-cdn.com/20220421/9746_097af834/index.m3u8
-
 🇨🇳小凤与满楼,#genre#
 陆小凤与花满楼_第01集,https://v.cdnlz19.com/20240914/44945_227d0476/index.m3u8
 陆小凤与花满楼_第02集,https://v.cdnlz19.com/20240914/44946_441dd51d/index.m3u8
@@ -3264,7 +2982,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 陆小凤与花满楼_第41集,https://v.cdnlz19.com/20240915/44985_6e02ebb9/index.m3u8
 陆小凤与花满楼_第42集,https://v.cdnlz19.com/20240916/44989_e53a12d5/index.m3u8
 陆小凤与花满楼_第43集,https://v.cdnlz19.com/20240916/44990_ea26197f/index.m3u8
-
 🇨🇳陆小凤,#genre#
 陆小凤之金鹏之谜_第01集,https://v.cdnlz19.com/20240203/12443_d435195f/index.m3u8
 陆小凤之金鹏之谜_第02集,https://v.cdnlz19.com/20240203/12444_6fa05b47/index.m3u8
@@ -3281,7 +2998,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 陆小凤传奇之决战前后_HD中字,https://vip.lzcdn2.com/20220417/3664_9ad30cd7/index.m3u8
 陆小凤传奇之剑神一笑_HD中字,https://vip.lzcdn2.com/20220417/3663_f69465e6/index.m3u8
 陆小凤传奇之陆小凤前传_HD中字,https://vip.lzcdn2.com/20220417/3665_799dac59/index.m3u8
-
 🇨🇳陆小凤粤,#genre#
 陆小凤传奇之凤舞九天_HD中字,https://vip.lzcdn2.com/20220417/3662_ac512b65/index.m3u8
 陆小凤之凤舞九天粤语_第01集,https://vip1.lz-cdn8.com/20221005/28420_b1d5e668/index.m3u8
@@ -3324,7 +3040,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 陆小凤之凤舞九天粤语_第38集,https://vip1.lz-cdn8.com/20221005/28457_ea51056d/index.m3u8
 陆小凤之凤舞九天粤语_第39集,https://vip1.lz-cdn8.com/20221005/28458_0a94ea10/index.m3u8
 陆小凤之凤舞九天粤语_第40集,https://vip1.lz-cdn8.com/20221005/28459_cf8e186b/index.m3u8
-
 🇨🇳陆小凤国语,#genre#
 陆小凤之凤舞九天国语_第01集,https://vip1.lz-cdn6.com/20221005/29635_363d9201/index.m3u8
 陆小凤之凤舞九天国语_第02集,https://vip1.lz-cdn6.com/20221005/29636_77db0a73/index.m3u8
@@ -3374,7 +3089,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 陆小凤传奇之铁鞋传奇电影解说_第01集,https://vip1.lz-cdn10.com/20230107/3258_51624a46/index.m3u8
 陆小凤传奇之绣花大盗1978_HD中字,https://vip1.lz-cdn7.com/20230513/15968_5a0a2c33/index.m3u8
 陆小凤之决战前后1981_HD中字,https://vip1.lz-cdn7.com/20230513/15969_768e0c5d/index.m3u8
-
 🇨🇳小李飞刀,#genre#
 小李飞刀1979_HD中字,https://v.cdnlz19.com/20240725/40097_9bc48253/index.m3u8
 小李飞刀1999电影解说_第01集,https://v.cdnlz18.com/20240221/10360_3aee251e/index.m3u8
@@ -3391,7 +3105,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 小李飞刀之多情剑客_第11集,https://vip1.lz-cdn6.com/20220712/18342_56380ad5/index.m3u8
 小李飞刀之多情剑客_第12集,https://vip1.lz-cdn6.com/20220712/18343_000131c3/index.m3u8
 小李飞刀之多情剑客_第13集,https://vip1.lz-cdn6.com/20220712/18344_6dcb34b5/index.m3u8
-
 🇨🇳飞刀恩俊版,#genre#
 小李飞刀焦恩俊版_第01集,https://vip1.lz-cdn6.com/20220711/18290_e5243e09/index.m3u8
 小李飞刀焦恩俊版_第02集,https://vip1.lz-cdn6.com/20220711/18291_ab76203d/index.m3u8
@@ -3441,7 +3154,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 小李飞刀之魔剑侠情_第06集,https://vip1.lz-cdn.com/20220712/24054_d7a360aa/index.m3u8
 小李飞刀之魔剑侠情_第07集,https://vip1.lz-cdn.com/20220712/24055_2da896fd/index.m3u8
 小李飞刀之魔剑侠情_第08集,https://vip1.lz-cdn.com/20220712/24056_729b8a5b/index.m3u8
-
 礼杰版小李,#genre#
 小李飞刀粤语关礼杰版_第01集,https://vip1.lz-cdn8.com/20220712/17976_424614df/index.m3u8
 小李飞刀粤语关礼杰版_第02集,https://vip1.lz-cdn8.com/20220712/17977_e7d136e4/index.m3u8
@@ -3463,7 +3175,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 小李飞刀粤语关礼杰版_第18集,https://vip1.lz-cdn8.com/20220712/17993_a46d6a88/index.m3u8
 小李飞刀粤语关礼杰版_第19集,https://vip1.lz-cdn8.com/20220712/17994_818ffaa4/index.m3u8
 小李飞刀粤语关礼杰版_第20集,https://vip1.lz-cdn8.com/20220712/17995_7f8c3f89/index.m3u8
-
 🇨🇳小李飞刀关,#genre#
 小李飞刀国语关礼杰版_第01集,https://vip1.lz-cdn6.com/20220711/18271_2b680ab9/index.m3u8
 小李飞刀国语关礼杰版_第02集,https://vip1.lz-cdn6.com/20220711/18272_e3913f11/index.m3u8
@@ -3487,7 +3198,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 小李飞刀国语关礼杰版_第20集,https://vip1.lz-cdn6.com/20220711/18289_a3f51f8c/index.m3u8
 小李飞刀之飞刀外传_粤语,https://vip.lz-cdn16.com/20230529/22762_14425068/index.m3u8
 小李飞刀之飞刀外传_国语,https://vip.lz-cdn16.com/20230529/22761_5f4f5229/index.m3u8
-
 🇨🇳碧血洗银枪,#genre#
 碧血洗银枪国语_第01集,https://v.cdnlz19.com/20241013/49729_3c639430/index.m3u8
 碧血洗银枪国语_第02集,https://v.cdnlz19.com/20241013/49730_314f77ac/index.m3u8
@@ -3495,7 +3205,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 碧血洗银枪国语_第04集,https://v.cdnlz19.com/20241015/50267_64dbcdc0/index.m3u8
 碧血洗银枪国语_第05集,https://v.cdnlz19.com/20241013/49733_5a7e8acf/index.m3u8
 碧血洗银枪1980电影解说_第01集,https://v.cdnlz18.com/20231212/7934_966bad8c/index.m3u8
-
 🇨🇳金蛇郎君,#genre#
 金蛇郎君国语_第01集,https://vip1.lz-cdn8.com/20221125/31504_3b348670/index.m3u8
 金蛇郎君国语_第02集,https://vip1.lz-cdn8.com/20221125/31505_5d59b120/index.m3u8
@@ -3520,7 +3229,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 神剑震江湖_HD中字,https://vip1.lz-cdn7.com/20230113/13456_b3fc1b8d/index.m3u8
 神剑震江湖电影解说_第01集,https://vip1.lz-cdn10.com/20230322/8211_e4801e02/index.m3u8
 神经大侠电影解说_第01集,https://v.cdnlz18.com/20231103/6316_b629aa73/index.m3u8
-
 🇨🇳越女剑,#genre#
 离别钩1980电影解说_第01集,https://v.cdnlz18.com/20231214/8030_b4b5dbfd/index.m3u8
 七种武器之孔雀翎电影解说_第01集,https://v.lz15uu.com/20250308/1850_0caa50c4/index.m3u8
@@ -3545,7 +3253,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 七种武器之孔雀翎_第19集,https://v.cdnlz20.com/20241002/14178_8ba6e897/index.m3u8
 七种武器之孔雀翎_第20集,https://v.cdnlz20.com/20241002/14179_77da841b/index.m3u8
 七种武器之孔雀翎_第21集,https://v.cdnlz20.com/20241002/14180_bb4f94b9/index.m3u8
-
 🇨🇳新边城浪子,#genre#
 新边城浪子_第01集,https://v.cdnlz20.com/20241016/15418_1deac5d6/index.m3u8
 新边城浪子_第02集,https://v.cdnlz20.com/20241016/15419_aa67704a/index.m3u8
@@ -3597,7 +3304,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新边城浪子_第48集,https://v.cdnlz20.com/20241017/15465_51452c8c/index.m3u8
 新边城浪子_第49集,https://v.cdnlz20.com/20241017/15466_55d684a4/index.m3u8
 新边城浪子_第50集,https://v.cdnlz20.com/20241017/15467_23e8a760/index.m3u8
-
 🇨🇳边城浪子,#genre#
 边城浪子国语_第01集,https://v.cdnlz19.com/20241016/50380_21ee082a/index.m3u8
 边城浪子国语_第02集,https://v.cdnlz19.com/20241016/50381_e52b3b7d/index.m3u8
@@ -3621,7 +3327,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 边城浪子国语_第20集,https://v.cdnlz19.com/20241016/50399_ffff4c45/index.m3u8
 边城浪子_HD中字,https://vip.lzcdn2.com/20220408/2668_70bc2b01/index.m3u8
 边城浪子电影解说_第01集,https://vip1.lz-cdn10.com/20230413/9801_a39a3af8/index.m3u8
-
 🇨🇳名剑风流,#genre#
 名剑风流电影解说_第01集,https://v.cdnlz18.com/20231117/6913_9ad28bd6/index.m3u8
 名剑风流台湾版_第01集,https://v.cdnlz17.com/20231014/29480_0453bd94/index.m3u8
@@ -3637,7 +3342,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 名剑风流台湾版_第11集,https://v.cdnlz17.com/20231014/29490_51bbd758/index.m3u8
 名剑风流台湾版_第12集,https://v.cdnlz17.com/20231014/29494_ddb21dcc/index.m3u8
 名剑风流台湾版_第13集,https://v.cdnlz17.com/20231014/29493_92080ba7/index.m3u8
-
 🇨🇳飞花逐月,#genre#
 飞花逐月国语_第01集,https://vip1.lz-cdn8.com/20220922/27487_37fd07ab/index.m3u8
 飞花逐月国语_第02集,https://vip1.lz-cdn8.com/20220922/27488_3ac51510/index.m3u8
@@ -3665,7 +3369,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 飞花逐月国语_第24集,https://vip1.lz-cdn8.com/20220922/27510_3b09d3c2/index.m3u8
 飞花逐月国语_第25集,https://vip1.lz-cdn8.com/20220922/27511_ea2c765e/index.m3u8
 飞花逐月国语_第26集,https://vip1.lz-cdn8.com/20220922/27512_e27b55db/index.m3u8
-
 🇨🇳仙鹤神针粤,#genre#
 92仙鹤神针粤语_第01集,https://v.lzcdn24.com/20250201/17099_904c862d/index.m3u8
 92仙鹤神针粤语_第02集,https://v.lzcdn24.com/20250201/17100_63c63695/index.m3u8
@@ -3698,7 +3401,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 92仙鹤神针粤语_第29集,https://v.lzcdn24.com/20250201/17127_bb509862/index.m3u8
 92仙鹤神针粤语_第30集,https://v.lzcdn24.com/20250201/17128_68db1382/index.m3u8
 新仙鹤神针电影解说_第01集,https://v.cdnlz18.com/20231104/6361_2c73a462/index.m3u8
-
 🇨🇳仙鹤神针,#genre#
 92仙鹤神针国语_第01集,https://vip.lz-cdn16.com/20230804/33989_73c1ddb0/index.m3u8
 92仙鹤神针国语_第02集,https://vip.lz-cdn16.com/20230804/33987_a223b898/index.m3u8
@@ -3734,7 +3436,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新仙鹤神针国语_HD中字,https://vip.lz-cdn3.com/20221106/15534_20a17c4b/index.m3u8
 新仙鹤神针粤语_HD中字,https://vip.lz-cdn3.com/20221106/15535_2cb3bb06/index.m3u8
 枕刀歌之尘世行_HD中字,https://vip.lzcdn2.com/20220604/8386_538de426/index.m3u8
-
 🇨🇳如来神掌,#genre#
 如来神掌2002电影解说_第01集,https://v.lzcdn23.com/20241110/7687_2884b847/index.m3u8
 如来神掌1982电影解说_第01集,https://v.cdnlz10.com/20230919/17853_f027e1d0/index.m3u8
@@ -3763,7 +3464,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 如来神掌再战江湖国语_第19集,https://vip.lz-cdn16.com/20230603/25891_eb16aae1/index.m3u8
 如来神掌再战江湖国语_第20集,https://vip.lz-cdn16.com/20230603/25893_240d8b2c/index.m3u8
 大侠沈胜衣电影解说_第01集,https://v.cdnlz18.com/20231214/8024_dad981a4/index.m3u8
-
 🇨🇳白骨阴阳剑,#genre#
 白骨阴阳剑1989_第01集,https://v.cdnlz12.com/20250330/20132_309ad6ed/index.m3u8
 白骨阴阳剑1989_第02集,https://v.cdnlz12.com/20250330/20133_f74a68c0/index.m3u8
@@ -3775,7 +3475,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 白骨阴阳剑1989_第08集,https://v.cdnlz12.com/20250330/20139_6e6a809d/index.m3u8
 十三太保之风云再起_HD中字,https://v.cdnlz12.com/20240319/13147_43ca2a7e/index.m3u8
 上海滩十三太保电影解说_第01集,https://v.cdnlz18.com/20231110/6629_df781d46/index.m3u8
-
 🇨🇳十三太保,#genre#
 十三太保国语_第01集,https://vip1.lz-cdn8.com/20220928/27805_96782490/index.m3u8
 十三太保国语_第02集,https://vip1.lz-cdn8.com/20220928/27806_47359770/index.m3u8
@@ -3819,7 +3518,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 十三太保粤语_第20集,https://vip1.lz-cdn8.com/20220928/27844_ef22b3d4/index.m3u8
 上海滩十三太保_HD中字,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/index.m3u8
 十三太保1970_HD中字,https://vip1.lz-cdn1.com/20220529/6962_5b34f6de/index.m3u8
-
 🇨🇳天师执位粤,#genre#
 天师执位粤语_第01集,https://v.lzcdn24.com/20250220/20107_dbf211a1/index.m3u8
 天师执位粤语_第02集,https://v.lzcdn24.com/20250220/20108_189c7ebb/index.m3u8
@@ -3841,7 +3539,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天师执位粤语_第18集,https://v.lzcdn24.com/20250220/20124_3d22fb5e/index.m3u8
 天师执位粤语_第19集,https://v.lzcdn24.com/20250220/20125_c2d7fc03/index.m3u8
 天师执位粤语_第20集,https://v.lzcdn24.com/20250220/20126_0136ea3a/index.m3u8
-
 🇨🇳天师执位,#genre#
 天师执位国语_第01集,https://v.cdnlz20.com/20241019/16025_70ca8a93/index.m3u8
 天师执位国语_第02集,https://v.cdnlz20.com/20241019/16026_222ce002/index.m3u8
@@ -3863,7 +3560,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 天师执位国语_第18集,https://v.cdnlz20.com/20241019/16042_b969f2cb/index.m3u8
 天师执位国语_第19集,https://v.cdnlz20.com/20241019/16044_a958c6d8/index.m3u8
 天师执位国语_第20集,https://v.cdnlz20.com/20241019/16043_bce6892b/index.m3u8
-
 🇨🇳盖世豪侠粤,#genre#
 盖世豪侠粤语_第01集,https://v.lzcdn26.com/20250215/9648_64194962/index.m3u8
 盖世豪侠粤语_第02集,https://v.lzcdn26.com/20250215/9649_a1964937/index.m3u8
@@ -3895,7 +3591,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 盖世豪侠粤语_第28集,https://v.lzcdn26.com/20250215/9675_4a986bbc/index.m3u8
 盖世豪侠粤语_第29集,https://v.lzcdn26.com/20250215/9676_1e0f5a3c/index.m3u8
 盖世豪侠粤语_第30集,https://v.lzcdn26.com/20250215/9677_7a65ec77/index.m3u8
-
 🇨🇳盖世豪侠,#genre#
 盖世豪侠国语_第01集,https://v.cdnlz19.com/20241016/50543_71a21da6/index.m3u8
 盖世豪侠国语_第02集,https://v.cdnlz19.com/20241016/50544_d6169bfe/index.m3u8
@@ -3929,7 +3624,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 盖世豪侠国语_第30集,https://v.cdnlz19.com/20241016/50571_35cb1dbe/index.m3u8
 盖世豪侠2020电影解说_第01集,https://vip1.lz-cdn10.com/20230319/8037_6fafc7a2/index.m3u8
 盖世豪侠1989电影解说_第01集,https://vip1.lz-cdn10.com/20230324/8352_4ba6477e/index.m3u8
-
 咏春,#genre#
 第01集,https://vip.ffzy-online.com/20230103/45093_6aa0c015/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online.com/20230103/45096_ab5ea626/2000k/hls/mixed.m3u8
@@ -3971,7 +3665,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第38集,https://vip.ffzy-online.com/20230103/45129_e182374e/2000k/hls/mixed.m3u8
 第39集,https://vip.ffzy-online.com/20230103/45132_15f89fd0/2000k/hls/mixed.m3u8
 第40集,https://vip.ffzy-online.com/20230103/45131_2d8db8fa/2000k/hls/mixed.m3u8
-
 还珠格格,#genre#
 第01集,https://vip.ffzy-online3.com/20230112/643_8fb6fc2c/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online3.com/20230112/641_38589694/2000k/hls/mixed.m3u8
@@ -3997,7 +3690,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第22集,https://vip.ffzy-online3.com/20230112/666_2aadd473/2000k/hls/mixed.m3u8
 第23集,https://vip.ffzy-online3.com/20230112/665_7ab81129/2000k/hls/mixed.m3u8
 第24集,https://vip.ffzy-online3.com/20230112/663_acdac5e8/2000k/hls/mixed.m3u8
-
 楚留香传奇,#genre#
 第01集,https://s6.bfzycdn.com/video/chuliuxiangchuanqi/%E7%AC%AC01%E9%9B%86/index.m3u8
 第02集,https://s4.bfzycdn.com/video/chuliuxiangchuanqi/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -4064,7 +3756,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第63集,https://s6.bfzycdn.com/video/chuliuxiangchuanqi/%E7%AC%AC63%E9%9B%86/index.m3u8
 第64集,https://s4.bfzycdn.com/video/chuliuxiangchuanqi/%E7%AC%AC64%E9%9B%86/index.m3u8
 第65集,https://s6.bfzycdn.com/video/chuliuxiangchuanqi/%E7%AC%AC65%E9%9B%86/index.m3u8
-
 盖世英雄方世玉,#genre#
 第01集,https://vip.ffzy-play1.com/20221124/22885_c0249dff/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play1.com/20221124/22886_f7df8d0d/2000k/hls/mixed.m3u8
@@ -4102,7 +3793,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第34集,https://vip.ffzy-play1.com/20221124/22920_67111d80/2000k/hls/mixed.m3u8
 第35集,https://vip.ffzy-play1.com/20221124/22919_01abd466/2000k/hls/mixed.m3u8
 第36集,https://vip.ffzy-play1.com/20221124/22917_d74cbdd8/2000k/hls/mixed.m3u8
-
 甘十九妹,#genre#
 第01集,https://vip.lz-cdn16.com/20230123/7378_f869d0cd/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn16.com/20230123/7379_ed23c3f0/2000k/hls/mixed.m3u8
@@ -4128,7 +3818,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第22集,https://vip.lz-cdn16.com/20230123/7399_b69389b6/2000k/hls/mixed.m3u8
 第23集,https://vip.lz-cdn16.com/20230123/7400_bd06b01c/2000k/hls/mixed.m3u8
 第24集,https://vip.lz-cdn16.com/20230123/7401_311d970a/2000k/hls/mixed.m3u8
-
 苗翠花,#genre#
 第01集,https://vip.ffzy-online.com/20221025/3756_10fe13f1/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online.com/20221025/3757_62733ce7/2000k/hls/mixed.m3u8
@@ -4150,7 +3839,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第18集,https://vip.ffzy-online.com/20221025/3773_c8904c7f/2000k/hls/mixed.m3u8
 第19集,https://vip.ffzy-online.com/20221025/3774_aacd055b/2000k/hls/mixed.m3u8
 第20集,https://vip.ffzy-online.com/20221025/3775_648cb432/2000k/hls/mixed.m3u8
-
 西游记高清,#genre#
 西游记1,https://www.4k-av.com/tv/106855-journey-to-the-west-ep01/720P/wxqogb.m3u8
 西游记2,https://www.4k-av.com/tv/106856-journey-to-the-west-ep02/720P/wxqogb.m3u8
@@ -4176,7 +3864,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 西游记23,https://www.4k-av.com/tv/106877-journey-to-the-west-ep23/720P/juikbn.m3u8
 西游记24,https://www.4k-av.com/tv/106878-journey-to-the-west-ep24/720P/juikbn.m3u8
 西游记25,https://www.4k-av.com/tv/106879-journey-to-the-west-ep25/720P/juikbn.m3u8
-
 新梁山伯与祝英台,#genre#
 第01集,https://vip.ffzy-play1.com/20230112/51081_f3cb3d7d/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play1.com/20230112/51082_e950ac0d/2000k/hls/mixed.m3u8
@@ -4219,7 +3906,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第39集,https://vip.ffzy-play1.com/20230112/51118_e5988a1c/2000k/hls/mixed.m3u8
 第40集,https://vip.ffzy-play1.com/20230112/51119_de9bfdf8/2000k/hls/mixed.m3u8
 第41集,https://vip.ffzy-play1.com/20230112/51120_57f05da4/2000k/hls/mixed.m3u8
-
 再向佛山行,#genre#
 第01集,https://vip.lz-cdn6.com/20220726/20093_34044f24/1000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn6.com/20220726/20094_db72ee75/1000k/hls/mixed.m3u8
@@ -4261,7 +3947,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第38集,https://vip.lz-cdn6.com/20220726/20130_e5a74bb2/1000k/hls/mixed.m3u8
 第39集,https://vip.lz-cdn6.com/20220726/20131_3b65b85d/1000k/hls/mixed.m3u8
 第40集,https://vip.lz-cdn6.com/20220726/20132_164d78d0/1000k/hls/mixed.m3u8
-
 哑巴新娘,#genre#
 02集,https://s2.bfzycdn.com/video/yuanyuewandao1997/%E7%AC%AC02%E9%9B%86/index.m3u8
 第03集,https://s2.bfzycdn.com/video/yuanyuewandao1997/%E7%AC%AC03%E9%9B%86/index.m3u8
@@ -4282,7 +3967,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第18集,https://s2.bfzycdn.com/video/yuanyuewandao1997/%E7%AC%AC18%E9%9B%86/index.m3u8
 第19集,https://s2.bfzycdn.com/video/yuanyuewandao1997/%E7%AC%AC19%E9%9B%86/index.m3u8
 第20集,https://s2.bfzycdn.com/video/yuanyuewandao1997/%E7%AC%AC20%E9%9B%86/index.m3u8
-
 天仙配,#genre#
 第01集,https://vip.ffzy-play1.com/20230112/51009_86043abc/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play1.com/20230112/51010_05f9b3be/2000k/hls/mixed.m3u8
@@ -4320,7 +4004,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第34集,https://vip.ffzy-play1.com/20230112/51043_cc0cc454/2000k/hls/mixed.m3u8
 第35集,https://vip.ffzy-play1.com/20230112/51042_8585263b/2000k/hls/mixed.m3u8
 第36集,https://vip.ffzy-play1.com/20230112/51045_23221d62/2000k/hls/mixed.m3u8
-
 剑魔独孤求败,#genre#
 第01集,https://vip.ffzy-play10.com/20221210/2069_dd606075/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play10.com/20221210/2073_dbb36d41/2000k/hls/mixed.m3u8
@@ -4343,7 +4026,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第19集,https://vip.ffzy-play10.com/20221210/2093_f8946619/2000k/hls/mixed.m3u8
 第20集,https://vip.ffzy-play10.com/20221210/2090_99fc634d/2000k/hls/mixed.m3u8
 第21集,https://vip.ffzy-play10.com/20221210/2088_00914dcb/2000k/hls/mixed.m3u8
-
 上海滩,#genre#
 1,https://hd.ijycnd.com/play/1aMrk7Pb/index.m3u8
 2,https://hd.ijycnd.com/play/5eVEwJBd/index.m3u8
@@ -4386,7 +4068,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 40,https://hd.ijycnd.com/play/1aKpgE8b/index.m3u8
 41,https://hd.ijycnd.com/play/qaQyoL5a/index.m3u8
 42,https://hd.ijycnd.com/play/RdGl1X5e/index.m3u8
-
 于和伟电影专辑,#genre#
 坚如磐石,https://svipsvip.ffzyread1.com/20231215/22193_54dad8f9/2000k/hls/mixed.m3u8
 第二十条,https://svipsvip.ffzy-online5.com/20240426/26560_596f7554/3000k/hls/mixed.m3u8
@@ -4404,7 +4085,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 超时空同居,https://vip.ffzy-online.com/20221015/745_b4a413ef/2000k/hls/mixed.m3u8
 幕后玩家,https://vip.ffzy-play.com/20221018/1847_f9676687/2000k/hls/mixed.m3u8
 魔都凶音,https://vip.ffzy-play7.com/20221124/6717_4dd64f77/2000k/hls/mixed.m3u8
-
 林正英电影专辑,#genre#
 僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/3000k/hls/mixed.m3u8
 灵幻先生,https://vip.ffzy-play7.com/20221115/4538_ddf6020e/2000k/hls/mixed.m3u8
@@ -4490,7 +4170,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 黄面老虎,https://vip.ffzy-play7.com/20221128/7563_962c84dc/2000k/hls/mixed.m3u8
 身不由己,https://vip.ffzy-play6.com/20221128/8989_246e279f/3000k/hls/mixed.m3u8
 三勇士蛮荒救美,https://vip.lz-cdn16.com/20230630/29748_e678ba6d/2000k/hls/mixed.m3u8
-
 敏电影专辑,#genre#
 鹿鼎记,https://vip.ffzy-online2.com/20230403/30732_157cb8d7/2000k/hls/mixed.m3u8
 九品芝麻官,https://vip.ffzy-play6.com/20221205/9996_68ad8079/3000k/hls/mixed.m3u8
@@ -4536,7 +4215,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 追日,https://vip.ffzy-play7.com/20221129/7755_3a0215ed/2000k/hls/mixed.m3u8
 小小小警察,https://vip.ffzy-play7.com/20230131/12926_ddf93907/2000k/hls/mixed.m3u8
 迟到的钢琴,https://vip.ffzy-play6.com/20221127/8752_554f93c9/3000k/hls/mixed.m3u8
-
 暗夜与黎明,#genre#
 第01集,https://vip.ffzy-video.com/20240918/2546_92a0e7a4/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-video.com/20240918/2547_86ecfcbc/2000k/hls/mixed.m3u8
@@ -4576,7 +4254,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第36集,https://vip.ffzy-video.com/20241004/3500_e2065cb5/2000k/hls/mixed.m3u8
 第37集,https://vip.ffzy-video.com/20241004/3501_d494020f/2000k/hls/mixed.m3u8
 第38集,https://vip.ffzy-video.com/20241004/3502_d2350a54/2000k/hls/mixed.m3u8
-
 🇨🇳三国演义,#genre#
 三国演义 第01集,https://vip.lz-cdn6.com/20220821/23321_52c53b68/1000k/hls/mixed.m3u8
 三国演义 第02集,https://vip.lz-cdn6.com/20220821/23322_6fbf3eda/1000k/hls/mixed.m3u8
@@ -4662,7 +4339,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 三国演义 第82集,https://vip.lz-cdn6.com/20220821/23402_90bbfa54/1000k/hls/mixed.m3u8
 三国演义 第83集,https://vip.lz-cdn6.com/20220821/23403_8f057aac/1000k/hls/mixed.m3u8
 三国演义 第84集,https://vip.lz-cdn6.com/20220821/23404_8d858871/1000k/hls/mixed.m3u8
-
 🇨🇳红楼梦,#genre#
 红楼梦 第01集,https://v.cdnlz19.com/20240831/42404_29dad446/2000k/hls/mixed.m3u8
 红楼梦 第02集,https://v.cdnlz19.com/20240831/42405_2fd82cec/2000k/hls/mixed.m3u8
@@ -4700,7 +4376,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 红楼梦 第34集,https://v.cdnlz19.com/20240831/42435_2f21c57d/2000k/hls/mixed.m3u8
 红楼梦 第35集,https://v.cdnlz19.com/20240831/42436_4ddfe9bc/2000k/hls/mixed.m3u8
 红楼梦 第36集,https://v.cdnlz19.com/20240831/42438_07404a40/2000k/hls/mixed.m3u8
-
 🇨🇳水浒传,#genre#
 水浒传 第01集,https://vip1.lz-cdn6.com/20220713/18378_be06c0e2/1000k/hls/mixed.m3u8
 水浒传 第02集,https://vip1.lz-cdn6.com/20220713/18379_0f05359b/1000k/hls/mixed.m3u8
@@ -4744,7 +4419,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 水浒传 第41集,https://vip1.lz-cdn6.com/20220713/18418_68463e1d/1000k/hls/mixed.m3u8
 水浒传 第42集,https://vip1.lz-cdn6.com/20220713/18419_b2d9cc9d/1000k/hls/mixed.m3u8
 水浒传 第43集,https://vip1.lz-cdn6.com/20220713/18420_26f23ac0/1000k/hls/mixed.m3u8
-
 🇨🇳大侠霍元甲,#genre#
 大侠霍元甲 第一集（1981年版）,https://vip.lz-cdn8.com/20220726/19874_401335cc/1000k/hls/mixed.m3u8
 大侠霍元甲 第二集（1981年版）,https://vip.lz-cdn8.com/20220726/19875_ccbcbb44/1000k/hls/mixed.m3u8
@@ -4766,7 +4440,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 大侠霍元甲 第十八集（1981年版）,https://vip.lz-cdn8.com/20220726/19891_05999d8d/1000k/hls/mixed.m3u8
 大侠霍元甲 第十九集（1981年版）,https://vip.lz-cdn8.com/20220726/19892_71797390/1000k/hls/mixed.m3u8
 大侠霍元甲 第二十集（1981年版）,https://vip.lz-cdn8.com/20220726/19893_cfd7b68c/1000k/hls/mixed.m3u8
-
 🇨🇳陈真,#genre#
 陈真 第一集,https://vip.lz-cdn8.com/20220726/19834_66a88720/1000k/hls/mixed.m3u8
 陈真 第二集,https://vip.lz-cdn8.com/20220726/19836_eb7a7ce7/1000k/hls/mixed.m3u8
@@ -4788,7 +4461,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 陈真 第十八集,https://vip.lz-cdn8.com/20220726/19851_a5790612/1000k/hls/mixed.m3u8
 陈真 第十九集,https://vip.lz-cdn8.com/20220726/19852_a90a54ba/1000k/hls/mixed.m3u8
 陈真 第二十集,https://vip.lz-cdn8.com/20220726/19853_865959fc/1000k/hls/mixed.m3u8
-
 🇨🇳霍东阁,#genre#
 霍东阁 第一集,https://vip.lz-cdn8.com/20220726/19914_261d11ef/1000k/hls/mixed.m3u8
 霍东阁 第二集,https://vip.lz-cdn8.com/20220726/19915_3abbcd5f/1000k/hls/mixed.m3u8
@@ -4820,7 +4492,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 霍东阁 第二十八集,https://vip.lz-cdn8.com/20220726/19941_c607c6fd/1000k/hls/mixed.m3u8
 霍东阁 第二十九集,https://vip.lz-cdn8.com/20220726/19942_4cbf12b5/1000k/hls/mixed.m3u8
 霍东阁 第三十集,https://vip.lz-cdn8.com/20220726/19943_b8fc85f9/1000k/hls/mixed.m3u8
-
 海鸥飞处彩云飞,#genre#
 第01集,https://vip.lz-cdn16.com/20230812/34831_6c1c771f/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn16.com/20230812/34832_8efbbb25/2000k/hls/mixed.m3u8
@@ -4862,7 +4533,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第38集,https://vip.lz-cdn16.com/20230812/34869_dfdd1953/2000k/hls/mixed.m3u8
 第39集,https://vip.lz-cdn16.com/20230812/34870_ca43a8f3/2000k/hls/mixed.m3u8
 第40集,https://vip.lz-cdn16.com/20230812/34867_80a15fdd/2000k/hls/mixed.m3u8
-
 🇨🇳少林与咏春,#genre#
 第01集,https://vip.ffzy-online3.com/20230620/33843_6b667cd2/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online3.com/20230620/33844_dfd8cd2c/2000k/hls/mixed.m3u8
@@ -4884,7 +4554,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第18集,https://vip.ffzy-online3.com/20230620/33860_b2191704/2000k/hls/mixed.m3u8
 第19集,https://vip.ffzy-online3.com/20230620/33861_2dd6a92a/2000k/hls/mixed.m3u8
 第20集,https://vip.ffzy-online3.com/20230620/33862_829ca09d/2000k/hls/mixed.m3u8
-
 🇨🇳哑巴新娘,#genre#
 第一集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC01%E9%9B%86/index.m3u8
 第二集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -4921,7 +4590,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第三十三集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC33%E9%9B%86/index.m3u8
 第三十四集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC34%E9%9B%86/index.m3u8
 第三十五集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC35%E9%9B%86/index.m3u8
-
 🇨🇳射雕英雄传,#genre#
 第01集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第01集/index.m3u8
 第02集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第02集/index.m3u8
@@ -4982,7 +4650,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第57集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第57集/index.m3u8
 第58集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第58集/index.m3u8
 第59集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第59集/index.m3u8
-
 梅花三弄之云水间,#genre#
 第01集,https://yzzy1.play-cdn20.com/20240413/35222_91d56ff7/2000k/hls/mixed.m3u8
 第02集,https://yzzy1.play-cdn20.com/20240413/35223_145bbb5b/2000k/hls/mixed.m3u8
@@ -5010,7 +4677,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第24集,https://yzzy1.play-cdn20.com/20240413/35246_fe49b307/2000k/hls/mixed.m3u8
 第25集,https://yzzy1.play-cdn20.com/20240413/35244_ffe0ccbc/2000k/hls/mixed.m3u8
 第26集,https://yzzy1.play-cdn20.com/20240413/35247_27ffd7c6/2000k/hls/mixed.m3u8
-
 梅花三弄之鬼丈夫,#genre#
 ﻿第01集,https://yzzy.play-cdn21.com/20240409/28719_838072e8/2000k/hls/mixed.m3u8
 第02集,https://yzzy.play-cdn21.com/20240409/28720_310bd1c8/2000k/hls/mixed.m3u8
@@ -5034,7 +4700,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第20集,https://yzzy.play-cdn21.com/20240409/28738_2ac9b7d9/2000k/hls/mixed.m3u8
 第21集,https://yzzy.play-cdn21.com/20240409/28739_a3a32956/2000k/hls/mixed.m3u8
 第22集,https://yzzy.play-cdn21.com/20240409/28740_4a2c7587/2000k/hls/mixed.m3u8
-
 梅花三弄之梅花烙,#genre#
 第一集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC01%E9%9B%86/index.m3u8
 第二集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -5057,7 +4722,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第十九集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC19%E9%9B%86/index.m3u8
 第二十集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC20%E9%9B%86/index.m3u8
 第二十一集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC21%E9%9B%86/index.m3u8
-
 🇨🇳雪中悍刀行,#genre#
 雪中悍刀行01,https://vip.ffzy-play.com/20221020/2351_1c211ba7/2000k/hls/mixed.m3u8
 雪中悍刀行02,https://vip.ffzy-play.com/20221020/2352_9bacc7dc/2000k/hls/mixed.m3u8
@@ -5096,7 +4760,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 雪中悍刀行36,https://vip.ffzy-play.com/20221020/2401_dfb0103e/2000k/hls/mixed.m3u8
 雪中悍刀行37,https://vip.ffzy-play.com/20221020/2402_a7082890/2000k/hls/mixed.m3u8
 雪中悍刀行38,https://vip.ffzy-play.com/20221020/2403_855bc85f/2000k/hls/mixed.m3u8
-
 🇨🇳莲花争霸,#genre#
 第01集,https://vip.lz-cdn16.com/20230630/29928_88e0d389/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn16.com/20230630/29930_06474743/2000k/hls/mixed.m3u8
@@ -5123,7 +4786,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第23集,https://vip.lz-cdn16.com/20230630/29950_4c248392/2000k/hls/mixed.m3u8
 第24集,https://vip.lz-cdn16.com/20230630/29951_925db7e3/2000k/hls/mixed.m3u8
 第25集,https://vip.lz-cdn16.com/20230630/29952_1214d989/2000k/hls/mixed.m3u8
-
 🇨🇳雪珂-频道,#genre#
 第01集,https://s3.bfzycdn.com/video/xueke/%E7%AC%AC01%E9%9B%86/index.m3u8
 第02集,https://s3.bfzycdn.com/video/xueke/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -5149,7 +4811,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第22集,https://s3.bfzycdn.com/video/xueke/%E7%AC%AC22%E9%9B%86/index.m3u8
 第23集,https://s3.bfzycdn.com/video/xueke/%E7%AC%AC23%E9%9B%86/index.m3u8
 第24集,https://s3.bfzycdn.com/video/xueke/%E7%AC%AC24%E9%9B%86/index.m3u8
-
 🇨🇳极限追捕,#genre#
 第一集,https://vip.ffzy-play1.com/20221206/29292_adb67a7e/2000k/hls/mixed.m3u8
 第二集,https://vip.ffzy-play1.com/20221206/29290_3ba10abe/2000k/hls/mixed.m3u8
@@ -5198,7 +4859,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第二十二集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC22%E9%9B%86/index.m3u8
 第二十三集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC23%E9%9B%86/index.m3u8
 第二十四集,https://s2.bfzycdn.com/video/jixianzhuibo/%E7%AC%AC24%E9%9B%86/index.m3u8
-
 🇨🇳女特警,#genre#
 第一集,https://vip.ffzy-online.com/20221230/42780_b2337be3/2000k/hls/index.m3u8
 第二集,https://vip.ffzy-online.com/20221230/42784_ad1eb2e6/2000k/hls/index.m3u8
@@ -5222,7 +4882,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第二十集,https://vip.ffzy-online.com/20221230/42799_fc1fbb93/2000k/hls/index.m3u8
 第二十一集,https://vip.ffzy-online.com/20221230/42802_3a1a0993/2000k/hls/index.m3u8
 第二十二集,https://vip.ffzy-online.com/20221230/42803_d638b5df/2000k/hls/index.m3u8
-
 🇨🇳古剑奇谭,#genre#
 古剑奇谭 第一集,https://vip.lzcdn2.com/20220914/20904_877b92d9/1200k/hls/mixed.m3u8
 古剑奇谭 第二集,https://vip.lzcdn2.com/20220914/20900_fb4fef39/1200k/hls/mixed.m3u8
@@ -5276,7 +4935,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 古剑奇谭 第五十集,https://vip.lzcdn2.com/20220914/20977_985cae7d/1200k/hls/mixed.m3u8
 古剑奇谭 第五十一集,https://vip.lzcdn2.com/20220914/20978_32903e91/1200k/hls/mixed.m3u8
 古剑奇谭 第五十二集,https://vip.lzcdn2.com/20220914/20979_63f1f14e/1200k/hls/mixed.m3u8
-
 🇨🇳风筝-频道,#genre#
 第01集,https://s4.bfzycdn.com/video/fengzheng/%E7%AC%AC01%E9%9B%86/index.m3u8
 第02集,https://s5.bfzycdn.com/video/fengzheng/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -5324,7 +4982,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第44集,https://s6.bfzycdn.com/video/fengzheng/%E7%AC%AC44%E9%9B%86/index.m3u8
 第45集,https://s6.bfzycdn.com/video/fengzheng/%E7%AC%AC45%E9%9B%86/index.m3u8
 第46集,https://s5.bfzycdn.com/video/fengzheng/%E7%AC%AC46%E9%9B%86/index.m3u8
-
 🇨🇳火蓝刀锋,#genre#
 第01集,https://vip.lzcdn2.com/20220910/20553_b0efba55/index.m3u8
 第02集,https://vip.lzcdn2.com/20220910/20555_69950b7c/index.m3u8
@@ -5358,7 +5015,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第30集,https://vip.lzcdn2.com/20220910/20629_6c529c0c/index.m3u8
 第31集,https://vip.lzcdn2.com/20220910/20630_ba3f77e8/index.m3u8
 第32集,https://vip.lzcdn2.com/20220910/20631_173ec2c3/index.m3u8
-
 🇨🇳八仙过海-频道,#genre#
 第01集,https://s3.bfzycdn.com/video/baxianguohaiguoyu/%E7%AC%AC01%E9%9B%86/index.m3u8
 第02集,https://s3.bfzycdn.com/video/baxianguohaiguoyu/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -5390,7 +5046,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第28集,https://s3.bfzycdn.com/video/baxianguohaiguoyu/%E7%AC%AC28%E9%9B%86/index.m3u8
 第29集,https://s3.bfzycdn.com/video/baxianguohaiguoyu/%E7%AC%AC29%E9%9B%86/index.m3u8
 第30集,https://s3.bfzycdn.com/video/baxianguohaiguoyu/%E7%AC%AC30%E9%9B%86/index.m3u8
-
 🇨🇳真命天师-频道,#genre#
 第01集,https://v6.tlkqc.com/wjv6/202310/23/vVh3KZkuTF1/video/index.m3u8
 第02集,https://v6.tlkqc.com/wjv6/202310/23/eut69WgUcb1/video/index.m3u8
@@ -5413,7 +5068,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第19集,https://v6.tlkqc.com/wjv6/202310/23/3LExXawCf21/video/index.m3u8
 第20集,https://v6.tlkqc.com/wjv6/202310/23/kf7UtmZyjK1/video/index.m3u8
 第21集,http://alimov6.a.yximgs.com/ksc1/hRabsJoyqsMxcwnzmAEfPKopBT941tdD7HMA42EfzV3f9cfJLwwW73HyzFQibxEwvm_44IaH3ryiWbBQMOY-pfRj-UndNPjyq7lzY4c85uarWGDW6AE4JtUv3RhpO8M1n7i-GR1pPp3WYQBr0pSS4JZ7GzSnLxbgx9wZbIdhZ7M0-eb6C6gTQQf6kPiadzIK.mp4?tag=1-1739095099-unknown-0-5967be10b83044ab-3d4b358efb604372&clientCacheKey=3x3vbeymiyi4seu_b.mp4&tt=b&di=df65dddc&bp=11851
-
 🇨🇳轻功-频道,#genre#
 轻·功 第一集,https://vip.lz-cdn7.com/20221206/12427_640ea6cc/2000k/hls/mixed.m3u8
 轻·功 第二集,https://vip.lz-cdn7.com/20221206/12425_128ecfef/2000k/hls/mixed.m3u8
@@ -5439,7 +5093,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 轻·功 第二十三集,https://vip.lz-cdn1.com/20230104/20279_07fe350c/1800k/hls/mixed.m3u8
 轻·功 第二十四集,https://vip.lz-cdn3.com/20230105/16975_4c8fe009/1800k/hls/index.m3u8
 轻·功 第二十五集,https://vip.lz-cdn1.com/20230106/20474_2834e1a5/1800k/hls/index.m3u8
-
 🇨🇳月歌行-频道,#genre#
 月歌行 第一集,https://vip.lz-cdn1.com/20221215/19220_0cf6473d/1800k/hls/mixed.m3u8
 月歌行 第二集,https://vip.lz-cdn1.com/20221215/19219_f6b22a76/1800k/hls/mixed.m3u8
@@ -5481,7 +5134,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 月歌行 第三十八集,https://vip.lzcdn2.com/20230109/23104_5f879fbd/1800k/hls/mixed.m3u8
 月歌行 第三十九集,https://vip.lzcdn2.com/20230110/23151_6d75ac88/1800k/hls/mixed.m3u8
 月歌行 第四十集,https://vip.lzcdn2.com/20230110/23150_0377d9f2/1800k/hls/mixed.m3u8
-
 🇨🇳上错花轿嫁对郎,#genre#
 上错花轿嫁对郎 第一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5240501210180900955_hlsb.m3u8
 上错花轿嫁对郎 第二集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212353687113483262_hlshd15.m3u8
@@ -5503,7 +5155,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 上错花轿嫁对郎 第十八集,https://vip.lz-cdn8.com/20220824/23022_bcc9e1a3/1000k/hls/mixed.m3u8
 上错花轿嫁对郎 第十九集,https://vip.lz-cdn8.com/20220824/23023_e85db550/1000k/hls/mixed.m3u8
 上错花轿嫁对郎 第二十集,https://vip.lz-cdn8.com/20220824/23024_043fcc50/1000k/hls/mixed.m3u8
-
 🇨🇳青青河边草,#genre#
 ﻿第01集,https://vip.ffzy-play10.com/20230117/12034_8c90be87/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play10.com/20230117/12033_40616205/2000k/hls/mixed.m3u8
@@ -5547,7 +5198,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第40集,https://vip.ffzy-play10.com/20230117/12073_6471274e/2000k/hls/mixed.m3u8
 第41集,https://vip.ffzy-play10.com/20230117/12075_2ab53fec/2000k/hls/mixed.m3u8
 第42集,https://vip.ffzy-play10.com/20230117/12070_64945be3/2000k/hls/mixed.m3u8
-
 🇨🇳武媚娘传奇,#genre#
 第01集,https://vip.ffzy-play9.com/20221220/25078_59936ca8/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play9.com/20221220/25082_6d9c679a/2000k/hls/mixed.m3u8
@@ -5644,7 +5294,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第94集,https://vip.ffzy-play9.com/20221220/25175_d8379a75/2000k/hls/mixed.m3u8
 第95集,https://vip.ffzy-play9.com/20221220/25171_a8804125/2000k/hls/mixed.m3u8
 第96集,https://vip.ffzy-play9.com/20221220/25173_34a0a55d/2000k/hls/mixed.m3u8
-
 🇨🇳诛仙青云志,#genre#
 诛仙青云志 第一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205322215720998_hlsb.m3u8
 诛仙青云志 第二集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221079421423892240_hlsb.m3u8
@@ -5701,7 +5350,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 诛仙青云志 第五十三集,https://txmov2.a.kwimgs.com/bs3/video-hls/5256263792747842194_hlsb.m3u8
 诛仙青云志 第五十四集,https://txmov2.a.kwimgs.com/bs3/video-hls/5248382494364453678_hlsb.m3u8
 诛仙青云志 第五十五集,https://txmov2.a.kwimgs.com/bs3/video-hls/5202502074489291453_hlsb.m3u8
-
 青龙好汉 ,#genre#
 第01集,https://vip.lz-cdn6.com/20221211/35715_e268811a/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn6.com/20221211/35716_7a5fbf0b/2000k/hls/mixed.m3u8
@@ -5856,7 +5504,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第152集,https://vip1.lz-cdn6.com/20221211/35866_cc84df2d/2000k/hls/mixed.m3u8
 第153集,https://vip1.lz-cdn6.com/20221211/35867_3866d570/2000k/hls/mixed.m3u8
 第154集,https://vip1.lz-cdn6.com/20221211/35868_be5b7e1c/2000k/hls/mixed.m3u8
-
 🇨🇳策马啸西风,#genre#
 策马啸西风1,https://v.cdnlz19.com/20240831/42265_9946e425/index.m3u8
 策马啸西风2,https://v.cdnlz19.com/20240831/42266_e69d2868/index.m3u8
@@ -5898,7 +5545,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 策马啸西风38,https://v.cdnlz19.com/20240831/42304_cc59cd43/index.m3u8
 策马啸西风39,https://v.cdnlz19.com/20240831/42302_27def87f/index.m3u8
 策马啸西风40,https://v.cdnlz19.com/20240831/42303_5f2a8454/index.m3u8
-
 🇨🇳银剑杀手沈胜衣,#genre#
 01,https://vip.ffzy-online3.com/20230624/35000_14e9721b/index.m3u8
 02,https://vip.ffzy-online3.com/20230624/35001_08bde6b0/index.m3u8
@@ -5916,7 +5562,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 14,https://vip.ffzy-online3.com/20230624/35013_89e13851/index.m3u8
 15,https://vip.ffzy-online3.com/20230624/35014_afe140e6/index.m3u8
 16,https://vip.ffzy-online3.com/20230624/35015_c5a834d5/index.m3u8
-
 🇨🇳萧十一郎,#genre#
 第01集,https://vip.ffzy-online3.com/20230615/32638_e2d4ec1b/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online3.com/20230616/32701_da89aa94/2000k/hls/mixed.m3u8
@@ -5938,7 +5583,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第18集,https://vip.ffzy-online3.com/20230616/32711_ba4f72a7/2000k/hls/mixed.m3u8
 第19集,https://vip.ffzy-online3.com/20230616/32712_6898d438/2000k/hls/mixed.m3u8
 第20集,https://vip.ffzy-online3.com/20230615/32645_9c51e837/2000k/hls/mixed.m3u8
-
 🇨🇳魔域桃源,#genre#
 第01集,https://vip.ffzy-play.com/20221106/14310_cc6f0b73/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play.com/20221106/14312_598a9dd9/2000k/hls/mixed.m3u8
@@ -5960,7 +5604,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第18集,https://vip.ffzy-play.com/20221106/14326_ac21fe60/2000k/hls/mixed.m3u8
 第19集,https://vip.ffzy-play.com/20221106/14329_de3dbef9/2000k/hls/mixed.m3u8
 第20集,https://vip.ffzy-play.com/20221106/14333_ad98d4b3/2000k/hls/mixed.m3u8
-
 🇨🇳楚汉传奇,#genre#
 楚汉传奇-01,https://yzzy.play-cdn7.com/20220831/15081_8af5706a/index.m3u8
 楚汉传奇-02,https://yzzy.play-cdn7.com/20220831/15080_d9a59d19/index.m3u8
@@ -6020,7 +5663,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 楚汉传奇-56,https://yzzy.play-cdn7.com/20220831/15024_87b2487c/index.m3u8
 楚汉传奇-57,https://yzzy.play-cdn7.com/20220831/15028_78661aed/index.m3u8
 楚留香,https://vip.ffzy-play7.com/20230215/14808_0ccf3503/2000k/hls/mixed.m3u8
-
 戏说乾隆,#genre#
 第01集,https://vip.ffzy-online1.com/20230604/40564_b8a902f1/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online1.com/20230604/40565_65f44e25/2000k/hls/mixed.m3u8
@@ -6062,7 +5704,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第38集,https://vip.ffzy-online1.com/20230604/40605_9c1d233c/2000k/hls/mixed.m3u8
 第39集,https://vip.ffzy-online1.com/20230604/40606_8a9e5cb8/2000k/hls/mixed.m3u8
 第40集,https://vip.ffzy-online1.com/20230604/40607_b665123c/2000k/hls/mixed.m3u8
-
 经典狂飙,#genre#
 狂飙 第一集,https://vip.lz-cdn3.com/20230114/17154_db8125dc/1800k/hls/mixed.m3u8
 狂飙 第二集,https://vip.lz-cdn3.com/20230114/17153_ab4d621a/1800k/hls/mixed.m3u8
@@ -6103,7 +5744,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 狂飙 第三十七集,https://hd.lz-cdn18.com/20230131/296_f35955e8/2000k/hls/mixed.m3u8
 狂飙 第三十八集,https://vip.lzcdn2.com/20230201/23716_c10840ec/1800k/hls/mixed.m3u8
 狂飙 第三十九集,https://vip.lzcdn2.com/20230201/23715_44218045/1800k/hls/mixed.m3u8
-
 三朵花,#genre#
 第一集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC01%E9%9B%86/index.m3u8
 第二集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -6116,7 +5756,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第九集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC09%E9%9B%86/index.m3u8
 第十集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC10%E9%9B%86/0000000.ts
 第十一集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC11%E9%9B%86/index.m3u8
-
 一帘幽梦,#genre#
 第01集,https://yzzy.play-cdn19.com/20240331/27931_eea6b45a/2000k/hls/mixed.m3u8
 第02集,https://yzzy.play-cdn19.com/20240331/27932_459b0a0a/2000k/hls/mixed.m3u8
@@ -6165,7 +5804,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第45集,https://yzzy.play-cdn19.com/20240331/27975_f0fefc63/2000k/hls/mixed.m3u8
 第46集,https://yzzy.play-cdn19.com/20240331/27976_6a3b9200/2000k/hls/mixed.m3u8
 第47集,https://yzzy.play-cdn19.com/20240331/27977_2542584c/2000k/hls/mixed.m3u8
-
 哑女情深,#genre#
 第01集,https://vip.ffzy-online4.com/20230304/13391_7dc84ce1/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online4.com/20230304/13393_0bef3877/2000k/hls/mixed.m3u8
@@ -6196,7 +5834,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第27集,https://vip.ffzy-online4.com/20230304/13415_5fa4770f/2000k/hls/mixed.m3u8
 第28集,https://vip.ffzy-online4.com/20230304/13416_c4fb00af/2000k/hls/mixed.m3u8
 第29集,https://vip.ffzy-online4.com/20230304/13419_ec01cb77/2000k/hls/mixed.m3u8
-
 苍天有泪,#genre#
 第01集,https://yzzy1.play-cdn20.com/20240405/31540_94358ed1/2000k/hls/mixed.m3u8
 第02集,https://yzzy1.play-cdn20.com/20240405/31541_96d45b50/2000k/hls/mixed.m3u8
@@ -6272,7 +5909,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第24集,https://v.cdnlz19.com/20240215/16036_58ae2f27/2000k/hls/mixed.m3u8
 第25集,https://v.cdnlz19.com/20240215/16037_1aa69569/2000k/hls/mixed.m3u8
 第26集,https://v.cdnlz19.com/20240215/16038_fd4d9181/2000k/hls/mixed.m3u8
-
 庭院深深,#genre#
 第01集,https://vip.lz-cdn16.com/20230812/34871_67dfe6fe/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn16.com/20230812/34872_10a29d43/2000k/hls/mixed.m3u8
@@ -6314,7 +5950,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第38集,https://vip.lz-cdn16.com/20230812/34907_d3c366f3/2000k/hls/mixed.m3u8
 第39集,https://vip.lz-cdn16.com/20230812/34908_a150af22/2000k/hls/mixed.m3u8
 第40集,https://vip.lz-cdn16.com/20230812/34912_9a3fa6fd/2000k/hls/mixed.m3u8
-
 在水一方,#genre#
 第01集,https://vip.lz-cdn16.com/20230812/35032_a2b143c9/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn16.com/20230812/35031_2c6c8f40/2000k/hls/mixed.m3u8
@@ -6356,7 +5991,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第38集,https://vip.lz-cdn16.com/20230812/35069_2fb9d575/2000k/hls/mixed.m3u8
 第39集,https://vip.lz-cdn16.com/20230812/35068_7f032ebc/2000k/hls/mixed.m3u8
 第40集,https://vip.lz-cdn16.com/20230812/35071_09cc8bc9/2000k/hls/mixed.m3u8
-
 几度夕阳红,#genre#
 第01集,https://vip1.lz-cdn6.com/20220921/28126_2eddf24f/1000k/hls/mixed.m3u8
 第02集,https://vip1.lz-cdn6.com/20220921/28127_54485eaf/1000k/hls/mixed.m3u8
@@ -6388,7 +6022,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 第28集,https://vip1.lz-cdn6.com/20220921/28153_cbc48b63/1000k/hls/mixed.m3u8
 第29集,https://vip1.lz-cdn6.com/20220921/28154_d21b0871/1000k/hls/mixed.m3u8
 第30集,https://vip1.lz-cdn6.com/20220921/28155_0321984a/1000k/hls/mixed.m3u8
-
 一起看电影,#genre#
 刺杀小说家2,https://cdn.yzzy33-play.com/20251212/1899_6be5336d/index.m3u8
 驱魔龙族马小玲(国语),https://cdn.yzzy31-play.com/20251211/8681_4dbf29d9/index.m3u8
@@ -6417,7 +6050,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 棋拳风暴(国语),https://cdn.yzzy29-play.com/20251120/9142_7c21c080/index.m3u8
 狄仁杰之彼岸奇花,https://cdn.yzzy33-play.com/20251215/2140_23c97e9c/index.m3u8
 狄仁杰之降魔咒,https://cdn.yzzy29-play.com/20250827/1038_6d70cb65/index.m3u8
-
 金鹰采集电影之1,#genre#
 动作片-打黑,https://hd.ijycnd.com/play/Xe062L5b/index.m3u8
 动作片-尼斯警花,https://hd.ijycnd.com/play/YaOrZ4Le/index.m3u8
@@ -6878,7 +6510,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-警醒（粤语版）,https://hd.ijycnd.com/play/BeXnV4Wb/index.m3u8
 动作片-狙击职业杀手（粤语版）,https://hd.ijycnd.com/play/Xe0O3Qvd/index.m3u8
 动作片-巨齿鲨（粤语版）,https://hd.ijycnd.com/play/nelD6r5e/index.m3u8
-
 金鹰采集电影之2,#genre#
 动作片-狂暴巨兽（粤语版）,https://hd.ijycnd.com/play/1aMoB33d/index.m3u8
 动作片-狂野之河（粤语版）,https://hd.ijycnd.com/play/qaQvL9Yb/index.m3u8
@@ -7347,7 +6978,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-疑云背后,https://hd.ijycnd.com/play/PdROx7Ve/index.m3u8
 动作片-武林志,https://hd.ijycnd.com/play/xe715MOb/index.m3u8
 动作片-疑云背后（国语版）,https://hd.ijycnd.com/play/0dNLqR2a/index.m3u8
-
 金鹰采集电影之3,#genre#
 动作片-武林风云,https://hd.ijycnd.com/play/PdROxXYe/index.m3u8
 动作片-武林圣火令（国语版）,https://hd.ijycnd.com/play/Le3Q539b/index.m3u8
@@ -7813,7 +7443,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-幻影战士（国语版）,https://hd.ijycnd.com/play/negXODaw/index.m3u8
 动作片-我是一个贼,https://hd.ijycnd.com/play/vbmXPpaY/index.m3u8
 动作片-花旗少林,https://hd.ijycnd.com/play/zbq8X3ap/index.m3u8
-
 金鹰采集电影之4,#genre#
 动作片-为爱叛逆2之逆战到底,https://hd.ijycnd.com/play/7axjj9dy/index.m3u8
 动作片-虎胆追凶,https://hd.ijycnd.com/play/vbmOBReY/index.m3u8
@@ -8270,7 +7899,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-封神传说之妖狐王妃,https://hd.ijycnd.com/play/QbYR80dz/index.m3u8
 动作片-疯狂的足球,https://hd.ijycnd.com/play/QdJRoDdO/index.m3u8
 动作片-飞鱼服,https://hd.ijycnd.com/play/xe7kKAe7/index.m3u8
-
 金鹰采集电影之5,#genre#
 动作片-毒。诫,https://hd.ijycnd.com/play/QdJRAKdO/index.m3u8
 动作片-方世玉之胜者为王,https://hd.ijycnd.com/play/zbq90rbp/index.m3u8
@@ -8730,7 +8358,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-蝎子王5:灵魂之书,https://hd.ijycnd.com/play/7ax9Ylby/index.m3u8
 动作片-夏福特,https://hd.ijycnd.com/play/7ax9XEby/index.m3u8
 动作片-风流家族 風流家族,https://hd.ijycnd.com/play/QdJzy2dO/index.m3u8
-
 金鹰采集电影之6,#genre#
 动作片-废柴特工(普通话版),https://hd.ijycnd.com/play/vbmGD3eY/index.m3u8
 动作片-焚兽之都(粤语版),https://hd.ijycnd.com/play/0dNpQDaL/index.m3u8
@@ -9183,7 +8810,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-抢孤,https://hd.ijycnd.com/play/PdR1WKbG/index.m3u8
 动作片-帕克,https://hd.ijycnd.com/play/QdJQoybO/index.m3u8
 动作片-金蝉脱壳2：冥府（原声版）,https://hd.ijycnd.com/play/Le3wMRe6/index.m3u8
-
 金鹰采集电影之7,#genre#
 动作片-神迹之上古传奇,https://hd.ijycnd.com/play/xe7XQ1a7/index.m3u8
 动作片-江湖龙虎斗,https://hd.ijycnd.com/play/vbmyx3bY/index.m3u8
@@ -9623,7 +9249,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-南斗官三斗北少爷,https://hd.ijycnd.com/play/zbqBnpdp/index.m3u8
 动作片-刀剑笑新传之宝鉴,https://hd.ijycnd.com/play/zbqBq0dp/index.m3u8
 动作片-扭转钱坤,https://hd.ijycnd.com/play/nego9kew/index.m3u8
-
 金鹰采集电影之8,#genre#
 动作片-家族与情感,https://hd.ijycnd.com/play/QdJpooaO/index.m3u8
 动作片-俄罗斯之锤,https://hd.ijycnd.com/play/PdRAqKbG/index.m3u8
@@ -10081,7 +9706,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-生死拳,https://hd.ijycnd.com/play/QbYE6zWb/index.m3u8
 动作片-江湖水,https://hd.ijycnd.com/play/xe7364Ge/index.m3u8
 动作片-过失,https://hd.ijycnd.com/play/xe7365Ge/index.m3u8
-
 金鹰采集电影之9,#genre#
 动作片-致命武器4,https://hd.ijycnd.com/play/QbYE6Lpb/index.m3u8
 动作片-钟馗伏魔：雪妖魔灵,https://hd.ijycnd.com/play/Le31lPOb/index.m3u8
@@ -10543,7 +10167,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-一线生机,https://hd.ijycnd.com/play/vbmQJNRb/index.m3u8
 动作片-最后的武士,https://hd.ijycnd.com/play/xe7L42ja/index.m3u8
 动作片-战龙在野,https://hd.ijycnd.com/play/7axvXw9d/index.m3u8
-
 金鹰采集电影之10,#genre#
 动作片-杂技亡命队,https://hd.ijycnd.com/play/xe7L4kja/index.m3u8
 动作片-智勇三宝,https://hd.ijycnd.com/play/QdJq5r2b/index.m3u8
@@ -10967,7 +10590,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 爱情片-一片深情,https://hd.ijycnd.com/play/negZgVjd/index.m3u8
 爱情片-异能学姐,https://hd.ijycnd.com/play/zbq7vm7e/index.m3u8
 爱情片-一念之痒,https://hd.ijycnd.com/play/PdROxrwe/index.m3u8
-
 金鹰采集电影之11,#genre#
 爱情片-三千年的渴望,https://hd.ijycnd.com/play/PdROAzOe/index.m3u8
 爱情片-偷窥者,https://hd.ijycnd.com/play/vbmOLZGe/index.m3u8
@@ -11385,7 +11007,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 爱情片-风从塬上来,https://hd.ijycnd.com/play/negPo6aw/index.m3u8
 爱情片-封口者,https://hd.ijycnd.com/play/7axmMJby/index.m3u8
 爱情片-疯狂试爱之勇敢爱,https://hd.ijycnd.com/play/xe7kGwe7/index.m3u8
-
 金鹰采集电影之12,#genre#
 爱情片-在乎你,https://hd.ijycnd.com/play/6dByykb7/index.m3u8
 爱情片-封仙册之铁扇罗刹,https://hd.ijycnd.com/play/negP09aw/index.m3u8
@@ -11808,7 +11429,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 爱情片-听海哭的声音,https://hd.ijycnd.com/play/PdRGALeG/index.m3u8
 爱情片-你好，之华,https://hd.ijycnd.com/play/Le3mpRb6/index.m3u8
 爱情片-十步一剑,https://hd.ijycnd.com/play/neg4N3aw/index.m3u8
-
 金鹰采集电影之13,#genre#
 爱情片-圣何塞谋杀案 聖荷西謀殺案(普通话),https://hd.ijycnd.com/play/6dB0jNa7/index.m3u8
 爱情片-圣何塞谋杀案（粤语版）,https://hd.ijycnd.com/play/QdJwrPeO/index.m3u8
@@ -12233,7 +11853,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 爱情片-暂停编年史,https://hd.ijycnd.com/play/QbYEmkYb/index.m3u8
 爱情片-最伟大的,https://hd.ijycnd.com/play/0dNkBzme/index.m3u8
 爱情片-淘金俏冤家,https://hd.ijycnd.com/play/0dNkBvLe/index.m3u8
-
 金鹰采集电影之14,#genre#
 爱情片-偷情别墅,https://hd.ijycnd.com/play/zbqxnyRa/index.m3u8
 爱情片-蝴蝶梦,https://hd.ijycnd.com/play/vbmZjEAd/index.m3u8
@@ -12664,7 +12283,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 爱情片-月亮的后裔,https://hd.ijycnd.com/play/7axvXm9d/index.m3u8
 爱情片-鸳鸯谱,https://hd.ijycnd.com/play/Le32W0xd/index.m3u8
 爱情片-欲海情魔,https://hd.ijycnd.com/play/vbmQJ69b/index.m3u8
-
 金鹰采集电影之15,#genre#
 爱情片-海滩,https://hd.ijycnd.com/play/vbmQJYEb/index.m3u8
 爱情片-缘份新天空,https://hd.ijycnd.com/play/PdRo90Ke/index.m3u8
@@ -13120,7 +12738,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-海滩游侠（粤语版）,https://hd.ijycnd.com/play/RdGgKl8d/index.m3u8
 喜剧片-黑暗阴影（粤语版）,https://hd.ijycnd.com/play/BeXnVJAb/index.m3u8
 喜剧片-嘿咻卡（粤语版）,https://hd.ijycnd.com/play/Xe0O3xKd/index.m3u8
-
 金鹰采集电影之16,#genre#
 喜剧片-回到未来2（粤语版）,https://hd.ijycnd.com/play/DdwZgBRb/index.m3u8
 喜剧片-惊情谍变（粤语版）,https://hd.ijycnd.com/play/9aAAO4Oa/index.m3u8
@@ -13550,7 +13167,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-二度姻缘三日情,https://hd.ijycnd.com/play/PdRlBmVa/index.m3u8
 喜剧片-斗鸡侠,https://hd.ijycnd.com/play/neg5Zrbw/index.m3u8
 喜剧片-冲锋车 衝鋒車,https://hd.ijycnd.com/play/zbqjXRdp/index.m3u8
-
 金鹰采集电影之17,#genre#
 喜剧片-比得兔2：逃跑计划,https://hd.ijycnd.com/play/QbY6ROdz/index.m3u8
 喜剧片-还我清白抢银行,https://hd.ijycnd.com/play/vbmwpReY/index.m3u8
@@ -13992,7 +13608,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-赌神（粤语版）,https://hd.ijycnd.com/play/Le3rZAd6/index.m3u8
 喜剧片-海豚伯尼2,https://hd.ijycnd.com/play/6dBvBNd7/index.m3u8
 喜剧片-警察故事2013（粤语版）,https://hd.ijycnd.com/play/QbYY1Abz/index.m3u8
-
 金鹰采集电影之18,#genre#
 喜剧片-横财局中局,https://hd.ijycnd.com/play/Le33lMe6/index.m3u8
 喜剧片-赌神3之少年赌神（粤语版）,https://hd.ijycnd.com/play/zbqpg7ap/index.m3u8
@@ -14439,7 +14054,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-我很在乎,https://hd.ijycnd.com/play/zbqkL0ep/index.m3u8
 喜剧片-西游外传之大圣娶亲,https://hd.ijycnd.com/play/zbqkr2ep/index.m3u8
 喜剧片-心若在，家就在,https://hd.ijycnd.com/play/zbqkERep/index.m3u8
-
 金鹰采集电影之19,#genre#
 喜剧片-咸鱼,https://hd.ijycnd.com/play/PdRV7RdG/index.m3u8
 喜剧片-西虹市首富,https://hd.ijycnd.com/play/Le3x0Ma6/index.m3u8
@@ -14878,7 +14492,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-灵欲的乐章,https://hd.ijycnd.com/play/QdJyMobO/index.m3u8
 喜剧片-弟子也疯狂,https://hd.ijycnd.com/play/negZVGdw/index.m3u8
 喜剧片-散弹露露,https://hd.ijycnd.com/play/vbmOp0eY/index.m3u8
-
 金鹰采集电影之20,#genre#
 喜剧片-憨豆的黄金周,https://hd.ijycnd.com/play/zbq7Erep/index.m3u8
 喜剧片-轻松自由,https://hd.ijycnd.com/play/xe71GGb7/index.m3u8
@@ -15324,7 +14937,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-天堂的祝福,https://hd.ijycnd.com/play/zbqV5ydp/index.m3u8
 喜剧片-天生爱情狂(粤语版),https://hd.ijycnd.com/play/0dNE0zbL/index.m3u8
 喜剧片-天使出更,https://hd.ijycnd.com/play/vbm2kndY/index.m3u8
-
 金鹰采集电影之21,#genre#
 喜剧片-天生爱情狂(普通话版),https://hd.ijycnd.com/play/Le3jwQd6/index.m3u8
 喜剧片-天下无双（粤语版）,https://hd.ijycnd.com/play/zbqVDRdp/index.m3u8
@@ -15735,7 +15347,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-浓情酒乡,https://hd.ijycnd.com/play/vbmZkD9d/index.m3u8
 喜剧片-骗徒奇遇记,https://hd.ijycnd.com/play/xe73MEye/index.m3u8
 喜剧片-你玩什么？,https://hd.ijycnd.com/play/QbYEZ1Mb/index.m3u8
-
 金鹰采集电影之22,#genre#
 喜剧片-美丽至极,https://hd.ijycnd.com/play/QbYEZg2b/index.m3u8
 喜剧片-皮特·戴维森：我仍在纽约,https://hd.ijycnd.com/play/Le313zOb/index.m3u8
@@ -16167,7 +15778,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-冰河世纪：猛犸象的圣诞,https://hd.ijycnd.com/play/QdJ6GLgd/index.m3u8
 喜剧片-都是戴茜惹的祸,https://hd.ijycnd.com/play/zbqxwkra/index.m3u8
 喜剧片-我要成名,https://hd.ijycnd.com/play/xe7688yd/index.m3u8
-
 金鹰采集电影之23,#genre#
 喜剧片-鱿鱼和鲸,https://hd.ijycnd.com/play/0dNkQz8e/index.m3u8
 喜剧片-捉奸侦探,https://hd.ijycnd.com/play/vbmZlyEd/index.m3u8
@@ -16594,7 +16204,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-佐州自救兄弟,https://hd.ijycnd.com/play/6dBBBVYd/index.m3u8
 喜剧片-圆桌,https://hd.ijycnd.com/play/7axkkJle/index.m3u8
 喜剧片-信长协奏曲 电影版,https://hd.ijycnd.com/play/negJJgDd/index.m3u8
-
 金鹰采集电影之24,#genre#
 喜剧片-走火交易,https://hd.ijycnd.com/play/zbqxxgpa/index.m3u8
 喜剧片-今天的恋爱,https://hd.ijycnd.com/play/xe733PBe/index.m3u8
@@ -17027,7 +16636,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-寻找伴郎,https://hd.ijycnd.com/play/vbmORoOe/index.m3u8
 喜剧片-寻找约翰·吉辛,https://hd.ijycnd.com/play/0dNLDqza/index.m3u8
 喜剧片-香城艳史,https://hd.ijycnd.com/play/zbq7RA3e/index.m3u8
-
 金鹰采集电影之25,#genre#
 喜剧片-仙班校园2,https://hd.ijycnd.com/play/vbmORYOe/index.m3u8
 喜剧片-现代爱情故事,https://hd.ijycnd.com/play/PdROY1qe/index.m3u8
@@ -17447,7 +17055,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 科幻片-边境迷雾,https://hd.ijycnd.com/play/xe77Pye7/index.m3u8
 科幻片-变异九头蛇,https://hd.ijycnd.com/play/zbqXgGap/index.m3u8
 科幻片-极北之战,https://hd.ijycnd.com/play/negVzGdw/index.m3u8
-
 金鹰采集电影之26,#genre#
 科幻片-记忆提取,https://hd.ijycnd.com/play/6dB73ke7/index.m3u8
 科幻片-机械战士,https://hd.ijycnd.com/play/PdRrxEdG/index.m3u8
@@ -17904,7 +17511,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 科幻片-侵占,https://hd.ijycnd.com/play/xe7KJQe7/index.m3u8
 科幻片-如来神掌,https://hd.ijycnd.com/play/vbm46GaY/index.m3u8
 科幻片-最后的日出,https://hd.ijycnd.com/play/xe7KXGe7/index.m3u8
-
 金鹰采集电影之27,#genre#
 科幻片-末路狂欢,https://hd.ijycnd.com/play/vbm47naY/index.m3u8
 科幻片-三界寻龙记,https://hd.ijycnd.com/play/6dB0pYa7/index.m3u8
@@ -18353,7 +17959,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 恐怖片-科洛弗悖论,https://hd.ijycnd.com/play/mbk4zjvd/index.m3u8
 恐怖片-地狱折磨,https://hd.ijycnd.com/play/Le3D4mQa/index.m3u8
 恐怖片-害虫,https://hd.ijycnd.com/play/Pe9MJYPe/index.m3u8
-
 金鹰采集电影之28,#genre#
 恐怖片-曲面,https://hd.ijycnd.com/play/Le3DZZ4a/index.m3u8
 恐怖片-安娜贝尔,https://hd.ijycnd.com/play/oeEo4gWb/index.m3u8
@@ -18791,7 +18396,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 恐怖片-驱魔古法,https://hd.ijycnd.com/play/vbmqxw0b/index.m3u8
 恐怖片-亲爱的快逃,https://hd.ijycnd.com/play/vbmqLQAb/index.m3u8
 恐怖片-魔翼杀手5,https://hd.ijycnd.com/play/6dBrWOXd/index.m3u8
-
 金鹰采集电影之29,#genre#
 恐怖片-地狱之渊,https://hd.ijycnd.com/play/QbY72rpe/index.m3u8
 恐怖片-密弑逃生,https://hd.ijycnd.com/play/vbmqKL3b/index.m3u8
@@ -19228,7 +18832,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 恐怖片-张震讲故事之三更夜,https://hd.ijycnd.com/play/6dBMpWb7/index.m3u8
 恐怖片-巢穴,https://hd.ijycnd.com/play/QdJnxKdO/index.m3u8
 恐怖片-残屋尸骸,https://hd.ijycnd.com/play/7ax0NPay/index.m3u8
-
 金鹰采集电影之30,#genre#
 恐怖片-细思极恐,https://hd.ijycnd.com/play/Le3qKrb6/index.m3u8
 恐怖片-小镇青年之潜罪者,https://hd.ijycnd.com/play/vbmzGAdY/index.m3u8
@@ -19661,7 +19264,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 恐怖片-灵动：鬼影实录3,https://hd.ijycnd.com/play/6dBnZnd7/index.m3u8
 恐怖片-死神快递,https://hd.ijycnd.com/play/PdRL3YaG/index.m3u8
 恐怖片-隧道尽头,https://hd.ijycnd.com/play/zbq29Gdp/index.m3u8
-
 金鹰采集电影之31,#genre#
 恐怖片-老九门番外之二月花开,https://hd.ijycnd.com/play/PdRLJqaG/index.m3u8
 恐怖片-史前巨鳄2,https://hd.ijycnd.com/play/0dN8RpaL/index.m3u8
@@ -20096,7 +19698,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 恐怖片-童眼,https://hd.ijycnd.com/play/0dNkN9pe/index.m3u8
 恐怖片-善与恶的房子,https://hd.ijycnd.com/play/xe73j3ye/index.m3u8
 恐怖片-死亡水域,https://hd.ijycnd.com/play/Le314lxb/index.m3u8
-
 金鹰采集电影之32,#genre#
 恐怖片-死亡经历,https://hd.ijycnd.com/play/QbYE26nb/index.m3u8
 恐怖片-目露凶光,https://hd.ijycnd.com/play/vbmZKppd/index.m3u8
@@ -20521,7 +20122,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-倒数时刻,https://hd.ijycnd.com/play/BeXJPKkb/index.m3u8
 剧情片-我的小公主,https://hd.ijycnd.com/play/rb20Xmve/index.m3u8
 剧情片-黄金少年,https://hd.ijycnd.com/play/BeXJXmAb/index.m3u8
-
 金鹰采集电影之33,#genre#
 剧情片-秘鲁奥鲁,https://hd.ijycnd.com/play/lej3gWWa/index.m3u8
 剧情片-无声的爱 2024,https://hd.ijycnd.com/play/Ddw3yKzd/index.m3u8
@@ -20975,7 +20575,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-无限斗界之暗夜双龙,https://hd.ijycnd.com/play/xe7mPB8b/index.m3u8
 剧情片-狂蟒之灾,https://hd.ijycnd.com/play/7e5kNKBb/index.m3u8
 剧情片-左轮手枪莉莉,https://hd.ijycnd.com/play/9avyGgne/index.m3u8
-
 金鹰采集电影之34,#genre#
 剧情片-那夜我们行向彼方,https://hd.ijycnd.com/play/QbYw3EWe/index.m3u8
 剧情片-古今大战秦俑情,https://hd.ijycnd.com/play/xbooL3zb/index.m3u8
@@ -21423,7 +21022,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-暗杀风暴粤语版,https://hd.ijycnd.com/play/7e5X3Oxd/index.m3u8
 剧情片-丧尸之城,https://hd.ijycnd.com/play/PdRDw5La/index.m3u8
 剧情片-湘西诡案,https://hd.ijycnd.com/play/6dBjRYXd/index.m3u8
-
 金鹰采集电影之35,#genre#
 剧情片-狱卒,https://hd.ijycnd.com/play/PdRDMXLa/index.m3u8
 剧情片-悖论,https://hd.ijycnd.com/play/ZdPAYRye/index.m3u8
@@ -21848,7 +21446,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-爱的界线,https://hd.ijycnd.com/play/vbmGLone/index.m3u8
 剧情片-新封神之二郎神,https://hd.ijycnd.com/play/7e53jzqb/index.m3u8
 剧情片-嘻哈梦想,https://hd.ijycnd.com/play/wdLnLowa/index.m3u8
-
 金鹰采集电影之36,#genre#
 剧情片-家庭晚餐,https://hd.ijycnd.com/play/kaz9Rwqe/index.m3u8
 剧情片-海湾之遇,https://hd.ijycnd.com/play/PdRwRJwe/index.m3u8
@@ -22297,7 +21894,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-行走的正义,https://hd.ijycnd.com/play/Le3wOGMe/index.m3u8
 剧情片-江南1970,https://hd.ijycnd.com/play/vbmyGNGb/index.m3u8
 剧情片-海边的曼彻斯特,https://hd.ijycnd.com/play/QbY50r2b/index.m3u8
-
 金鹰采集电影之37,#genre#
 剧情片-法兰西特派,https://hd.ijycnd.com/play/7ax198Bb/index.m3u8
 剧情片-我亲爱的莫妮卡,https://hd.ijycnd.com/play/PdR15NVb/index.m3u8
@@ -22734,7 +22330,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-青春喂了狗2：不一样的烟火,https://hd.ijycnd.com/play/zbqQky0b/index.m3u8
 剧情片-青春无悔,https://hd.ijycnd.com/play/QbY7Dz2e/index.m3u8
 剧情片-青葱那年,https://hd.ijycnd.com/play/xe79qo1b/index.m3u8
-
 金鹰采集电影之38,#genre#
 剧情片-青红,https://hd.ijycnd.com/play/negpWAka/index.m3u8
 剧情片-青山翠谷,https://hd.ijycnd.com/play/6dBrGDYd/index.m3u8
@@ -23161,7 +22756,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-青春的园地,https://hd.ijycnd.com/play/QdJ895Ja/index.m3u8
 剧情片-墙头马上,https://hd.ijycnd.com/play/7ax6rMld/index.m3u8
 剧情片-巧哥儿,https://hd.ijycnd.com/play/PdRlVAVa/index.m3u8
-
 金鹰采集电影之39,#genre#
 剧情片-梧桐河衫恋,https://hd.ijycnd.com/play/negpDP9a/index.m3u8
 剧情片-狂宴,https://hd.ijycnd.com/play/0dNOBq6e/index.m3u8
@@ -23597,7 +23191,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-C+侦探,https://hd.ijycnd.com/play/negJkYdw/index.m3u8
 剧情片-不要离开,https://hd.ijycnd.com/play/Le316xb6/index.m3u8
 剧情片-变鬼,https://hd.ijycnd.com/play/46dBlYa7/index.m3u8
-
 金鹰采集电影之40,#genre#
 剧情片-兵心无悔,https://hd.ijycnd.com/play/6dBBgkd7/index.m3u8
 剧情片-埃贡·席勒：过度,https://hd.ijycnd.com/play/QdJ6yPdO/index.m3u8
@@ -24043,7 +23636,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-分手说爱你,https://hd.ijycnd.com/play/vbmV79dY/index.m3u8
 剧情片-埃德沃德·迈布里奇,https://hd.ijycnd.com/play/0dNn0vdL/index.m3u8
 剧情片-唇上之歌,https://hd.ijycnd.com/play/vbmVqRdY/index.m3u8
-
 金鹰采集电影之41,#genre#
 剧情片-告别汉堡,https://hd.ijycnd.com/play/7axNj9dy/index.m3u8
 剧情片-独行杀手,https://hd.ijycnd.com/play/6dB76Ye7/index.m3u8
@@ -24486,7 +24078,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-戏子们：传闻操纵团,https://hd.ijycnd.com/play/xe7JmOd7/index.m3u8
 剧情片-无名大师,https://hd.ijycnd.com/play/negXElaw/index.m3u8
 剧情片-无尽的战壕,https://hd.ijycnd.com/play/PdRBJ0dG/index.m3u8
-
 金鹰采集电影之42,#genre#
 剧情片-我们的家园,https://hd.ijycnd.com/play/0dN12LbL/index.m3u8
 剧情片-夏令营,https://hd.ijycnd.com/play/negXjDaw/index.m3u8
@@ -24939,7 +24530,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-第四出局,https://hd.ijycnd.com/play/QdJMQJbO/index.m3u8
 剧情片-好消息,https://hd.ijycnd.com/play/vbmm2rbY/index.m3u8
 剧情片-荒野,https://hd.ijycnd.com/play/PdRmwqbG/index.m3u8
-
 金鹰采集电影之43,#genre#
 剧情片-吉伯特拒蛋行动,https://hd.ijycnd.com/play/negOMYew/index.m3u8
 剧情片-黄金日记,https://hd.ijycnd.com/play/xe7mOjb7/index.m3u8
@@ -25392,7 +24982,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-一触即发之除爆,https://hd.ijycnd.com/play/QbY9GYbz/index.m3u8
 剧情片-巡梦行者,https://hd.ijycnd.com/play/neg9oDbw/index.m3u8
 剧情片-辛亥元勋蒋翊武,https://hd.ijycnd.com/play/0dN6rKdL/index.m3u8
-
 金鹰采集电影之44,#genre#
 剧情片-颜如玉,https://hd.ijycnd.com/play/PdRVNYdG/index.m3u8
 剧情片-乘列车前行,https://hd.ijycnd.com/play/vbm9pEbY/index.m3u8
@@ -25829,7 +25418,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-黑处有什么,https://hd.ijycnd.com/play/PdRD0YaG/index.m3u8
 剧情片-海上钢琴师,https://hd.ijycnd.com/play/PdR72VeG/index.m3u8
 剧情片-荒野玫瑰,https://hd.ijycnd.com/play/PdRDMRaG/index.m3u8
-
 金鹰采集电影之45,#genre#
 剧情片-霍家拳之精武英雄,https://hd.ijycnd.com/play/6dBjQxd7/index.m3u8
 剧情片-化身,https://hd.ijycnd.com/play/7axwl9ey/index.m3u8
@@ -26263,7 +25851,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-亲切的金子,https://hd.ijycnd.com/play/vbmYkpbY/index.m3u8
 剧情片-孩子在那我在这,https://hd.ijycnd.com/play/QdJNR9dO/index.m3u8
 剧情片-哈纳莱伊湾,https://hd.ijycnd.com/play/QbYynObz/index.m3u8
-
 金鹰采集电影之46,#genre#
 剧情片-浴血而战,https://hd.ijycnd.com/play/QdJNAldO/index.m3u8
 剧情片-欲望号快车,https://hd.ijycnd.com/play/6dBP7na7/index.m3u8
@@ -26710,7 +26297,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-赌城大亨之新哥传奇,https://hd.ijycnd.com/play/QdJq1PbO/index.m3u8
 剧情片-绿头苍蝇,https://hd.ijycnd.com/play/vbmQkrbY/index.m3u8
 剧情片-快相睡眠,https://hd.ijycnd.com/play/6dBL2Ja7/index.m3u8
-
 金鹰采集电影之47,#genre#
 剧情片-对不起，我们错过了你,https://hd.ijycnd.com/play/xe7L2Aa7/index.m3u8
 剧情片-恋恋难知音,https://hd.ijycnd.com/play/QdJqg9bO/index.m3u8
@@ -27163,7 +26749,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-这个警察不用枪 （国语版）,https://hd.ijycnd.com/play/negQmkbw/index.m3u8
 剧情片-以眼还眼,https://hd.ijycnd.com/play/vbmMgAbY/index.m3u8
 剧情片-迎头痛击（国语版）,https://hd.ijycnd.com/play/6dBRAWd7/index.m3u8
-
 金鹰采集电影之48,#genre#
 剧情片-迎头痛击,https://hd.ijycnd.com/play/QdJ7MveO/index.m3u8
 剧情片-异乡故事 異鄉故事,https://hd.ijycnd.com/play/PdR5J0bG/index.m3u8
@@ -27585,7 +27170,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-日落大道,https://hd.ijycnd.com/play/7axllzay/index.m3u8
 剧情片-死亡笔记：L改变世界,https://hd.ijycnd.com/play/Le3994b6/index.m3u8
 剧情片-倔强甜心,https://hd.ijycnd.com/play/vbmE2EbY/index.m3u8
-
 金鹰采集电影之49,#genre#
 剧情片-师公降魔,https://hd.ijycnd.com/play/zbq2Akdp/index.m3u8
 剧情片-摔跤吧！爸爸,https://hd.ijycnd.com/play/QdJQG2bO/index.m3u8
@@ -28015,7 +27599,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-霹雳行动,https://hd.ijycnd.com/play/0dNOX4Ne/index.m3u8
 剧情片-皮囊之下,https://hd.ijycnd.com/play/QbY7r3We/index.m3u8
 剧情片-霹雳甜心,https://hd.ijycnd.com/play/QdJ8z5va/index.m3u8
-
 金鹰采集电影之50,#genre#
 剧情片-霹雳蓝天使,https://hd.ijycnd.com/play/vbmq8Jnb/index.m3u8
 剧情片-霹雳大将军,https://hd.ijycnd.com/play/PdRlkxza/index.m3u8
@@ -28446,7 +28029,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-闻香寻爱,https://hd.ijycnd.com/play/QbY7Xrpe/index.m3u8
 剧情片-我11,https://hd.ijycnd.com/play/vbmqX80b/index.m3u8
 剧情片-我爱丹尼斯,https://hd.ijycnd.com/play/7ax6j8rd/index.m3u8
-
 金鹰采集电影之51,#genre#
 剧情片-我啊，走自己的路,https://hd.ijycnd.com/play/zbqQ86rb/index.m3u8
 剧情片-我爱红娘,https://hd.ijycnd.com/play/0dNO1Xze/index.m3u8
@@ -28869,7 +28451,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-田园风光,https://hd.ijycnd.com/play/vbmZXMAd/index.m3u8
 剧情片-凯特·麦考的审判,https://hd.ijycnd.com/play/negJM9Yd/index.m3u8
 剧情片-赌命威龙,https://hd.ijycnd.com/play/negJX6ld/index.m3u8
-
 金鹰采集电影之52,#genre#
 剧情片-灭法者,https://hd.ijycnd.com/play/6dBB9GJd/index.m3u8
 剧情片-空城计,https://hd.ijycnd.com/play/QdJ6XKvd/index.m3u8
@@ -29281,7 +28862,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-疾风回旋曲,https://hd.ijycnd.com/play/zbqB3rdp/index.m3u8
 剧情片-旧爱重拍,https://hd.ijycnd.com/play/negog6ew/index.m3u8
 剧情片-花牌情缘,https://hd.ijycnd.com/play/zbqB12dp/index.m3u8
-
 金鹰采集电影之53,#genre#
 剧情片-夏威夷往事,https://hd.ijycnd.com/play/7axMDrby/index.m3u8
 剧情片-恋,https://hd.ijycnd.com/play/negoz9ew/index.m3u8
@@ -29721,7 +29301,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-托马索,https://hd.ijycnd.com/play/vbmrOndY/index.m3u8
 剧情片-父传子传,https://hd.ijycnd.com/play/xe757yb7/index.m3u8
 剧情片-怀旧,https://hd.ijycnd.com/play/QbY3VKez/index.m3u8
-
 金鹰采集电影之54,#genre#
 剧情片-疗伤旅程,https://hd.ijycnd.com/play/zbqyjDbp/index.m3u8
 剧情片-喜宝,https://hd.ijycnd.com/play/neg33rew/index.m3u8
@@ -30153,7 +29732,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-忘了去懂你,https://hd.ijycnd.com/play/xe73gQje/index.m3u8
 剧情片-犯罪活动,https://hd.ijycnd.com/play/zbqxKK2a/index.m3u8
 剧情片-幸福59厘米之夜天使,https://hd.ijycnd.com/play/PdR6plYd/index.m3u8
-
 金鹰采集电影之55,#genre#
 剧情片-天与地（国语版）,https://hd.ijycnd.com/play/vbmZD5Gd/index.m3u8
 剧情片-幸福59厘米之北京门票,https://hd.ijycnd.com/play/0dNklLNe/index.m3u8
@@ -30599,7 +30177,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-船,https://hd.ijycnd.com/play/vbmZQ3Od/index.m3u8
 剧情片-更好的世界,https://hd.ijycnd.com/play/xe73LPAe/index.m3u8
 剧情片-峨眉飞盗,https://hd.ijycnd.com/play/vbmZQAAd/index.m3u8
-
 金鹰采集电影之56,#genre#
 剧情片-爱的教育,https://hd.ijycnd.com/play/vbmZQ49d/index.m3u8
 剧情片-新的一代,https://hd.ijycnd.com/play/zbqxYORa/index.m3u8
@@ -31050,7 +30627,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-天堂高速,https://hd.ijycnd.com/play/PdRgAkLe/index.m3u8
 剧情片-独家头条2022,https://hd.ijycnd.com/play/vbmwxWRe/index.m3u8
 剧情片-大国手之扬州论枰,https://hd.ijycnd.com/play/neg5o1Zb/index.m3u8
-
 金鹰采集电影之57,#genre#
 剧情片-300杀手,https://hd.ijycnd.com/play/0dNxwVLa/index.m3u8
 剧情片-幽灵樟宜,https://hd.ijycnd.com/play/zbqjBJRd/index.m3u8
@@ -31481,7 +31057,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-曼殊沙华,https://hd.ijycnd.com/play/0dNxM6pa/index.m3u8
 剧情片-摇滚新乐团,https://hd.ijycnd.com/play/0dNxzlva/index.m3u8
 剧情片-蜗牛餐厅,https://hd.ijycnd.com/play/xe76QQQd/index.m3u8
-
 金鹰采集电影之58,#genre#
 剧情片-我们关系的基础知识,https://hd.ijycnd.com/play/PdRg3yYe/index.m3u8
 剧情片-韩国街舞少年事件,https://hd.ijycnd.com/play/6dBg3GWe/index.m3u8
@@ -31921,7 +31496,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-小猫跳出来3D,https://hd.ijycnd.com/play/negL1mZa/index.m3u8
 剧情片-小教父,https://hd.ijycnd.com/play/QbYvoG9d/index.m3u8
 剧情片-小马的山村日记,https://hd.ijycnd.com/play/Le32BW4d/index.m3u8
-
 金鹰采集电影之59,#genre#
 剧情片-小狗的巡警先生,https://hd.ijycnd.com/play/vbmQl5pb/index.m3u8
 剧情片-临床医生,https://hd.ijycnd.com/play/QbYvoL0d/index.m3u8
@@ -32365,7 +31939,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-行规,https://hd.ijycnd.com/play/6dBNXVWd/index.m3u8
 剧情片-行骗天下,https://hd.ijycnd.com/play/QbYWYjWe/index.m3u8
 剧情片-雁鸿岭下,https://hd.ijycnd.com/play/Le3QrBAb/index.m3u8
-
 金鹰采集电影之60,#genre#
 剧情片-夜不藏罪,https://hd.ijycnd.com/play/negZyZGd/index.m3u8
 剧情片-夜半天使,https://hd.ijycnd.com/play/7axnyv3d/index.m3u8
@@ -32829,7 +32402,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 战争片-天国王朝,https://hd.ijycnd.com/play/6dBBNgod/index.m3u8
 战争片-闪闪的红星,https://hd.ijycnd.com/play/Le31QjOb/index.m3u8
 战争片-旗正飘飘,https://hd.ijycnd.com/play/xe731X1e/index.m3u8
-
 金鹰采集电影之61,#genre#
 战争片-巍巍昆仑,https://hd.ijycnd.com/play/Le31QYOb/index.m3u8
 战争片-你逃我也逃,https://hd.ijycnd.com/play/negJZLrd/index.m3u8
@@ -33280,7 +32852,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 记录片-美国交响曲,https://hd.ijycnd.com/play/QdJ95zPb/index.m3u8
 记录片-无良医生：爱里藏刀,https://hd.ijycnd.com/play/6dBY4Rkb/index.m3u8
 记录片-崇高之上,https://hd.ijycnd.com/play/zbqk3Q2e/index.m3u8
-
 金鹰采集电影之62,#genre#
 记录片-琉璃宝塔地宫之谜,https://hd.ijycnd.com/play/xbog1DXb/index.m3u8
 记录片-照亮余生,https://hd.ijycnd.com/play/0dN6AKLd/index.m3u8
@@ -33718,7 +33289,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 记录片-舌尖上的中国 第二季,https://hd.ijycnd.com/play/rb2gwX1d/index.m3u8
 记录片-秘境探险队,https://hd.ijycnd.com/play/5eV5V2vd/index.m3u8
 记录片-复兴之路,https://hd.ijycnd.com/play/YaOE06rd/index.m3u8
-
 金鹰采集电影之63,#genre#
 记录片-法航里约空难,https://hd.ijycnd.com/play/negx9Mka/index.m3u8
 记录片-地球的秘密,https://hd.ijycnd.com/play/9b6mAKRa/index.m3u8
@@ -34167,7 +33737,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 记录片-席琳·狄翁：全世界的目光,https://hd.ijycnd.com/play/negJP6Gd/index.m3u8
 记录片-象牙游戏,https://hd.ijycnd.com/play/zbqx9D0a/index.m3u8
 记录片-大卫·伯恩的美国乌托邦,https://hd.ijycnd.com/play/negJPYZd/index.m3u8
-
 金鹰采集电影之64,#genre#
 记录片-塞加拉陵墓揭秘,https://hd.ijycnd.com/play/0dNkR02e/index.m3u8
 记录片-尼尔·杨：金子心,https://hd.ijycnd.com/play/QdJ6RNKd/index.m3u8
@@ -34612,7 +34181,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动画片-芭比公主之钻石城堡 2008,https://hd.ijycnd.com/play/Pe9ML8Pe/index.m3u8
 动画片-芭比之真假公主 2004,https://hd.ijycnd.com/play/oeEo6RNb/index.m3u8
 动画片-芭比之十二个跳舞的公主 2006,https://hd.ijycnd.com/play/Qe1ABr3e/index.m3u8
-
 金鹰采集电影之65,#genre#
 动画片-芭比之仙子的秘密 2011,https://hd.ijycnd.com/play/0dNA5xLb/index.m3u8
 动画片-芭比与小凯莉：消失的生日 2021,https://hd.ijycnd.com/play/7ax47kJa/index.m3u8
@@ -35042,7 +34610,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动画片-死宅之地,https://hd.ijycnd.com/play/zbqkR3ep/index.m3u8
 动画片-赛尔号大电影2之雷伊与迈尔斯,https://hd.ijycnd.com/play/7axxD3ay/index.m3u8
 动画片-深海特攻队之超能晶石,https://hd.ijycnd.com/play/QdJx42aO/index.m3u8
-
 金鹰采集电影之66,#genre#
 动画片-少年岳飞,https://hd.ijycnd.com/play/negEw3bw/index.m3u8
 动画片-三只小猪2,https://hd.ijycnd.com/play/negEzGbw/index.m3u8
@@ -35468,7 +35035,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动画片-怪医黑杰克,https://hd.ijycnd.com/play/negJ3Ykd/index.m3u8
 动画片-穿越2021,https://hd.ijycnd.com/play/vbmZ5lRd/index.m3u8
 动画片-怪医黑杰克：两位神秘医师,https://hd.ijycnd.com/play/Le31DDAb/index.m3u8
-
 金鹰采集电影之67,#genre#
 动画片-翡翠森林狼与羊,https://hd.ijycnd.com/play/PdR6GGVd/index.m3u8
 动画片-名侦探柯南：水平线上的阴谋,https://hd.ijycnd.com/play/7axk4Mle/index.m3u8
@@ -35922,7 +35488,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动画片-辛德瑞拉3D,https://hd.ijycnd.com/play/QbYv482d/index.m3u8
 动画片-新地道战,https://hd.ijycnd.com/play/6dBLz5ka/index.m3u8
 动画片-新世纪福音战士剧场版：死与新生,https://hd.ijycnd.com/play/zbqYJO2b/index.m3u8
-
 金鹰采集电影之68,#genre#
 动画片-新灰姑娘2,https://hd.ijycnd.com/play/6dBLz4ka/index.m3u8
 动画片-五星物语,https://hd.ijycnd.com/play/6dBLxPNa/index.m3u8
@@ -36356,7 +35921,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-暹罗诅咒,https://hd.ijycnd.com/play/Xe0QwrLa/index.m3u8
 剧情片-解密,https://hd.ijycnd.com/play/Xe0Qwm5a/index.m3u8
 恐怖片-行动倒数,https://hd.ijycnd.com/play/RdG4Ln5e/index.m3u8
-
 金鹰采集电影之69,#genre#
 恐怖片-断魂小丑3,https://hd.ijycnd.com/play/YaO4WlEb/index.m3u8
 记录片-公路日记：布鲁斯·斯普林斯汀与E街乐队,https://hd.ijycnd.com/play/YaO4WKYb/index.m3u8
@@ -36797,7 +36361,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动作片-穷凶极恶,https://hd.ijycnd.com/play/PdyKE6wa/index.m3u8
 喜剧片-东北“大仙儿”,https://hd.ijycnd.com/play/RdGpjYQe/index.m3u8
 恐怖片-炼狱车站,https://hd.ijycnd.com/play/1aMypX1a/index.m3u8
-
 金鹰采集电影之70,#genre#
 恐怖片-碧比,https://hd.ijycnd.com/play/yb8R5Voe/index.m3u8
 喜剧片-菜鸟,https://hd.ijycnd.com/play/9b6P5E7e/index.m3u8
@@ -37237,7 +36800,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 剧情片-恶行之外 粤语版,https://hd.ijycnd.com/play/yb8G01ra/index.m3u8
 爱情片-厨神驾到,https://hd.ijycnd.com/play/yb8G0vra/index.m3u8
 恐怖片-见鬼发财,https://hd.ijycnd.com/play/lejXNolb/index.m3u8
-
 金鹰采集电影之71,#genre#
 剧情片-草图,https://hd.ijycnd.com/play/5eVwKwWa/index.m3u8
 喜剧片-大画王,https://hd.ijycnd.com/play/lejXK2zb/index.m3u8
@@ -37689,7 +37251,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 恐怖片-疯狂一天,https://hd.ijycnd.com/play/QeZkY96a/index.m3u8
 喜剧片-Not an Artist,https://hd.ijycnd.com/play/DbDG1lna/index.m3u8
 喜剧片-Kill Tony：笑不死偿命,https://hd.ijycnd.com/play/1aMRwx3b/index.m3u8
-
 金鹰采集电影之72,#genre#
 剧情片-七层纱,https://hd.ijycnd.com/play/lejEZPRd/index.m3u8
 动作片-江湖通缉令,https://hd.ijycnd.com/play/yb8p1zgb/index.m3u8
@@ -37997,7 +37558,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 喜剧片-科琳娜,https://hd.ijycnd.com/play/RdGDqGQe/index.m3u8
 记录片-鲨语者,https://hd.ijycnd.com/play/QeZ3MGJa/index.m3u8
 动作片-黑手党战争,https://hd.ijycnd.com/play/DdwOL7Md/index.m3u8
-
 历年春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
