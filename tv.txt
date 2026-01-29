@@ -349,6 +349,15 @@ CHC-影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC-影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 
 轮播影视,#genre#
+爱情公寓,http://74.91.26.218:82/live/vlaqgy.m3u8
+喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
+成龙,http://74.91.26.218:82/live/vlcl.m3u8
+黄百鸣,http://74.91.26.218:82/live/vlhbm.m3u8
+洪金宝,http://74.91.26.218:82/live/vlhjb.m3u8
+刘德华,http://74.91.26.218:82/live/vlldh.m3u8
+林正英,http://74.91.26.218:82/live/vllzy.m3u8
+周润发,http://74.91.26.218:82/live/vlzrf.m3u8
+周星驰,http://74.91.26.218:82/live/vlzxc.m3u8
 周润发,http://222.186.39.38:8000/587078/index.m3u8
 周星驰,http://live.nctv.top/huya.php?id=11342412
 沈腾,http://live.nctv.top/huya.php?id=11601968
@@ -368,7 +377,7 @@ CHC-影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 新水浒传,http://live.metshop.top/huya/11342384
 铁齿铜牙纪晓岚,https://live.iill.top/huya.php?id=11342396
 
-🇭🇰香港地区,#genre#
+🇭🇰香港地区🇭🇰,#genre#
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 华文电视台1,http://oh.eztv.vip/live/eztv1.m3u8
