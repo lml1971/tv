@@ -174,14 +174,6 @@
             "name": "茂哥┃健康家用"
         }, 		
         {
-            "url": "https://yydsys.top/duo",
-            "name": "茂哥┃多多线路"
-        }, 		
-        {
-            "url": "https://yydsys.netlify.app/config.json",
-            "name": "茂哥┃多多备用"
-        }, 
-        {
             "url": "https://9877.kstore.space/AnotherD/api.json",
             "name": "茂哥┃潇洒线路"
         }	
