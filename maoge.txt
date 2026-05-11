@@ -10,18 +10,6 @@
             "name": "茂哥┃酷佬线路"
         },
         {
-            "url": "https://tv.203511.xyz/0821.json",
-            "name": "茂哥┃医工学习日志"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "茂哥┃俊佬线路"
-        },	
-        {
-            "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
-            "name": "茂哥┃短剧线路"
-        },
-        {
             "url": "http://hello.肥猫.com",
             "name": "茂哥┃肥猫线路"
         }, 
@@ -54,16 +42,16 @@
             "name": "茂哥┃茄子线路"
         },
         {
-            "url": "http://xhztv.top/4k.json",
-            "name": "茂哥┃聚玩盒4k线路"
+            "url": "https://tv.203511.xyz/0821.json",
+            "name": "茂哥┃医工学习日志"
         },
         {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "茂哥┃俊佬线路"
-        }, 
+            "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+            "name": "茂哥┃短剧线路"
+        },
         {
-            "url": "https://api.hgyx.vip/hgyx.json",
-            "name": "茂哥┃HG线路"
+            "url": "http://xhztv.top/4k.json",
+            "name": "茂哥┃聚玩盒4k线路"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/Newtxin/tvbox/main/2.json",
