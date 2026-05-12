@@ -1,20 +1,24 @@
 {
     "urls": [
         {
-            "url": "https://ztha.top/TVBox/thzx/th.json",
-            "name": "茂哥┃挺好分享接口"
+            "url": "https://tvbox.catvod.com/xs/api.json",
+            "name": "茂哥┃潇洒接口"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2",
-            "name": "茂哥┃酷佬接口"
+            "url": "http://tv.nxog.top/m/",
+            "name": "茂哥┃欧歌接口"
+        },
+        {
+            "url": "http://肥猫.com/",
+            "name": "茂哥┃肥猫接口"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "茂哥┃饭太硬接口"
         },
         {
             "url": "https://tvbox.catvod.com/catvod.json",
             "name": "茂哥┃省心接口"
-        },
-        {
-            "url": "https://tvbox.catvod.com/xs/api.json",
-            "name": "茂哥┃潇洒接口"
         },
         {
             "url": "https://tvbox.catvod.com/FongMi.json",
@@ -23,6 +27,18 @@
         {
             "url": "https://tvbox.catvod.com/jsm.json",
             "name": "茂哥┃PG接口"
+        },
+        {
+            "url": "https://ztha.top/TVBox/thzx/th.json",
+            "name": "茂哥┃挺好分享接口"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2",
+            "name": "茂哥┃酷佬接口"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "茂哥┃老刘接口"
         },
         {
             "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
@@ -291,22 +307,6 @@
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "茂哥┃CandyMu接口"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-            "name": "茂哥┃老刘接口"
-        },
-        {
-            "url": "http://肥猫.com/",
-            "name": "茂哥┃肥猫接口"
-        },
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "茂哥┃饭太硬接口"
-        },
-        {
-            "url": "http://tv.nxog.top/m/",
-            "name": "茂哥┃欧歌接口"
         }
     ]
 }

@@ -1,24 +1,12 @@
 {
   "storeHouse": [
     {
-      "sourceName": "💚茂哥仓库🍭网络收集🍭",
+      "sourceName": "💚全网单仓🍭茂哥收集🍭",
       "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/maoge.txt"
     },
     {
-      "sourceName": "💛挺好仓库🍭随意切换🍭",
-      "sourceUrl": "https://ztha.top/TVBox/GYCK.json"
-    },
-    {
-      "sourceName":  "💛幸福年年🍭免费使用🍭",
-      "sourceUrl": "https://wget.la/https://github.com/2124662895/yydhj/blob/mainvhh/xfnn.json"
-    },
-    {
-     "sourceName":"全网单仓🍭网络收集🍭",
-     "sourceUrl":"https://d.kstore.dev/download/12441/dc6.json"
-    },
-    {
-    "sourceName":"拾光单仓🍭好用就用🍭",
-    "sourceUrl":"http://xmbjm.fh4u.org/dc.txt"
+      "sourceName": "💛推荐使用🍭茂哥聚合🍭",
+      "sourceUrl": "https://lml1971.ccwu.cc/"
     }
   ]
 }
