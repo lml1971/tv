@@ -9,26 +9,6 @@
             "name": "🇨🇳茂哥🇨🇳欧歌"
         },
         {
-            "url": "http://肥猫.com/",
-            "name": "🇨🇳茂哥🇨🇳肥猫"
-        },
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "🇨🇳茂哥🇨🇳饭太硬"
-        },
-        {
-            "url": "https://tvbox.catvod.com/catvod.json",
-            "name": "🇨🇳茂哥🇨🇳省心"
-        },
-        {
-            "url": "https://tvbox.catvod.com/FongMi.json",
-            "name": "🇨🇳茂哥🇨🇳真心"
-        },
-        {
-            "url": "https://tvbox.catvod.com/jsm.json",
-            "name": "🇨🇳茂哥🇨🇳PG"
-        },
-        {
             "url": "https://ztha.top/TVBox/thzx/th.json",
             "name": "🇨🇳茂哥🇨🇳挺好"
         },
@@ -47,6 +27,18 @@
         {
             "url": "https://tv.203511.xyz/0821.json",
             "name": "🇨🇳茂哥🇨🇳医工"
+        },
+        {
+            "url": "https://tvbox.catvod.com/catvod.json",
+            "name": "🇨🇳茂哥🇨🇳省心"
+        },
+        {
+            "url": "https://tvbox.catvod.com/FongMi.json",
+            "name": "🇨🇳茂哥🇨🇳真心"
+        },
+        {
+            "url": "https://tvbox.catvod.com/jsm.json",
+            "name": "🇨🇳茂哥🇨🇳PG"
         },
         {
             "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
@@ -303,6 +295,14 @@
         {
             "url": "http://tjf1100.serv00.net/",
             "name": "🇨🇳茂哥🇨🇳传说"
+        },
+        {
+            "url": "http://肥猫.com/",
+            "name": "🇨🇳茂哥🇨🇳肥猫"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🇨🇳茂哥🇨🇳饭太硬"
         },
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
