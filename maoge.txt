@@ -53,10 +53,6 @@
             "name": "🇨🇳茂哥🇨🇳纽特帅"
         },
         {
-            "url": "https://盒子迷.top/禁止贩卖",
-            "name": "🇨🇳茂哥🇨🇳盒子迷"
-        },
-        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🇨🇳茂哥🇨🇳香雅情"
         },
@@ -67,14 +63,6 @@
         {
             "url": "https://www.xn--4kq62z5rby2qupq9ub.top/",
             "name": "🇨🇳茂哥🇨🇳王二小"
-        },
-        {
-            "url": "http://hb.小虎斑.site:25252/仅供测试",
-            "name": "🇨🇳茂哥🇨🇳小虎斑"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-            "name": "🇨🇳茂哥🇨🇳老刘备"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -102,15 +90,7 @@
         },
         {
             "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "🇨🇳茂哥🇨🇳潇洒"
-        },
-        {
-            "url": "http://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
-            "name": "🇨🇳茂哥🇨🇳七星"
-        },
-        {
-            "url": "http://肥猫.com",
-            "name": "🇨🇳茂哥🇨🇳肥猫"
+            "name": "🇨🇳茂哥🇨🇳潇洒2"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
@@ -174,11 +154,11 @@
         },
         {
             "url": "https://www.252035.xyz/z/FongMi.json",
-            "name": "🇨🇳茂哥🇨🇳真心"
+            "name": "🇨🇳茂哥🇨🇳真心2"
         },
         {
             "url": "https://www.252035.xyz/p/jsm.json",
-            "name": "🇨🇳茂哥🇨🇳PG"
+            "name": "🇨🇳茂哥🇨🇳PG2"
         },
         {
             "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
@@ -186,27 +166,15 @@
         },
         {
             "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
-            "name": "🇨🇳茂哥🇨🇳真心"
-        },
-        {
-            "url": "https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
-            "name": "🇨🇳茂哥🇨🇳天微"
+            "name": "🇨🇳茂哥🇨🇳真心3"
         },
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
             "name": "🇨🇳茂哥🇨🇳XYQ"
         },
         {
-            "url": "https://wget.la/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🇨🇳茂哥🇨🇳南风"
-        },
-        {
             "url": "https://wget.la/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
             "name": "🇨🇳茂哥🇨🇳宝盒"
-        },
-        {
-            "url": "https://wget.la/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🇨🇳茂哥🇨🇳高天"
         },
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
@@ -250,27 +218,15 @@
         },
         {
             "url": "https://欧歌.v.nxog.top/m/",
-            "name": "🇨🇳茂哥🇨🇳欧歌"
+            "name": "🇨🇳茂哥🇨🇳欧歌2"
         },
         {
             "url": "https://clun.top/box.json",
             "name": "🇨🇳茂哥🇨🇳Clun"
         },
         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
-            "name": "🇨🇳茂哥🇨🇳心魔"
-        },
-        {
-            "url": "http://szyyds.cn/tv/x.json",
-            "name": "🇨🇳茂哥🇨🇳小马"
-        },
-        {
             "url": "https://龙伊.top",
             "name": "🇨🇳茂哥🇨🇳龙伊"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-            "name": "🇨🇳茂哥🇨🇳寳盒"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
@@ -285,24 +241,16 @@
             "name": "🇨🇳茂哥🇨🇳月光"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
-            "name": "🇨🇳茂哥🇨🇳雷霆"
-        },
-        {
             "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
             "name": "🇨🇳茂哥🇨🇳小凯"
         },
         {
             "url": "http://tjf1100.serv00.net/",
-            "name": "🇨🇳茂哥🇨🇳传说"
-        },
-        {
-            "url": "http://肥猫.com/",
-            "name": "🇨🇳茂哥🇨🇳肥猫"
+            "name": "🇨🇳茂哥🇨🇳传说2"
         },
         {
             "url": "http://www.饭太硬.com/tv",
-            "name": "🇨🇳茂哥🇨🇳饭太硬"
+            "name": "🇨🇳茂哥🇨🇳饭太硬2"
         },
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
