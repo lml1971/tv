@@ -17,6 +17,10 @@
             "name": "🇨🇳茂哥🇨🇳酷佬"
         },
         {
+            "url": "http://feimao.pro",
+            "name": "🇨🇳茂哥🇨🇳肥猫"
+        },
+        {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "🇨🇳茂哥🇨🇳老刘"
         },
