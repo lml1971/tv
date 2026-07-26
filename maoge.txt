@@ -5,11 +5,11 @@
             "name": "🇨🇳茂哥🇨🇳挺好"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2",
+            "url": "https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg",
             "name": "🇨🇳茂哥🇨🇳酷佬"
         },
         {
-            "url": "http://feimao.pro",
+            "url": "http://肥猫.net/",
             "name": "🇨🇳茂哥🇨🇳肥猫"
         },
         {
