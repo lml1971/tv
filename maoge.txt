@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://ztha.top/TVBox/thzx/th.json",
+            "url": "https://ztha.top/TVBox/thdjk.json",
             "name": "🇨🇳茂哥🇨🇳挺好"
         },
         {
