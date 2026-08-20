@@ -1,7 +1,7 @@
 # Cloudflare Worker 配置文件
 # 使用 wrangler deploy 部署前，请修改下方参数
 
-name = "live-aggregator"
+name = "maoge-migu"
 main = "worker.js"
 compatibility_date = "2026-08-21"
 
