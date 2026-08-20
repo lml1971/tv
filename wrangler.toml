@@ -1,0 +1,17 @@
+# Cloudflare Worker 配置文件
+# 使用 wrangler deploy 部署前，请修改下方参数
+
+name = "live-aggregator"
+main = "worker.js"
+compatibility_date = "2026-08-21"
+
+# KV 命名空间绑定
+# 先在 Cloudflare Dashboard 创建 KV 命名空间，把 id 填到下面
+[[kv_namespaces]]
+binding = "KV"
+id = "4a2350e264784b7e9a3338085c9782c5"
+
+# 可选：自定义域名（需要先在 Dashboard 配置）
+# routes = [
+#   { pattern = "live.yourdomain.com/*", zone_name = "yourdomain.com" }
+# ]

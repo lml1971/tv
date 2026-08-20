@@ -1,4 +1,5 @@
 // Cloudflare Worker - 直播源聚合 / 引流注入
+// 已接入 KV 缓存，避免每次冷启动重新抓取
 
 const SOURCE_URLS = [
     { url: "https://0701.tv1288.xyz/m3u", format: "m3u" },
@@ -133,7 +134,9 @@ const MAX_RETURN_LIMIT   = 500;
 const FALLBACK_LOGO_BASE = "https://epg.112114.xyz/logo";
 const FETCH_TIMEOUT_MS   = 15 * 1000;
 
-const memoryCache = { data: null, expireAt: 0 };
+// KV 缓存配置
+const KV_CACHE_KEY    = "all_channels_v1";
+const KV_TTL_SECONDS  = 600; // 10 分钟
 
 // ---------- 工具函数 ----------
 
@@ -262,7 +265,7 @@ function parseSource(text, formatHint) {
     return isM3U ? parseM3U(text) : parseTXT(text);
 }
 
-// ---------- 抓取与合并 ----------
+// ---------- 抓取与合并（已接入 KV 缓存）----------
 
 async function fetchOneSource(srcConfig) {
     const { url, format, _skip } = normalizeSource(srcConfig);
@@ -290,19 +293,34 @@ async function fetchOneSource(srcConfig) {
     }
 }
 
-// 合并频道，不去重，保留所有来源的完整列表
-async function loadAllChannels() {
-    const now = Date.now();
-    if (memoryCache.data && memoryCache.expireAt > now) {
-        return memoryCache.data.map(ch => ({ ...ch }));
+// 从 KV 读取缓存，未命中则抓取并写回 KV
+async function loadAllChannels(env) {
+    // 1. 尝试从 KV 读取
+    if (env && env.KV) {
+        try {
+            const cached = await env.KV.get(KV_CACHE_KEY, { type: "json" });
+            if (cached && cached.expireAt > Date.now()) {
+                console.log(`[loadAllChannels] KV cache HIT, ${cached.channels.length} channels`);
+                return cached.channels;
+            }
+            if (cached) {
+                console.log(`[loadAllChannels] KV cache EXPIRED, re-fetching`);
+            } else {
+                console.log(`[loadAllChannels] KV cache MISS`);
+            }
+        } catch (e) {
+            console.error(`[loadAllChannels] KV read error: ${e.message}`);
+        }
+    } else {
+        console.log(`[loadAllChannels] No KV binding found, fetching directly`);
     }
 
+    // 2. KV 未命中或已过期，抓取所有源
     const results = await Promise.all(SOURCE_URLS.map(u => fetchOneSource(u)));
     const successCount = results.filter(r => r.error === null).length;
     const totalChannels = results.reduce((sum, r) => sum + r.channels.length, 0);
     console.log(`[loadAllChannels] ${successCount}/${results.length} sources OK, ${totalChannels} channels`);
 
-    // 不去重，直接合并所有频道（相同 URL 也会保留多条）
     const merged = [];
     for (const result of results) {
         for (const ch of result.channels) {
@@ -312,8 +330,22 @@ async function loadAllChannels() {
 
     console.log(`[loadAllChannels] ${merged.length} channels merged (no dedup)`);
 
-    memoryCache.data = merged.map(ch => ({ ...ch }));
-    memoryCache.expireAt = now + CACHE_TTL_MS;
+    // 3. 异步写回 KV（不阻塞响应）
+    if (env && env.KV) {
+        const cacheData = {
+            channels: merged,
+            expireAt: Date.now() + CACHE_TTL_MS,
+        };
+        // 使用 setTimeout 让写入在后台进行，不阻塞当前请求的响应
+        env.KV.put(KV_CACHE_KEY, JSON.stringify(cacheData), {
+            expirationTtl: KV_TTL_SECONDS,
+        }).then(() => {
+            console.log(`[loadAllChannels] KV cache written, ${merged.length} channels`);
+        }).catch(e => {
+            console.error(`[loadAllChannels] KV write error: ${e.message}`);
+        });
+    }
+
     return merged;
 }
 
@@ -330,9 +362,6 @@ function buildPromoVods() {
         type_name:     p.group || "📢 频道关注",
     }));
 }
-
-// 使用全局自增索引，确保不去重后 vod_id 仍然唯一
-let _globalChannelIdx = 0;
 
 function channelToVod(ch, idx) {
     const playUrl = ch.urls && ch.urls.length > 1
@@ -468,7 +497,7 @@ function jsonResponse(obj, status = 200) {
 }
 
 export default {
-    async fetch(request) {
+    async fetch(request, env, ctx) {
         const url = new URL(request.url);
         const path = url.pathname;
         const params = url.searchParams;
@@ -478,7 +507,7 @@ export default {
         }
 
         try {
-            const channels = await loadAllChannels();
+            const channels = await loadAllChannels(env);
 
             if (path === '/m3u' || path === '/live.m3u') {
                 return new Response(buildM3U(channels), {
