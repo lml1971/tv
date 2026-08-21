@@ -12,7 +12,7 @@ const PROMO_LIST = [
         title: "山西农大宣传片",
         url:   "https://vio.alltuu.com/vf1PWo247.mp4?Expires=1787751240&OSSAccessKeyId=LTAI5tCKgYFjLSzev9mGY4Vs&Signature=KvkTyfigKhLCN1LzJ7GFycrQoRQ%3D&response-content-disposition=attachment%3Bfilename%3D%22%E5%86%9C%E5%A4%A7%E5%AE%A3%E4%BC%A0%E7%89%871.mp4%22",
         pic:   "https://www.3wen.com/userfiles/images/3shanxi.jpg",
-        group: "📢 关注林学系92级毕业卅年",
+        group: "林学系92级",
         from:  "毕业三十年1",
         remarks: "置顶引流",
      },
@@ -20,7 +20,7 @@ const PROMO_LIST = [
         title: "林学院宣传片",
         url:   "https://vio.alltuu.com/vf1PWoM20.mp4?Expires=1787751240&OSSAccessKeyId=LTAI5tCKgYFjLSzev9mGY4Vs&Signature=Mjo%2BIkl5h%2FX%2F97wyr0G5MGa1sIY%3D&response-content-disposition=attachment%3Bfilename%3D%22%E6%9E%97%E5%AD%A6%E9%99%A2%E5%AE%A3%E4%BC%A0%E7%89%87%EF%BC%882026.5.6%E5%AE%9A%E7%A8%BF%29.mp4%22",
         pic:   "https://www.3wen.com/userfiles/images/3shanxi.jpg",
-        group: "📢 关注林学系92级毕业卅年",
+        group: "林学系92级",
         from:  "备用线路",
         remarks: "推广",
      },
@@ -28,7 +28,7 @@ const PROMO_LIST = [
         title: "林学92级毕业卅年",
         url:   "https://vio.alltuu.com/vf1PmHLd9.mp4?Expires=1787751240&OSSAccessKeyId=LTAI5tCKgYFjLSzev9mGY4Vs&Signature=Y1%2FviyPd93xBXRSo5xpa%2BdrvZeQ%3D&response-content-disposition=attachment%3Bfilename%3D%222026.08%20%E5%86%9C%E5%A4%A7%E6%9E%97%E5%AD%A692%E7%BA%A7%E6%AF%95%E4%B8%9A%E5%8D%85%E5%B9%B4%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A%E7%BA%AA%E5%AE%9E_20260811_18223261.mp4%22",
         pic:   "https://www.3wen.com/userfiles/images/3shanxi.jpg",
-        group: "📢 关注林学系92级毕业卅年",
+        group: "林学系92级",
         from:  "备用线路",
         remarks: "推广",
      },
@@ -36,7 +36,7 @@ const PROMO_LIST = [
         title: "林学92级毕业十年",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/10.mp4",
         pic:   "https://www.3wen.com/userfiles/images/3shanxi.jpg",
-        group: "📢 关注林学系92级毕业卅年",
+        group: "林学系92级",
         from:  "备用线路",
         remarks: "推广",
        },
@@ -44,7 +44,7 @@ const PROMO_LIST = [
         title: "幸福家",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/1.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
@@ -52,7 +52,7 @@ const PROMO_LIST = [
         title: "老李卡通",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/2.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
@@ -60,39 +60,39 @@ const PROMO_LIST = [
         title: "父母亲",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/3.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
     {
-        title: "我是猪",
+        title: "这头猪",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/4.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
     {
-        title: "老婆当家",
+        title: "大实话",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/5.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
     {
-        title: "没有后悔药",
+        title: "后悔药",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/6.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
     {
-        title: "喝酒丢人",
+        title: "丢人",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/7.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
@@ -100,23 +100,23 @@ const PROMO_LIST = [
         title: "家规",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/8.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
     {
-        title: "陕北败兴",
+        title: "酒瓶瓶",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/9.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
     {
-        title: "玉平辛苦",
+        title: "25年前",
         url:   "https://lmlcyp.ccwu.cc/raw/mp4/VDO_0012.mp4",
         pic:   "https://ts1.tc.mm.bing.net/th/id/R-C.44a8fce5f82322ff6047579c70ba87a5?rik=GtFY9WEgT3mvmg&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fq_70%2cc_zoom%2cw_640%2fimages%2f20170819%2f31955e56cdbc478e8a9d53b54d92cbf0.jpeg&ehk=kYySxDkRdxi37EML22nDcDWX8ypoyqXbPt6ziempjDg%3d&risl=&pid=ImgRaw&r=0",
-        group: "📢 茂哥部署",
+        group: "茂哥TV",
         from:  "线路A",
         remarks: "置顶引流",
     },
@@ -294,7 +294,7 @@ async function fetchOneSource(srcConfig) {
 }
 
 // 从 KV 读取缓存，未命中则抓取并写回 KV
-async function loadAllChannels(env) {
+async function loadAllChannels(env, ctx) {
     // 1. 尝试从 KV 读取
     if (env && env.KV) {
         try {
@@ -331,19 +331,28 @@ async function loadAllChannels(env) {
     console.log(`[loadAllChannels] ${merged.length} channels merged (no dedup)`);
 
     // 3. 异步写回 KV（不阻塞响应）
-    if (env && env.KV) {
-        const cacheData = {
-            channels: merged,
-            expireAt: Date.now() + CACHE_TTL_MS,
-        };
-        // 使用 setTimeout 让写入在后台进行，不阻塞当前请求的响应
-        env.KV.put(KV_CACHE_KEY, JSON.stringify(cacheData), {
-            expirationTtl: KV_TTL_SECONDS,
-        }).then(() => {
+    // Workers 中 fetch 返回后继续 I/O 必须用 ctx.waitUntil，不能用 setTimeout
+    const writeKV = async () => {
+        if (!env || !env.KV) return;
+        try {
+            const cacheData = {
+                channels: merged,
+                expireAt: Date.now() + CACHE_TTL_MS,
+            };
+            await env.KV.put(KV_CACHE_KEY, JSON.stringify(cacheData), {
+                expirationTtl: KV_TTL_SECONDS,
+            });
             console.log(`[loadAllChannels] KV cache written, ${merged.length} channels`);
-        }).catch(e => {
+        } catch (e) {
             console.error(`[loadAllChannels] KV write error: ${e.message}`);
-        });
+        }
+    };
+
+    if (ctx && typeof ctx.waitUntil === "function") {
+        ctx.waitUntil(writeKV());
+    } else {
+        // 本地/兜底：直接 await（会略微增加响应时间）
+        await writeKV();
     }
 
     return merged;
@@ -507,7 +516,7 @@ export default {
         }
 
         try {
-            const channels = await loadAllChannels(env);
+            const channels = await loadAllChannels(env, ctx);
 
             if (path === '/m3u' || path === '/live.m3u') {
                 return new Response(buildM3U(channels), {

@@ -1,17 +1,20 @@
 # Cloudflare Worker 配置文件
-# 使用 wrangler deploy 部署前，请修改下方参数
+# 使用 wrangler deploy 部署前，请确认下方参数
 
-name = "maoge-migu"
+name = "live-aggregator"
 main = "worker.js"
 compatibility_date = "2026-08-21"
 
-# KV 命名空间绑定
-# 先在 Cloudflare Dashboard 创建 KV 命名空间，把 id 填到下面
+# 兼容性标志：避免 FinalizationRegistry 等现代 API 报错
+compatibility_flags = ["nodejs_compat"]
+
+# KV 命名空间绑定（自动 provisioning 模式）
+# 部署时若未创建对应 KV，Wrangler 会自动以 Worker 名作为前缀创建
+# 本地开发：wrangler dev 会自动建本地 KV 并持久化
+# 注意：通过 Dashboard Git 集成部署时，资源会被自动创建，
+#       但 ID 不会回写到仓库，需到 Dashboard 查看
 [[kv_namespaces]]
 binding = "KV"
-id = "4a2350e264784b7e9a3338085c9782c5"
-
-# 可选：自定义域名（需要先在 Dashboard 配置）
-# routes = [
-#   { pattern = "live.yourdomain.com/*", zone_name = "yourdomain.com" }
-# ]
+# 下面这行在自动 provisioning 时可省略；
+# 若你已手动创建好 KV，请把 ID 填到此处并删掉注释
+# id = "你的-namespace-id"
