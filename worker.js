@@ -3,7 +3,7 @@
 
 const SOURCE_URLS = [
     { url: "https://0701.tv1288.xyz/m3u", format: "m3u" },
-    { url: "https://m3u.lml1971.ccwu.cc/xymm" },
+    { url: "https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt", format: "txt" },
     { url: "https://5266.kstore.space/xiangxichuanshuo.txt", format: "txt" },
 ];
 
