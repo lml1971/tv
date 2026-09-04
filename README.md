@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://one-agent-prod-1343551737.cos.ap-guangzhou.myqcloud.com/artifacts/1002/a34ab65f0c3d4a449f1b8b6dd9e33843/0Q4S51EgzUT/task-3ac0c93054e7a0e4b6ea7ce9cc0c08ff/.rendered/_assets/LpVltKXnSXV.jpg?q-sign-algorithm=sha1&q-ak=AKIDDMTk0KZdUSL21fBYigcl3C8rMeiT5TdZ&q-sign-time=1788246441%3B1796022441&q-key-time=1788246441%3B1796022441&q-header-list=host&q-url-param-list=&q-signature=9f68900580ca09645bdb7705ce553a8bb14b3cfb" alt="茂哥" width="120" style="border-radius: 12px;">
+<img src="https://avatars.githubusercontent.com/u/194325777?s=96&v=4" alt="茂哥" width="120" style="border-radius: 12px;">
 
 <br>
 
