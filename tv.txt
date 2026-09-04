@@ -6,198 +6,198 @@
 
 央视,#genre#
 CCTV-1 综合,http://113.98.11.46:3000/608807420
-CCTV-1 综合,http://222.134.19.49:8090/608807420
-CCTV-1 综合,http://123.159.31.239:1234/608807420
 CCTV-1 综合,http://117.29.143.59:10000/608807420
+CCTV-1 综合,http://123.159.31.239:1234/608807420
+CCTV-1 综合,http://222.134.19.49:8090/608807420
 CCTV-1 综合,http://jxj.zhgdyun.com:1234/608807420
 CCTV-1 综合,http://125.38.164.44:1234/608807420
 CCTV-1 综合,http://chen.ccwu.cc:1234/608807420
 CCTV-2 财经,http://113.98.11.46:3000/631780532
-CCTV-2 财经,http://222.134.19.49:8090/631780532
-CCTV-2 财经,http://123.159.31.239:1234/631780532
 CCTV-2 财经,http://117.29.143.59:10000/631780532
+CCTV-2 财经,http://123.159.31.239:1234/631780532
+CCTV-2 财经,http://222.134.19.49:8090/631780532
 CCTV-2 财经,http://jxj.zhgdyun.com:1234/631780532
 CCTV-2 财经,http://125.38.164.44:1234/631780532
 CCTV-2 财经,http://chen.ccwu.cc:1234/631780532
 CCTV-3 综艺,http://113.98.11.46:3000/624878271
-CCTV-3 综艺,http://222.134.19.49:8090/624878271
-CCTV-3 综艺,http://123.159.31.239:1234/624878271
 CCTV-3 综艺,http://117.29.143.59:10000/624878271
+CCTV-3 综艺,http://123.159.31.239:1234/624878271
+CCTV-3 综艺,http://222.134.19.49:8090/624878271
 CCTV-3 综艺,http://jxj.zhgdyun.com:1234/624878271
 CCTV-3 综艺,http://125.38.164.44:1234/624878271
 CCTV-3 综艺,http://chen.ccwu.cc:1234/624878271
 CCTV-4 中文国际,http://113.98.11.46:3000/631780421
-CCTV-4 中文国际,http://222.134.19.49:8090/631780421
-CCTV-4 中文国际,http://123.159.31.239:1234/631780421
 CCTV-4 中文国际,http://117.29.143.59:10000/631780421
+CCTV-4 中文国际,http://123.159.31.239:1234/631780421
+CCTV-4 中文国际,http://222.134.19.49:8090/631780421
 CCTV-4 中文国际,http://jxj.zhgdyun.com:1234/631780421
 CCTV-4 中文国际,http://125.38.164.44:1234/631780421
 CCTV-4 中文国际,http://chen.ccwu.cc:1234/631780421
 CCTV-4 欧洲,http://113.98.11.46:3000/608807419
-CCTV-4 欧洲,http://222.134.19.49:8090/608807419
-CCTV-4 欧洲,http://123.159.31.239:1234/608807419
 CCTV-4 欧洲,http://117.29.143.59:10000/608807419
+CCTV-4 欧洲,http://123.159.31.239:1234/608807419
+CCTV-4 欧洲,http://222.134.19.49:8090/608807419
 CCTV-4 欧洲,http://jxj.zhgdyun.com:1234/608807419
 CCTV-4 欧洲,http://125.38.164.44:1234/608807419
 CCTV-4 欧洲,http://chen.ccwu.cc:1234/608807419
 CCTV-4 美洲,http://113.98.11.46:3000/608807416
-CCTV-4 美洲,http://222.134.19.49:8090/608807416
-CCTV-4 美洲,http://123.159.31.239:1234/608807416
 CCTV-4 美洲,http://117.29.143.59:10000/608807416
+CCTV-4 美洲,http://123.159.31.239:1234/608807416
+CCTV-4 美洲,http://222.134.19.49:8090/608807416
 CCTV-4 美洲,http://jxj.zhgdyun.com:1234/608807416
 CCTV-4 美洲,http://125.38.164.44:1234/608807416
 CCTV-4 美洲,http://chen.ccwu.cc:1234/608807416
 CCTV-5 体育,http://113.98.11.46:3000/641886683
-CCTV-5 体育,http://222.134.19.49:8090/641886683
-CCTV-5 体育,http://123.159.31.239:1234/641886683
 CCTV-5 体育,http://117.29.143.59:10000/641886683
+CCTV-5 体育,http://123.159.31.239:1234/641886683
+CCTV-5 体育,http://222.134.19.49:8090/641886683
 CCTV-5 体育,http://jxj.zhgdyun.com:1234/641886683
 CCTV-5 体育,http://125.38.164.44:1234/641886683
 CCTV-5 体育,http://chen.ccwu.cc:1234/641886683
 CCTV-5+ 体育赛事,http://113.98.11.46:3000/641886773
-CCTV-5+ 体育赛事,http://222.134.19.49:8090/641886773
-CCTV-5+ 体育赛事,http://123.159.31.239:1234/641886773
 CCTV-5+ 体育赛事,http://117.29.143.59:10000/641886773
+CCTV-5+ 体育赛事,http://123.159.31.239:1234/641886773
+CCTV-5+ 体育赛事,http://222.134.19.49:8090/641886773
 CCTV-5+ 体育赛事,http://jxj.zhgdyun.com:1234/641886773
 CCTV-5+ 体育赛事,http://125.38.164.44:1234/641886773
 CCTV-5+ 体育赛事,http://chen.ccwu.cc:1234/641886773
 CCTV-6 电影,http://113.98.11.46:3000/624878396
-CCTV-6 电影,http://222.134.19.49:8090/624878396
-CCTV-6 电影,http://123.159.31.239:1234/624878396
 CCTV-6 电影,http://117.29.143.59:10000/624878396
+CCTV-6 电影,http://123.159.31.239:1234/624878396
+CCTV-6 电影,http://222.134.19.49:8090/624878396
 CCTV-6 电影,http://jxj.zhgdyun.com:1234/624878396
 CCTV-6 电影,http://125.38.164.44:1234/624878396
 CCTV-6 电影,http://chen.ccwu.cc:1234/624878396
 CCTV-7 国防军事,http://113.98.11.46:3000/673168121
-CCTV-7 国防军事,http://222.134.19.49:8090/673168121
-CCTV-7 国防军事,http://123.159.31.239:1234/673168121
 CCTV-7 国防军事,http://117.29.143.59:10000/673168121
+CCTV-7 国防军事,http://123.159.31.239:1234/673168121
+CCTV-7 国防军事,http://222.134.19.49:8090/673168121
 CCTV-7 国防军事,http://jxj.zhgdyun.com:1234/673168121
 CCTV-7 国防军事,http://125.38.164.44:1234/673168121
 CCTV-7 国防军事,http://chen.ccwu.cc:1234/673168121
 CCTV-8 电视剧,http://113.98.11.46:3000/624878356
-CCTV-8 电视剧,http://222.134.19.49:8090/624878356
-CCTV-8 电视剧,http://123.159.31.239:1234/624878356
 CCTV-8 电视剧,http://117.29.143.59:10000/624878356
+CCTV-8 电视剧,http://123.159.31.239:1234/624878356
+CCTV-8 电视剧,http://222.134.19.49:8090/624878356
 CCTV-8 电视剧,http://jxj.zhgdyun.com:1234/624878356
 CCTV-8 电视剧,http://125.38.164.44:1234/624878356
 CCTV-8 电视剧,http://chen.ccwu.cc:1234/624878356
 CCTV-9 纪录,http://113.98.11.46:3000/673168140
-CCTV-9 纪录,http://222.134.19.49:8090/673168140
-CCTV-9 纪录,http://123.159.31.239:1234/673168140
 CCTV-9 纪录,http://117.29.143.59:10000/673168140
+CCTV-9 纪录,http://123.159.31.239:1234/673168140
+CCTV-9 纪录,http://222.134.19.49:8090/673168140
 CCTV-9 纪录,http://jxj.zhgdyun.com:1234/673168140
 CCTV-9 纪录,http://125.38.164.44:1234/673168140
 CCTV-9 纪录,http://chen.ccwu.cc:1234/673168140
 CCTV-10 科教,http://113.98.11.46:3000/624878405
-CCTV-10 科教,http://222.134.19.49:8090/624878405
-CCTV-10 科教,http://123.159.31.239:1234/624878405
 CCTV-10 科教,http://117.29.143.59:10000/624878405
+CCTV-10 科教,http://123.159.31.239:1234/624878405
+CCTV-10 科教,http://222.134.19.49:8090/624878405
 CCTV-10 科教,http://jxj.zhgdyun.com:1234/624878405
 CCTV-10 科教,http://125.38.164.44:1234/624878405
 CCTV-10 科教,http://chen.ccwu.cc:1234/624878405
 CCTV-11 戏曲,http://113.98.11.46:3000/667987558
-CCTV-11 戏曲,http://222.134.19.49:8090/667987558
-CCTV-11 戏曲,http://123.159.31.239:1234/667987558
 CCTV-11 戏曲,http://117.29.143.59:10000/667987558
+CCTV-11 戏曲,http://123.159.31.239:1234/667987558
+CCTV-11 戏曲,http://222.134.19.49:8090/667987558
 CCTV-11 戏曲,http://jxj.zhgdyun.com:1234/667987558
 CCTV-11 戏曲,http://125.38.164.44:1234/667987558
 CCTV-11 戏曲,http://chen.ccwu.cc:1234/667987558
 CCTV-12 社会与法,http://113.98.11.46:3000/673168185
-CCTV-12 社会与法,http://222.134.19.49:8090/673168185
-CCTV-12 社会与法,http://123.159.31.239:1234/673168185
 CCTV-12 社会与法,http://117.29.143.59:10000/673168185
+CCTV-12 社会与法,http://123.159.31.239:1234/673168185
+CCTV-12 社会与法,http://222.134.19.49:8090/673168185
 CCTV-12 社会与法,http://jxj.zhgdyun.com:1234/673168185
 CCTV-12 社会与法,http://125.38.164.44:1234/673168185
 CCTV-12 社会与法,http://chen.ccwu.cc:1234/673168185
 CCTV-13 新闻,http://113.98.11.46:3000/608807423
-CCTV-13 新闻,http://222.134.19.49:8090/608807423
-CCTV-13 新闻,http://123.159.31.239:1234/608807423
 CCTV-13 新闻,http://117.29.143.59:10000/608807423
+CCTV-13 新闻,http://123.159.31.239:1234/608807423
+CCTV-13 新闻,http://222.134.19.49:8090/608807423
 CCTV-13 新闻,http://jxj.zhgdyun.com:1234/608807423
 CCTV-13 新闻,http://125.38.164.44:1234/608807423
 CCTV-13 新闻,http://chen.ccwu.cc:1234/608807423
 CCTV-14 少儿,http://113.98.11.46:3000/624878440
-CCTV-14 少儿,http://222.134.19.49:8090/624878440
-CCTV-14 少儿,http://123.159.31.239:1234/624878440
 CCTV-14 少儿,http://117.29.143.59:10000/624878440
+CCTV-14 少儿,http://123.159.31.239:1234/624878440
+CCTV-14 少儿,http://222.134.19.49:8090/624878440
 CCTV-14 少儿,http://jxj.zhgdyun.com:1234/624878440
 CCTV-14 少儿,http://125.38.164.44:1234/624878440
 CCTV-14 少儿,http://chen.ccwu.cc:1234/624878440
 CCTV-15 音乐,http://113.98.11.46:3000/673168223
-CCTV-15 音乐,http://222.134.19.49:8090/673168223
-CCTV-15 音乐,http://123.159.31.239:1234/673168223
 CCTV-15 音乐,http://117.29.143.59:10000/673168223
+CCTV-15 音乐,http://123.159.31.239:1234/673168223
+CCTV-15 音乐,http://222.134.19.49:8090/673168223
 CCTV-15 音乐,http://jxj.zhgdyun.com:1234/673168223
 CCTV-15 音乐,http://125.38.164.44:1234/673168223
 CCTV-15 音乐,http://chen.ccwu.cc:1234/673168223
 CCTV-17 农业农村,http://113.98.11.46:3000/673168256
-CCTV-17 农业农村,http://222.134.19.49:8090/673168256
-CCTV-17 农业农村,http://123.159.31.239:1234/673168256
 CCTV-17 农业农村,http://117.29.143.59:10000/673168256
+CCTV-17 农业农村,http://123.159.31.239:1234/673168256
+CCTV-17 农业农村,http://222.134.19.49:8090/673168256
 CCTV-17 农业农村,http://jxj.zhgdyun.com:1234/673168256
 CCTV-17 农业农村,http://125.38.164.44:1234/673168256
 CCTV-17 农业农村,http://chen.ccwu.cc:1234/673168256
 CGTN,http://113.98.11.46:3000/609017205
-CGTN,http://222.134.19.49:8090/609017205
-CGTN,http://123.159.31.239:1234/609017205
 CGTN,http://117.29.143.59:10000/609017205
+CGTN,http://123.159.31.239:1234/609017205
+CGTN,http://222.134.19.49:8090/609017205
 CGTN,http://jxj.zhgdyun.com:1234/609017205
 CGTN,http://125.38.164.44:1234/609017205
 CGTN,http://chen.ccwu.cc:1234/609017205
 CGTN-俄语,http://113.98.11.46:3000/609006446
-CGTN-俄语,http://222.134.19.49:8090/609006446
-CGTN-俄语,http://123.159.31.239:1234/609006446
 CGTN-俄语,http://117.29.143.59:10000/609006446
+CGTN-俄语,http://123.159.31.239:1234/609006446
+CGTN-俄语,http://222.134.19.49:8090/609006446
 CGTN-俄语,http://jxj.zhgdyun.com:1234/609006446
 CGTN-俄语,http://125.38.164.44:1234/609006446
 CGTN-俄语,http://chen.ccwu.cc:1234/609006446
 CGTN-法语,http://113.98.11.46:3000/609006476
-CGTN-法语,http://222.134.19.49:8090/609006476
-CGTN-法语,http://123.159.31.239:1234/609006476
 CGTN-法语,http://117.29.143.59:10000/609006476
+CGTN-法语,http://123.159.31.239:1234/609006476
+CGTN-法语,http://222.134.19.49:8090/609006476
 CGTN-法语,http://jxj.zhgdyun.com:1234/609006476
 CGTN-法语,http://125.38.164.44:1234/609006476
 CGTN-法语,http://chen.ccwu.cc:1234/609006476
 CGTN-纪录,http://113.98.11.46:3000/609006487
-CGTN-纪录,http://222.134.19.49:8090/609006487
-CGTN-纪录,http://123.159.31.239:1234/609006487
 CGTN-纪录,http://117.29.143.59:10000/609006487
+CGTN-纪录,http://123.159.31.239:1234/609006487
+CGTN-纪录,http://222.134.19.49:8090/609006487
 CGTN-纪录,http://jxj.zhgdyun.com:1234/609006487
 CGTN-纪录,http://125.38.164.44:1234/609006487
 CGTN-纪录,http://chen.ccwu.cc:1234/609006487
 CGTN-西班牙语,http://113.98.11.46:3000/609006450
-CGTN-西班牙语,http://222.134.19.49:8090/609006450
-CGTN-西班牙语,http://123.159.31.239:1234/609006450
 CGTN-西班牙语,http://117.29.143.59:10000/609006450
+CGTN-西班牙语,http://123.159.31.239:1234/609006450
+CGTN-西班牙语,http://222.134.19.49:8090/609006450
 CGTN-西班牙语,http://jxj.zhgdyun.com:1234/609006450
 CGTN-西班牙语,http://125.38.164.44:1234/609006450
 CGTN-西班牙语,http://chen.ccwu.cc:1234/609006450
 CGTN-阿拉伯语,http://113.98.11.46:3000/609154345
-CGTN-阿拉伯语,http://222.134.19.49:8090/609154345
-CGTN-阿拉伯语,http://123.159.31.239:1234/609154345
 CGTN-阿拉伯语,http://117.29.143.59:10000/609154345
+CGTN-阿拉伯语,http://123.159.31.239:1234/609154345
+CGTN-阿拉伯语,http://222.134.19.49:8090/609154345
 CGTN-阿拉伯语,http://jxj.zhgdyun.com:1234/609154345
 CGTN-阿拉伯语,http://125.38.164.44:1234/609154345
 CGTN-阿拉伯语,http://chen.ccwu.cc:1234/609154345
 中学生,http://113.98.11.46:3000/708869532
-中学生,http://222.134.19.49:8090/708869532
-中学生,http://123.159.31.239:1234/708869532
 中学生,http://117.29.143.59:10000/708869532
+中学生,http://123.159.31.239:1234/708869532
+中学生,http://222.134.19.49:8090/708869532
 中学生,http://jxj.zhgdyun.com:1234/708869532
 中学生,http://125.38.164.44:1234/708869532
 中学生,http://chen.ccwu.cc:1234/708869532
 发现之旅,http://113.98.11.46:3000/624878970
-发现之旅,http://222.134.19.49:8090/624878970
-发现之旅,http://123.159.31.239:1234/624878970
 发现之旅,http://117.29.143.59:10000/624878970
+发现之旅,http://123.159.31.239:1234/624878970
+发现之旅,http://222.134.19.49:8090/624878970
 发现之旅,http://jxj.zhgdyun.com:1234/624878970
 发现之旅,http://125.38.164.44:1234/624878970
 发现之旅,http://chen.ccwu.cc:1234/624878970
 老故事,http://113.98.11.46:3000/884121956
-老故事,http://222.134.19.49:8090/884121956
-老故事,http://123.159.31.239:1234/884121956
 老故事,http://117.29.143.59:10000/884121956
+老故事,http://123.159.31.239:1234/884121956
+老故事,http://222.134.19.49:8090/884121956
 老故事,http://jxj.zhgdyun.com:1234/884121956
 老故事,http://125.38.164.44:1234/884121956
 老故事,http://chen.ccwu.cc:1234/884121956
@@ -222,7 +222,6 @@ CCTV-4 中文国际,http://104.152.209.49:8181/720p/cctv4.m3u8
 CCTV-4 中文国际,http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
 CCTV-4 中文国际,http://182.140.125.47:808/hls/4/index.m3u8
 CCTV-4K,http://104.152.209.49:8181/720p/cctv4k.m3u8
-CCTV-5 体育,http://104.152.209.49:8181/720p/cctv5.m3u8
 CCTV-5 体育,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5 体育,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 CCTV-5 体育,http://120.40.39.246:352/newlive/live/hls/5/live.m3u8
@@ -247,16 +246,13 @@ CCTV-7 国防军事,http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
 CCTV-7 国防军事,http://182.140.125.47:808/hls/7/index.m3u8
 CCTV-7 国防军事,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-7 国防军事,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
-CCTV-8 电视剧,http://104.152.209.49:8181/720p/cctv8.m3u8
 CCTV-8 电视剧,http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
 CCTV-8 电视剧,http://118.122.144.115:8888/newlive/live/hls/9/live.m3u8
 CCTV-8 电视剧,http://120.40.39.246:352/newlive/live/hls/9/live.m3u8
 CCTV-8 电视剧,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8 电视剧,http://182.140.125.47:808/hls/8/index.m3u8
 CCTV-8 电视剧,http://58.56.162.102:4466/newlive/live/hls/9/live.m3u8
-CCTV-8 电视剧,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 CCTV-8K,http://104.152.209.49:8181/720p/cctv8k.m3u8
-CCTV-9 纪录,http://104.152.209.49:8181/720p/cctv9.m3u8
 CCTV-9 纪录,http://118.122.144.115:8888/newlive/live/hls/10/live.m3u8
 CCTV-9 纪录,http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
 CCTV-9 纪录,http://221.7.175.154:8445/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -268,59 +264,42 @@ CCTV-11 戏曲,http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
 CCTV-11 戏曲,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV-12 社会与法,http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12 社会与法,http://104.152.209.49:8181/720p/cctv12.m3u8
-CCTV-12 社会与法,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-12 社会与法,http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
 CCTV-12 社会与法,http://118.122.144.115:8888/newlive/live/hls/13/live.m3u8
 CCTV-12 社会与法,http://120.40.39.246:352/newlive/live/hls/13/live.m3u8
 CCTV-12 社会与法,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12 社会与法,http://221.226.51.220:50081/newlive/live/hls/13/live.m3u8
-CCTV-12 社会与法,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-CCTV-13 新闻,http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
 CCTV-13 新闻,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13 新闻,http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
 CCTV-13 新闻,http://118.122.144.115:8888/newlive/live/hls/14/live.m3u8
 CCTV-13 新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13 新闻,https://10.fast.hidns.vip/163189/cctv13/
-CCTV-14 少儿,http://104.152.209.49:8181/720p/cctv14.m3u8
 CCTV-14 少儿,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14 少儿,http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
 CCTV-14 少儿,http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
+CCTV-14 少儿,http://104.152.209.49:8181/720p/cctv14.m3u8
+CCTV-14 少儿,http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
 CCTV-15 音乐,http://104.152.209.49:8181/720p/cctv15.m3u8
 CCTV-15 音乐,http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-CCTV-16 奥林匹克,http://198.204.228.26/live/cctv16hd.m3u8
 CCTV-16 奥林匹克,http://104.152.209.49:8181/720p/cctv16.m3u8
 CCTV-16 奥林匹克,http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8
 CCTV-16 奥林匹克,http://173.208.234.146/live/cctv16.m3u8
-CCTV-16 奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV-17 农业农村,http://104.152.209.49:8181/720p/cctv17.m3u8
 CCTV-17 农业农村,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-兵器科技,http://home.szjim.top:4000/udp/239.253.43.18:5146
-CCTV-央视台球,http://107.150.60.122/live/ystq.m3u8
-CCTV-怀旧剧场,http://104.152.209.49:8181/720p/hjjc.m3u8
 CCTV-怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
-CCTV-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-CCTV-文化精品,http://104.152.209.49:8181/720p/ysjp.m3u8
-CCTV-第一剧场,http://104.152.209.49:8181/720p/dyjc.m3u8
 CCTV-风云剧场,http://104.152.209.49:8181/720p/fyjc.m3u8
-CCTV-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-CCTV-高尔夫网球,http://104.152.209.49:8181/720p/gefwq.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 央视2,#genre#
-世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
-兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
-卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
 央视-央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
-女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
-文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
-第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
 风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
 风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 
 央视频道2,#genre#
+CCTV-1 综合,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1 综合,http://182.140.125.47:808/hls/1/index.m3u8
 CCTV-1 综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1 综合,http://173.208.212.130:8181/720p/cctv1.m3u8
@@ -331,18 +310,15 @@ CCTV-1 综合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-1 综合,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV-1 综合,http://120.198.95.220:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-1 综合,http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1 综合,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://119.129.172.103:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV-2 财经,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV-2 财经,http://173.208.212.130:8181/1080p/cctv2.m3u8
-CCTV-2 财经,http://119.129.172.103:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,http://112.30.73.119:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3 综艺,http://120.198.95.220:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-3 综艺,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3 综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-3 综艺,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-CCTV-3 综艺,http://120.198.95.220:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-4 中文国际,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4 中文国际,http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4 中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 中文国际,http://192.151.150.154/live/cctv4hd.m3u8
@@ -365,7 +341,6 @@ CCTV-6 电影,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6 电影,http://173.208.212.130:8181/1080p/cctv6.m3u8
 CCTV-6 电影,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV-6 电影,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-7 国防军事,http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-7 国防军事,http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
 CCTV-7 国防军事,http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
 CCTV-7 国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -374,22 +349,15 @@ CCTV-7 国防军事,http://221.226.51.220:50081/newlive/live/hls/8/live.m3u8
 CCTV-8 电视剧,http://112.30.73.119:229/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8 电视剧,http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8 电视剧,http://219.147.245.238:25480/newlive/live/hls/9/live.m3u8
-CCTV-8 电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-8 电视剧,http://173.208.212.130:8181/720p/cctv8.m3u8
-CCTV-8 电视剧,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 CCTV-8 电视剧,http://69.30.245.50/live/cctv8.m3u8
-CCTV-9 纪录,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9 纪录,http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
 CCTV-9 纪录,http://192.151.150.154/live/cctv9hd.m3u8
-CCTV-10 科教,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10 科教,http://112.30.73.119:229/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
 CCTV-11 戏曲,http://204.12.221.218:8181/3m1080p/cctv11.m3u8
 CCTV-11 戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-11 戏曲,http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
 CCTV-12 社会与法,http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12 社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV-12 社会与法,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-CCTV-12 社会与法,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-13 新闻,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13 新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13 新闻,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
@@ -400,7 +368,6 @@ CCTV-14 少儿,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
 CCTV-14 少儿,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 CCTV-15 音乐,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15 音乐,http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
-CCTV-16 奥林匹克,http://198.204.228.26/live/cctv16hd.m3u8
 CCTV-17 农业农村,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17 农业农村,http://59.39.89.130:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17 农业农村,http://112.27.5.218:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -411,156 +378,156 @@ CCTV-9 纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kank
 
 卫视,#genre#
 三沙卫视,http://113.98.11.46:3000/961023778
-三沙卫视,http://222.134.19.49:8090/961023778
-三沙卫视,http://123.159.31.239:1234/961023778
 三沙卫视,http://117.29.143.59:10000/961023778
+三沙卫视,http://123.159.31.239:1234/961023778
+三沙卫视,http://222.134.19.49:8090/961023778
 三沙卫视,http://jxj.zhgdyun.com:1234/961023778
 三沙卫视,http://125.38.164.44:1234/961023778
 三沙卫视,http://chen.ccwu.cc:1234/961023778
 东南卫视,http://113.98.11.46:3000/849116810
-东南卫视,http://222.134.19.49:8090/849116810
-东南卫视,http://123.159.31.239:1234/849116810
 东南卫视,http://117.29.143.59:10000/849116810
+东南卫视,http://123.159.31.239:1234/849116810
+东南卫视,http://222.134.19.49:8090/849116810
 东南卫视,http://jxj.zhgdyun.com:1234/849116810
 东南卫视,http://125.38.164.44:1234/849116810
 东南卫视,http://chen.ccwu.cc:1234/849116810
 东方卫视,http://113.98.11.46:3000/651632648
-东方卫视,http://222.134.19.49:8090/651632648
-东方卫视,http://123.159.31.239:1234/651632648
 东方卫视,http://117.29.143.59:10000/651632648
+东方卫视,http://123.159.31.239:1234/651632648
+东方卫视,http://222.134.19.49:8090/651632648
 东方卫视,http://jxj.zhgdyun.com:1234/651632648
 东方卫视,http://125.38.164.44:1234/651632648
 东方卫视,http://chen.ccwu.cc:1234/651632648
 中国农林卫视,http://113.98.11.46:3000/956904896
-中国农林卫视,http://222.134.19.49:8090/956904896
-中国农林卫视,http://123.159.31.239:1234/956904896
 中国农林卫视,http://117.29.143.59:10000/956904896
+中国农林卫视,http://123.159.31.239:1234/956904896
+中国农林卫视,http://222.134.19.49:8090/956904896
 中国农林卫视,http://jxj.zhgdyun.com:1234/956904896
 中国农林卫视,http://125.38.164.44:1234/956904896
 中国农林卫视,http://chen.ccwu.cc:1234/956904896
 兵团卫视,http://113.98.11.46:3000/956923145
-兵团卫视,http://222.134.19.49:8090/956923145
-兵团卫视,http://123.159.31.239:1234/956923145
 兵团卫视,http://117.29.143.59:10000/956923145
+兵团卫视,http://123.159.31.239:1234/956923145
+兵团卫视,http://222.134.19.49:8090/956923145
 兵团卫视,http://jxj.zhgdyun.com:1234/956923145
 兵团卫视,http://125.38.164.44:1234/956923145
 兵团卫视,http://chen.ccwu.cc:1234/956923145
 北京卫视,http://113.98.11.46:3000/630287636
-北京卫视,http://222.134.19.49:8090/630287636
-北京卫视,http://123.159.31.239:1234/630287636
 北京卫视,http://117.29.143.59:10000/630287636
+北京卫视,http://123.159.31.239:1234/630287636
+北京卫视,http://222.134.19.49:8090/630287636
 北京卫视,http://jxj.zhgdyun.com:1234/630287636
 北京卫视,http://125.38.164.44:1234/630287636
 北京卫视,http://chen.ccwu.cc:1234/630287636
 吉林卫视,http://113.98.11.46:3000/947472500
-吉林卫视,http://222.134.19.49:8090/947472500
-吉林卫视,http://123.159.31.239:1234/947472500
 吉林卫视,http://117.29.143.59:10000/947472500
+吉林卫视,http://123.159.31.239:1234/947472500
+吉林卫视,http://222.134.19.49:8090/947472500
 吉林卫视,http://jxj.zhgdyun.com:1234/947472500
 吉林卫视,http://125.38.164.44:1234/947472500
 吉林卫视,http://chen.ccwu.cc:1234/947472500
 大湾区卫视,http://113.98.11.46:3000/608917627
-大湾区卫视,http://222.134.19.49:8090/608917627
-大湾区卫视,http://123.159.31.239:1234/608917627
 大湾区卫视,http://117.29.143.59:10000/608917627
+大湾区卫视,http://123.159.31.239:1234/608917627
+大湾区卫视,http://222.134.19.49:8090/608917627
 大湾区卫视,http://jxj.zhgdyun.com:1234/608917627
 大湾区卫视,http://125.38.164.44:1234/608917627
 大湾区卫视,http://chen.ccwu.cc:1234/608917627
 宁夏卫视,http://113.98.11.46:3000/738910535
-宁夏卫视,http://222.134.19.49:8090/738910535
-宁夏卫视,http://123.159.31.239:1234/738910535
 宁夏卫视,http://117.29.143.59:10000/738910535
+宁夏卫视,http://123.159.31.239:1234/738910535
+宁夏卫视,http://222.134.19.49:8090/738910535
 宁夏卫视,http://jxj.zhgdyun.com:1234/738910535
 宁夏卫视,http://125.38.164.44:1234/738910535
 宁夏卫视,http://chen.ccwu.cc:1234/738910535
 广东卫视,http://113.98.11.46:3000/608831231
-广东卫视,http://222.134.19.49:8090/608831231
-广东卫视,http://123.159.31.239:1234/608831231
 广东卫视,http://117.29.143.59:10000/608831231
+广东卫视,http://123.159.31.239:1234/608831231
+广东卫视,http://222.134.19.49:8090/608831231
 广东卫视,http://jxj.zhgdyun.com:1234/608831231
 广东卫视,http://125.38.164.44:1234/608831231
 广东卫视,http://chen.ccwu.cc:1234/608831231
 江苏卫视,http://113.98.11.46:3000/623899368
-江苏卫视,http://222.134.19.49:8090/623899368
-江苏卫视,http://123.159.31.239:1234/623899368
 江苏卫视,http://117.29.143.59:10000/623899368
+江苏卫视,http://123.159.31.239:1234/623899368
+江苏卫视,http://222.134.19.49:8090/623899368
 江苏卫视,http://jxj.zhgdyun.com:1234/623899368
 江苏卫视,http://125.38.164.44:1234/623899368
 江苏卫视,http://chen.ccwu.cc:1234/623899368
 江西卫视,http://113.98.11.46:3000/783847495
-江西卫视,http://222.134.19.49:8090/783847495
-江西卫视,http://123.159.31.239:1234/783847495
 江西卫视,http://117.29.143.59:10000/783847495
+江西卫视,http://123.159.31.239:1234/783847495
+江西卫视,http://222.134.19.49:8090/783847495
 江西卫视,http://jxj.zhgdyun.com:1234/783847495
 江西卫视,http://125.38.164.44:1234/783847495
 江西卫视,http://chen.ccwu.cc:1234/783847495
 河北卫视,http://113.98.11.46:3000/962042070
-河北卫视,http://222.134.19.49:8090/962042070
-河北卫视,http://123.159.31.239:1234/962042070
 河北卫视,http://117.29.143.59:10000/962042070
+河北卫视,http://123.159.31.239:1234/962042070
+河北卫视,http://222.134.19.49:8090/962042070
 河北卫视,http://jxj.zhgdyun.com:1234/962042070
 河北卫视,http://125.38.164.44:1234/962042070
 河北卫视,http://chen.ccwu.cc:1234/962042070
 河南卫视,http://113.98.11.46:3000/790187291
-河南卫视,http://222.134.19.49:8090/790187291
-河南卫视,http://123.159.31.239:1234/790187291
 河南卫视,http://117.29.143.59:10000/790187291
+河南卫视,http://123.159.31.239:1234/790187291
+河南卫视,http://222.134.19.49:8090/790187291
 河南卫视,http://jxj.zhgdyun.com:1234/790187291
 河南卫视,http://125.38.164.44:1234/790187291
 河南卫视,http://chen.ccwu.cc:1234/790187291
 海南卫视,http://113.98.11.46:3000/947472502
-海南卫视,http://222.134.19.49:8090/947472502
-海南卫视,http://123.159.31.239:1234/947472502
 海南卫视,http://117.29.143.59:10000/947472502
+海南卫视,http://123.159.31.239:1234/947472502
+海南卫视,http://222.134.19.49:8090/947472502
 海南卫视,http://jxj.zhgdyun.com:1234/947472502
 海南卫视,http://125.38.164.44:1234/947472502
 海南卫视,http://chen.ccwu.cc:1234/947472502
 海峡卫视,http://113.98.11.46:3000/849119120
-海峡卫视,http://222.134.19.49:8090/849119120
-海峡卫视,http://123.159.31.239:1234/849119120
 海峡卫视,http://117.29.143.59:10000/849119120
+海峡卫视,http://123.159.31.239:1234/849119120
+海峡卫视,http://222.134.19.49:8090/849119120
 海峡卫视,http://jxj.zhgdyun.com:1234/849119120
 海峡卫视,http://125.38.164.44:1234/849119120
 海峡卫视,http://chen.ccwu.cc:1234/849119120
 湖北卫视,http://113.98.11.46:3000/947472496
-湖北卫视,http://222.134.19.49:8090/947472496
-湖北卫视,http://123.159.31.239:1234/947472496
 湖北卫视,http://117.29.143.59:10000/947472496
+湖北卫视,http://123.159.31.239:1234/947472496
+湖北卫视,http://222.134.19.49:8090/947472496
 湖北卫视,http://jxj.zhgdyun.com:1234/947472496
 湖北卫视,http://125.38.164.44:1234/947472496
 湖北卫视,http://chen.ccwu.cc:1234/947472496
 辽宁卫视,http://113.98.11.46:3000/630291707
-辽宁卫视,http://222.134.19.49:8090/630291707
-辽宁卫视,http://123.159.31.239:1234/630291707
 辽宁卫视,http://117.29.143.59:10000/630291707
+辽宁卫视,http://123.159.31.239:1234/630291707
+辽宁卫视,http://222.134.19.49:8090/630291707
 辽宁卫视,http://jxj.zhgdyun.com:1234/630291707
 辽宁卫视,http://125.38.164.44:1234/630291707
 辽宁卫视,http://chen.ccwu.cc:1234/630291707
 重庆卫视,http://113.98.11.46:3000/738910914
-重庆卫视,http://222.134.19.49:8090/738910914
-重庆卫视,http://123.159.31.239:1234/738910914
 重庆卫视,http://117.29.143.59:10000/738910914
+重庆卫视,http://123.159.31.239:1234/738910914
+重庆卫视,http://222.134.19.49:8090/738910914
 重庆卫视,http://jxj.zhgdyun.com:1234/738910914
 重庆卫视,http://125.38.164.44:1234/738910914
 重庆卫视,http://chen.ccwu.cc:1234/738910914
 陕西卫视,http://113.98.11.46:3000/738910838
-陕西卫视,http://222.134.19.49:8090/738910838
-陕西卫视,http://123.159.31.239:1234/738910838
 陕西卫视,http://117.29.143.59:10000/738910838
+陕西卫视,http://123.159.31.239:1234/738910838
+陕西卫视,http://222.134.19.49:8090/738910838
 陕西卫视,http://jxj.zhgdyun.com:1234/738910838
 陕西卫视,http://125.38.164.44:1234/738910838
 陕西卫视,http://chen.ccwu.cc:1234/738910838
 青海卫视,http://113.98.11.46:3000/947472506
-青海卫视,http://222.134.19.49:8090/947472506
-青海卫视,http://123.159.31.239:1234/947472506
 青海卫视,http://117.29.143.59:10000/947472506
+青海卫视,http://123.159.31.239:1234/947472506
+青海卫视,http://222.134.19.49:8090/947472506
 青海卫视,http://jxj.zhgdyun.com:1234/947472506
 青海卫视,http://125.38.164.44:1234/947472506
 青海卫视,http://chen.ccwu.cc:1234/947472506
 黑龙江卫视,http://113.98.11.46:3000/738906901
-黑龙江卫视,http://222.134.19.49:8090/738906901
-黑龙江卫视,http://123.159.31.239:1234/738906901
 黑龙江卫视,http://117.29.143.59:10000/738906901
+黑龙江卫视,http://123.159.31.239:1234/738906901
+黑龙江卫视,http://222.134.19.49:8090/738906901
 黑龙江卫视,http://jxj.zhgdyun.com:1234/738906901
 黑龙江卫视,http://125.38.164.44:1234/738906901
 黑龙江卫视,http://chen.ccwu.cc:1234/738906901
@@ -571,61 +538,35 @@ CCTV-9 纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kank
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://104.152.209.49:8181/720p/dfws.m3u8
-东方卫视,http://173.208.234.146/live/dfws.m3u8
-东方卫视,http://107.150.60.122/live/dfwshd.m3u8
-东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 云南卫视,http://home.szjim.top:4000/udp/239.253.43.37:5146
 兵团卫视,http://pplee.vicp.net:4022/udp/233.18.204.221:5140
 内蒙古卫视,http://pplee.vicp.net:4022/udp/233.18.204.217:5140
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://104.152.209.49:8181/720p/bjws.m3u8
 吉林卫视,http://pplee.vicp.net:4022/udp/233.18.204.108:5140
-四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8
-四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-大湾区卫视,http://173.208.234.146/live/nfws.m3u8
-宁夏卫视,http://pplee.vicp.net:4022/udp/233.18.204.230:5140
-安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8
-安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8
-山东卫视,http://192.151.150.154/live/sdwshd.m3u8
 山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://pplee.vicp.net:4022/udp/233.18.204.211:5140
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-广东卫视,http://104.152.209.49:8181/720p/gdws.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
-江苏卫视,http://104.152.209.49:8181/720p/jsws.m3u8
-江苏卫视,http://173.208.234.146/live/jsws.m3u8
-江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 江苏卫视4K,https://live.chinacert.cftest5.cn/zgst/live/jiangsu4k
-河南卫视,http://104.152.209.49:8181/720p/haws.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
-深圳卫视,http://104.152.209.49:8181/720p/szws.m3u8
-湖北卫视,http://204.12.221.218:8181/3m1080p/hbws.m3u8
-湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 湖南卫视,http://221.226.51.220:50081/newlive/live/hls/29/live.m3u8
-湖南卫视,http://104.152.209.49:8181/720p/hnws.m3u8
-湖南卫视,http://173.208.234.146/live/hnws.m3u8
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 甘肃卫视,http://pplee.vicp.net:4022/udp/233.18.204.110:5140
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 陕西卫视,http://pplee.vicp.net:4022/udp/233.18.204.223:5140
 黑龙江卫视,http://pplee.vicp.net:4022/udp/233.18.204.90:5140
 
@@ -638,20 +579,18 @@ CCTV-9 纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kank
 三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://124.228.160.210:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://120.198.95.220:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1
 云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 云南卫视,http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 兵团卫视,http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 内蒙古卫视,http://59.39.89.130:60901/tsfile/live/0125_21.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://104.152.209.49:8181/720p/bjws.m3u8
 吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://111.59.24.227:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -673,7 +612,6 @@ CCTV-9 纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kank
 山东卫视,http://120.198.95.220:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&down=1
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-山西卫视,http://112.123.243.37:50085/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://120.198.95.220:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
 山西卫视,http://36.136.38.87:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -691,7 +629,6 @@ CCTV-9 纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kank
 新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 新疆卫视,http://112.27.5.218:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://104.152.209.49:8181/720p/jsws.m3u8
 江苏卫视,http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://111.59.24.227:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -713,22 +650,18 @@ CCTV-9 纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kank
 深圳卫视,http://221.7.175.154:8445/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8
 深圳卫视,http://124.228.160.210:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://112.123.243.37:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://221.7.175.154:8445/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 西藏卫视,http://59.39.89.130:60901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://59.39.89.130:60901/tsfile/live/0125_4.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://120.198.95.220:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&down=1
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
 贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
 贵州卫视,http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://112.123.243.37:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://120.198.95.220:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&down=1
 辽宁卫视,http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://36.136.38.87:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -743,418 +676,299 @@ CCTV-9 纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kank
 
 地方,#genre#
 上海新闻综合,http://113.98.11.46:3000/651632657
-上海新闻综合,http://222.134.19.49:8090/651632657
-上海新闻综合,http://123.159.31.239:1234/651632657
 上海新闻综合,http://117.29.143.59:10000/651632657
+上海新闻综合,http://123.159.31.239:1234/651632657
+上海新闻综合,http://222.134.19.49:8090/651632657
 上海新闻综合,http://jxj.zhgdyun.com:1234/651632657
 上海新闻综合,http://125.38.164.44:1234/651632657
 上海新闻综合,http://chen.ccwu.cc:1234/651632657
 上海第一财经,http://113.98.11.46:3000/608780988
-上海第一财经,http://222.134.19.49:8090/608780988
-上海第一财经,http://123.159.31.239:1234/608780988
 上海第一财经,http://117.29.143.59:10000/608780988
+上海第一财经,http://123.159.31.239:1234/608780988
+上海第一财经,http://222.134.19.49:8090/608780988
 上海第一财经,http://jxj.zhgdyun.com:1234/608780988
 上海第一财经,http://125.38.164.44:1234/608780988
 上海第一财经,http://chen.ccwu.cc:1234/608780988
 上视东方影视,http://113.98.11.46:3000/617290047
-上视东方影视,http://222.134.19.49:8090/617290047
-上视东方影视,http://123.159.31.239:1234/617290047
 上视东方影视,http://117.29.143.59:10000/617290047
+上视东方影视,http://123.159.31.239:1234/617290047
+上视东方影视,http://222.134.19.49:8090/617290047
 上视东方影视,http://jxj.zhgdyun.com:1234/617290047
 上视东方影视,http://125.38.164.44:1234/617290047
 上视东方影视,http://chen.ccwu.cc:1234/617290047
 优漫卡通频道,http://113.98.11.46:3000/626064703
-优漫卡通频道,http://222.134.19.49:8090/626064703
-优漫卡通频道,http://123.159.31.239:1234/626064703
 优漫卡通频道,http://117.29.143.59:10000/626064703
+优漫卡通频道,http://123.159.31.239:1234/626064703
+优漫卡通频道,http://222.134.19.49:8090/626064703
 优漫卡通频道,http://jxj.zhgdyun.com:1234/626064703
 优漫卡通频道,http://125.38.164.44:1234/626064703
 优漫卡通频道,http://chen.ccwu.cc:1234/626064703
 体育休闲频道,http://113.98.11.46:3000/626064707
-体育休闲频道,http://222.134.19.49:8090/626064707
-体育休闲频道,http://123.159.31.239:1234/626064707
 体育休闲频道,http://117.29.143.59:10000/626064707
+体育休闲频道,http://123.159.31.239:1234/626064707
+体育休闲频道,http://222.134.19.49:8090/626064707
 体育休闲频道,http://jxj.zhgdyun.com:1234/626064707
 体育休闲频道,http://125.38.164.44:1234/626064707
 体育休闲频道,http://chen.ccwu.cc:1234/626064707
 公共新闻频道,http://113.98.11.46:3000/626064693
-公共新闻频道,http://222.134.19.49:8090/626064693
-公共新闻频道,http://123.159.31.239:1234/626064693
 公共新闻频道,http://117.29.143.59:10000/626064693
+公共新闻频道,http://123.159.31.239:1234/626064693
+公共新闻频道,http://222.134.19.49:8090/626064693
 公共新闻频道,http://jxj.zhgdyun.com:1234/626064693
 公共新闻频道,http://125.38.164.44:1234/626064693
 公共新闻频道,http://chen.ccwu.cc:1234/626064693
 南京十八频道,http://113.98.11.46:3000/838151753
-南京十八频道,http://222.134.19.49:8090/838151753
-南京十八频道,http://123.159.31.239:1234/838151753
 南京十八频道,http://117.29.143.59:10000/838151753
+南京十八频道,http://123.159.31.239:1234/838151753
+南京十八频道,http://222.134.19.49:8090/838151753
 南京十八频道,http://jxj.zhgdyun.com:1234/838151753
 南京十八频道,http://125.38.164.44:1234/838151753
 南京十八频道,http://chen.ccwu.cc:1234/838151753
 南京教科频道,http://113.98.11.46:3000/838153729
-南京教科频道,http://222.134.19.49:8090/838153729
-南京教科频道,http://123.159.31.239:1234/838153729
 南京教科频道,http://117.29.143.59:10000/838153729
+南京教科频道,http://123.159.31.239:1234/838153729
+南京教科频道,http://222.134.19.49:8090/838153729
 南京教科频道,http://jxj.zhgdyun.com:1234/838153729
 南京教科频道,http://125.38.164.44:1234/838153729
 南京教科频道,http://chen.ccwu.cc:1234/838153729
 南京新闻综合频道,http://113.98.11.46:3000/838109047
-南京新闻综合频道,http://222.134.19.49:8090/838109047
-南京新闻综合频道,http://123.159.31.239:1234/838109047
 南京新闻综合频道,http://117.29.143.59:10000/838109047
+南京新闻综合频道,http://123.159.31.239:1234/838109047
+南京新闻综合频道,http://222.134.19.49:8090/838109047
 南京新闻综合频道,http://jxj.zhgdyun.com:1234/838109047
 南京新闻综合频道,http://125.38.164.44:1234/838109047
 南京新闻综合频道,http://chen.ccwu.cc:1234/838109047
 南通新闻综合,http://113.98.11.46:3000/955227985
-南通新闻综合,http://222.134.19.49:8090/955227985
-南通新闻综合,http://123.159.31.239:1234/955227985
 南通新闻综合,http://117.29.143.59:10000/955227985
+南通新闻综合,http://123.159.31.239:1234/955227985
+南通新闻综合,http://222.134.19.49:8090/955227985
 南通新闻综合,http://jxj.zhgdyun.com:1234/955227985
 南通新闻综合,http://125.38.164.44:1234/955227985
 南通新闻综合,http://chen.ccwu.cc:1234/955227985
 宜兴新闻综合,http://113.98.11.46:3000/955227996
-宜兴新闻综合,http://222.134.19.49:8090/955227996
-宜兴新闻综合,http://123.159.31.239:1234/955227996
 宜兴新闻综合,http://117.29.143.59:10000/955227996
+宜兴新闻综合,http://123.159.31.239:1234/955227996
+宜兴新闻综合,http://222.134.19.49:8090/955227996
 宜兴新闻综合,http://jxj.zhgdyun.com:1234/955227996
 宜兴新闻综合,http://125.38.164.44:1234/955227996
 宜兴新闻综合,http://chen.ccwu.cc:1234/955227996
 宿迁新闻综合,http://113.98.11.46:3000/639731832
-宿迁新闻综合,http://222.134.19.49:8090/639731832
-宿迁新闻综合,http://123.159.31.239:1234/639731832
 宿迁新闻综合,http://117.29.143.59:10000/639731832
+宿迁新闻综合,http://123.159.31.239:1234/639731832
+宿迁新闻综合,http://222.134.19.49:8090/639731832
 宿迁新闻综合,http://jxj.zhgdyun.com:1234/639731832
 宿迁新闻综合,http://125.38.164.44:1234/639731832
 宿迁新闻综合,http://chen.ccwu.cc:1234/639731832
 广东珠江频道,http://113.98.11.46:3000/639731952
-广东珠江频道,http://222.134.19.49:8090/639731952
-广东珠江频道,http://123.159.31.239:1234/639731952
 广东珠江频道,http://117.29.143.59:10000/639731952
+广东珠江频道,http://123.159.31.239:1234/639731952
+广东珠江频道,http://222.134.19.49:8090/639731952
 广东珠江频道,http://jxj.zhgdyun.com:1234/639731952
 广东珠江频道,http://125.38.164.44:1234/639731952
 广东珠江频道,http://chen.ccwu.cc:1234/639731952
 徐州新闻综合,http://113.98.11.46:3000/639731747
-徐州新闻综合,http://222.134.19.49:8090/639731747
-徐州新闻综合,http://123.159.31.239:1234/639731747
 徐州新闻综合,http://117.29.143.59:10000/639731747
+徐州新闻综合,http://123.159.31.239:1234/639731747
+徐州新闻综合,http://222.134.19.49:8090/639731747
 徐州新闻综合,http://jxj.zhgdyun.com:1234/639731747
 徐州新闻综合,http://125.38.164.44:1234/639731747
 徐州新闻综合,http://chen.ccwu.cc:1234/639731747
 江苏国际,http://113.98.11.46:3000/626064674
-江苏国际,http://222.134.19.49:8090/626064674
-江苏国际,http://123.159.31.239:1234/626064674
 江苏国际,http://117.29.143.59:10000/626064674
+江苏国际,http://123.159.31.239:1234/626064674
+江苏国际,http://222.134.19.49:8090/626064674
 江苏国际,http://jxj.zhgdyun.com:1234/626064674
 江苏国际,http://125.38.164.44:1234/626064674
 江苏国际,http://chen.ccwu.cc:1234/626064674
 江苏城市频道,http://113.98.11.46:3000/626064714
-江苏城市频道,http://222.134.19.49:8090/626064714
-江苏城市频道,http://123.159.31.239:1234/626064714
 江苏城市频道,http://117.29.143.59:10000/626064714
+江苏城市频道,http://123.159.31.239:1234/626064714
+江苏城市频道,http://222.134.19.49:8090/626064714
 江苏城市频道,http://jxj.zhgdyun.com:1234/626064714
 江苏城市频道,http://125.38.164.44:1234/626064714
 江苏城市频道,http://chen.ccwu.cc:1234/626064714
 江苏影视频道,http://113.98.11.46:3000/626064697
-江苏影视频道,http://222.134.19.49:8090/626064697
-江苏影视频道,http://123.159.31.239:1234/626064697
 江苏影视频道,http://117.29.143.59:10000/626064697
+江苏影视频道,http://123.159.31.239:1234/626064697
+江苏影视频道,http://222.134.19.49:8090/626064697
 江苏影视频道,http://jxj.zhgdyun.com:1234/626064697
 江苏影视频道,http://125.38.164.44:1234/626064697
 江苏影视频道,http://chen.ccwu.cc:1234/626064697
 江苏教育,http://113.98.11.46:3000/628008321
-江苏教育,http://222.134.19.49:8090/628008321
-江苏教育,http://123.159.31.239:1234/628008321
 江苏教育,http://117.29.143.59:10000/628008321
+江苏教育,http://123.159.31.239:1234/628008321
+江苏教育,http://222.134.19.49:8090/628008321
 江苏教育,http://jxj.zhgdyun.com:1234/628008321
 江苏教育,http://125.38.164.44:1234/628008321
 江苏教育,http://chen.ccwu.cc:1234/628008321
 江苏综艺频道,http://113.98.11.46:3000/626065193
-江苏综艺频道,http://222.134.19.49:8090/626065193
-江苏综艺频道,http://123.159.31.239:1234/626065193
 江苏综艺频道,http://117.29.143.59:10000/626065193
+江苏综艺频道,http://123.159.31.239:1234/626065193
+江苏综艺频道,http://222.134.19.49:8090/626065193
 江苏综艺频道,http://jxj.zhgdyun.com:1234/626065193
 江苏综艺频道,http://125.38.164.44:1234/626065193
 江苏综艺频道,http://chen.ccwu.cc:1234/626065193
 江阴新闻综合,http://113.98.11.46:3000/955227979
-江阴新闻综合,http://222.134.19.49:8090/955227979
-江阴新闻综合,http://123.159.31.239:1234/955227979
 江阴新闻综合,http://117.29.143.59:10000/955227979
+江阴新闻综合,http://123.159.31.239:1234/955227979
+江阴新闻综合,http://222.134.19.49:8090/955227979
 江阴新闻综合,http://jxj.zhgdyun.com:1234/955227979
 江阴新闻综合,http://125.38.164.44:1234/955227979
 江阴新闻综合,http://chen.ccwu.cc:1234/955227979
 泰州新闻综合,http://113.98.11.46:3000/639731818
-泰州新闻综合,http://222.134.19.49:8090/639731818
-泰州新闻综合,http://123.159.31.239:1234/639731818
 泰州新闻综合,http://117.29.143.59:10000/639731818
+泰州新闻综合,http://123.159.31.239:1234/639731818
+泰州新闻综合,http://222.134.19.49:8090/639731818
 泰州新闻综合,http://jxj.zhgdyun.com:1234/639731818
 泰州新闻综合,http://125.38.164.44:1234/639731818
 泰州新闻综合,http://chen.ccwu.cc:1234/639731818
 海南广播电视总台少儿频道,http://113.98.11.46:3000/962067523
-海南广播电视总台少儿频道,http://222.134.19.49:8090/962067523
-海南广播电视总台少儿频道,http://123.159.31.239:1234/962067523
 海南广播电视总台少儿频道,http://117.29.143.59:10000/962067523
+海南广播电视总台少儿频道,http://123.159.31.239:1234/962067523
+海南广播电视总台少儿频道,http://222.134.19.49:8090/962067523
 海南广播电视总台少儿频道,http://jxj.zhgdyun.com:1234/962067523
 海南广播电视总台少儿频道,http://125.38.164.44:1234/962067523
 海南广播电视总台少儿频道,http://chen.ccwu.cc:1234/962067523
 海南广播电视总台文旅频道,http://113.98.11.46:3000/962067526
-海南广播电视总台文旅频道,http://222.134.19.49:8090/962067526
-海南广播电视总台文旅频道,http://123.159.31.239:1234/962067526
 海南广播电视总台文旅频道,http://117.29.143.59:10000/962067526
+海南广播电视总台文旅频道,http://123.159.31.239:1234/962067526
+海南广播电视总台文旅频道,http://222.134.19.49:8090/962067526
 海南广播电视总台文旅频道,http://jxj.zhgdyun.com:1234/962067526
 海南广播电视总台文旅频道,http://125.38.164.44:1234/962067526
 海南广播电视总台文旅频道,http://chen.ccwu.cc:1234/962067526
 海南广播电视总台新闻频道,http://113.98.11.46:3000/962067517
-海南广播电视总台新闻频道,http://222.134.19.49:8090/962067517
-海南广播电视总台新闻频道,http://123.159.31.239:1234/962067517
 海南广播电视总台新闻频道,http://117.29.143.59:10000/962067517
+海南广播电视总台新闻频道,http://123.159.31.239:1234/962067517
+海南广播电视总台新闻频道,http://222.134.19.49:8090/962067517
 海南广播电视总台新闻频道,http://jxj.zhgdyun.com:1234/962067517
 海南广播电视总台新闻频道,http://125.38.164.44:1234/962067517
 海南广播电视总台新闻频道,http://chen.ccwu.cc:1234/962067517
 海南广播电视总台社会与法频道,http://113.98.11.46:3000/962045223
-海南广播电视总台社会与法频道,http://222.134.19.49:8090/962045223
-海南广播电视总台社会与法频道,http://123.159.31.239:1234/962045223
 海南广播电视总台社会与法频道,http://117.29.143.59:10000/962045223
+海南广播电视总台社会与法频道,http://123.159.31.239:1234/962045223
+海南广播电视总台社会与法频道,http://222.134.19.49:8090/962045223
 海南广播电视总台社会与法频道,http://jxj.zhgdyun.com:1234/962045223
 海南广播电视总台社会与法频道,http://125.38.164.44:1234/962045223
 海南广播电视总台社会与法频道,http://chen.ccwu.cc:1234/962045223
 海南广播电视总台自贸频道,http://113.98.11.46:3000/962045226
-海南广播电视总台自贸频道,http://222.134.19.49:8090/962045226
-海南广播电视总台自贸频道,http://123.159.31.239:1234/962045226
 海南广播电视总台自贸频道,http://117.29.143.59:10000/962045226
+海南广播电视总台自贸频道,http://123.159.31.239:1234/962045226
+海南广播电视总台自贸频道,http://222.134.19.49:8090/962045226
 海南广播电视总台自贸频道,http://jxj.zhgdyun.com:1234/962045226
 海南广播电视总台自贸频道,http://125.38.164.44:1234/962045226
 海南广播电视总台自贸频道,http://chen.ccwu.cc:1234/962045226
 淮安新闻综合,http://113.98.11.46:3000/639731826
-淮安新闻综合,http://222.134.19.49:8090/639731826
-淮安新闻综合,http://123.159.31.239:1234/639731826
 淮安新闻综合,http://117.29.143.59:10000/639731826
+淮安新闻综合,http://123.159.31.239:1234/639731826
+淮安新闻综合,http://222.134.19.49:8090/639731826
 淮安新闻综合,http://jxj.zhgdyun.com:1234/639731826
 淮安新闻综合,http://125.38.164.44:1234/639731826
 淮安新闻综合,http://chen.ccwu.cc:1234/639731826
 溧水新闻综合,http://113.98.11.46:3000/639737327
-溧水新闻综合,http://222.134.19.49:8090/639737327
-溧水新闻综合,http://123.159.31.239:1234/639737327
 溧水新闻综合,http://117.29.143.59:10000/639737327
+溧水新闻综合,http://123.159.31.239:1234/639737327
+溧水新闻综合,http://222.134.19.49:8090/639737327
 溧水新闻综合,http://jxj.zhgdyun.com:1234/639737327
 溧水新闻综合,http://125.38.164.44:1234/639737327
 溧水新闻综合,http://chen.ccwu.cc:1234/639737327
 盐城新闻综合,http://113.98.11.46:3000/639731825
-盐城新闻综合,http://222.134.19.49:8090/639731825
-盐城新闻综合,http://123.159.31.239:1234/639731825
 盐城新闻综合,http://117.29.143.59:10000/639731825
+盐城新闻综合,http://123.159.31.239:1234/639731825
+盐城新闻综合,http://222.134.19.49:8090/639731825
 盐城新闻综合,http://jxj.zhgdyun.com:1234/639731825
 盐城新闻综合,http://125.38.164.44:1234/639731825
 盐城新闻综合,http://chen.ccwu.cc:1234/639731825
 财富天下,http://113.98.11.46:3000/956923159
-财富天下,http://222.134.19.49:8090/956923159
-财富天下,http://123.159.31.239:1234/956923159
 财富天下,http://117.29.143.59:10000/956923159
+财富天下,http://123.159.31.239:1234/956923159
+财富天下,http://222.134.19.49:8090/956923159
 财富天下,http://jxj.zhgdyun.com:1234/956923159
 财富天下,http://125.38.164.44:1234/956923159
 财富天下,http://chen.ccwu.cc:1234/956923159
 连云港新闻综合,http://113.98.11.46:3000/639731715
-连云港新闻综合,http://222.134.19.49:8090/639731715
-连云港新闻综合,http://123.159.31.239:1234/639731715
 连云港新闻综合,http://117.29.143.59:10000/639731715
+连云港新闻综合,http://123.159.31.239:1234/639731715
+连云港新闻综合,http://222.134.19.49:8090/639731715
 连云港新闻综合,http://jxj.zhgdyun.com:1234/639731715
 连云港新闻综合,http://125.38.164.44:1234/639731715
 连云港新闻综合,http://chen.ccwu.cc:1234/639731715
 镇江新闻综合,http://113.98.11.46:3000/639731783
-镇江新闻综合,http://222.134.19.49:8090/639731783
-镇江新闻综合,http://123.159.31.239:1234/639731783
 镇江新闻综合,http://117.29.143.59:10000/639731783
+镇江新闻综合,http://123.159.31.239:1234/639731783
+镇江新闻综合,http://222.134.19.49:8090/639731783
 镇江新闻综合,http://jxj.zhgdyun.com:1234/639731783
 镇江新闻综合,http://125.38.164.44:1234/639731783
 镇江新闻综合,http://chen.ccwu.cc:1234/639731783
 陕西新闻资讯频道,http://113.98.11.46:3000/956909289
-陕西新闻资讯频道,http://222.134.19.49:8090/956909289
-陕西新闻资讯频道,http://123.159.31.239:1234/956909289
 陕西新闻资讯频道,http://117.29.143.59:10000/956909289
+陕西新闻资讯频道,http://123.159.31.239:1234/956909289
+陕西新闻资讯频道,http://222.134.19.49:8090/956909289
 陕西新闻资讯频道,http://jxj.zhgdyun.com:1234/956909289
 陕西新闻资讯频道,http://125.38.164.44:1234/956909289
 陕西新闻资讯频道,http://chen.ccwu.cc:1234/956909289
 陕西秦腔频道,http://113.98.11.46:3000/956909303
-陕西秦腔频道,http://222.134.19.49:8090/956909303
-陕西秦腔频道,http://123.159.31.239:1234/956909303
 陕西秦腔频道,http://117.29.143.59:10000/956909303
+陕西秦腔频道,http://123.159.31.239:1234/956909303
+陕西秦腔频道,http://222.134.19.49:8090/956909303
 陕西秦腔频道,http://jxj.zhgdyun.com:1234/956909303
 陕西秦腔频道,http://125.38.164.44:1234/956909303
 陕西秦腔频道,http://chen.ccwu.cc:1234/956909303
 陕西都市青春频道,http://113.98.11.46:3000/956909358
-陕西都市青春频道,http://222.134.19.49:8090/956909358
-陕西都市青春频道,http://123.159.31.239:1234/956909358
 陕西都市青春频道,http://117.29.143.59:10000/956909358
+陕西都市青春频道,http://123.159.31.239:1234/956909358
+陕西都市青春频道,http://222.134.19.49:8090/956909358
 陕西都市青春频道,http://jxj.zhgdyun.com:1234/956909358
 陕西都市青春频道,http://125.38.164.44:1234/956909358
 陕西都市青春频道,http://chen.ccwu.cc:1234/956909358
 陕西银龄频道,http://113.98.11.46:3000/956909362
-陕西银龄频道,http://222.134.19.49:8090/956909362
-陕西银龄频道,http://123.159.31.239:1234/956909362
 陕西银龄频道,http://117.29.143.59:10000/956909362
+陕西银龄频道,http://123.159.31.239:1234/956909362
+陕西银龄频道,http://222.134.19.49:8090/956909362
 陕西银龄频道,http://jxj.zhgdyun.com:1234/956909362
 陕西银龄频道,http://125.38.164.44:1234/956909362
 陕西银龄频道,http://chen.ccwu.cc:1234/956909362
 
 香港地区,#genre#
-HOY TV,http://173.208.234.146/live/hoy77.m3u8
-Popc,http://173.208.234.146/live/popc.m3u8
-中视新闻,http://173.208.234.146/live/ctvnews.m3u8
-中视菁采,http://173.208.234.146/live/ctvjc.m3u8
-凤凰资讯台,http://173.208.234.146/live/fhzx.m3u8
-凤凰香港台,http://173.208.234.146/live/fhxg.m3u8
-华视,http://173.208.234.146/live/cts.m3u8
-华视新闻资讯,http://173.208.234.146/live/ctsnews.m3u8
-台视,http://173.208.234.146/live/ttv.m3u8
-台视新闻,http://173.208.234.146/live/ttvnews.m3u8
-台视综合,http://173.208.234.146/live/ttvzh.m3u8
-民视,http://173.208.234.146/live/ftv.m3u8
-民视第一台,http://173.208.234.146/live/ftvdy.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 
 国际,#genre#
-France24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-NHK World,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 Sky News,https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 
 数字频道,#genre#
-CHC-动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC-动作电影,http://pplee.vicp.net:4022/udp/233.18.204.174:5140
-CHC-动作电影,http://192.151.150.154/live/chcdz.m3u8
-CHC-家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC-家庭影院,http://pplee.vicp.net:4022/udp/233.18.204.173:5140
 CHC-影迷电影,http://pplee.vicp.net:4022/udp/233.18.204.175:5140
 NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 
-电影轮播,#genre#
-刘德华,http://173.208.234.146/live/vlldh.m3u8
-周润发,http://173.208.234.146/live/vlzrf.m3u8
-林正英,http://173.208.234.146/live/vllzy.m3u8
-邵氏武侠,http://173.208.234.146/live/sswx.m3u8
-黄百鸣,http://173.208.234.146/live/vlhbm.m3u8
-
 文体频道,#genre#
 五星体育,http://pplee.vicp.net:4022/udp/233.18.204.58:5140
 
-体育,#genre#
-beIN SPORTS XTRA,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
-FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-MTRSPT 1,https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
-NBC Sports NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
-NHL Network,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
-Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-Stadium,https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
-Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
-
 亚太,#genre#
-Astro AOD,https://cdn.qd.je/163189/aod
+ABC互動英語,http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1784702901150
 Astro欢喜台,https://cdn.qd.je/163189/hxt
 CH5,https://cdn.qd.je/163189/ch5
-CH8,https://cdn.qd.je/163189/ch8
-CHU,https://cdn.qd.je/163189/chu
-HOY TV,https://cdn.qd.je/163189/hoy
-HOY国际财经台,https://cdn.qd.je/163189/hoy76
-HOY资讯台,https://cdn.qd.je/163189/hoy78
-Mnews鏡新闻,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
-MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
 Nice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784702901150
-Nickelodeon,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784702901150
-NOW新闻台,https://cdn.qd.je/163189/now
-RTHK31,https://cdn.qd.je/163189/rthk31
-RTHK32,https://cdn.qd.je/163189/rthk32
-TVB1,https://cdn6.cc.cd/163189/tvb1
-TVBJ1,https://cdn6.cc.cd/163189/j1
-TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
-TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
-TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
-TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVB新闻,https://cdn6.cc.cd/163189/wxxw
-ViuTV,https://cdn.qd.je/163189/viu
 ViuTVsix,https://cdn.qd.je/163189/viu6
-三立新聞iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
-三立綜合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
-中天新聞,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
-中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
-公视,http://211.72.174.95:8116/0.ts
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-凤凰香港,https://cdn.qd.je/163189/fhhk
-华视,http://220.135.241.47:8317/0.ts
-华视教体,http://220.135.241.47:8318/0.ts
-台视,http://211.72.174.95:8112/0.ts
 台视财经,http://220.135.241.47:8315/0.ts
-寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
-无线新闻台,https://cdn6.cc.cd/163189/wxxwt
-明珠台,https://cdn.qd.je/163189/mzt
-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
-東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
-民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784702901150
-民視新聞台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
-民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784702901150
-民視綜藝台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
-民视,http://211.72.174.95:8115/0.ts
-泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
-澳视卫星,https://cdn.qd.je/163189/as
-澳视澳门,https://cdn.qd.je/163189/asam
-澳门体育,https://cdn.qd.je/163189/amty
-澳门综艺,https://cdn.qd.je/163189/amzy
-澳门莲花,https://cdn.qd.je/163189/amlh
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-華視,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
-華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
 靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784702901150
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
-靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784702901150
-靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150
 
 影视,#genre#
 Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 LMN,http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
-公視戲劇,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784702901150
-天映频道,https://cdn.qd.je/163189/typd
-重温经典,https://cdn.qd.je/163189/cwjd
-靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
-靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1784702901150
-靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784702901150
 龙华偶像,https://cdn.qd.je/163189/lhox
-龙华卡通,https://cdn.qd.je/163189/lhkt
-龙华戏剧,https://cdn.qd.je/163189/lhxj
-龙华日韩,https://cdn.qd.je/163189/lhrh
-龙华洋片,https://cdn.qd.je/163189/lhyp
-龙华电影,https://cdn.qd.je/163189/lhdy
-龙华经典,https://cdn.qd.je/163189/lhjd
-
-纪实,#genre#
-Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-娱乐时尚,#genre#
-FashionTV Paris L'Original,https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-Qello Concerts,https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-Totalmusic Concerts,https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
 未分组,#genre#
 CCTV-2 财经(720p),http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-5+ 体育赛事,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-10 科教(720p),http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV-17 农业农村(1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 
 体育频道,#genre#
-CCTV-5 体育,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5 体育,http://120.198.95.220:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-5+ 体育赛事,http://120.198.95.220:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
 
