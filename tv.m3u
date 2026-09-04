@@ -1260,9 +1260,9 @@ http://120.76.248.139/live/bfgd/4200000483.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="超清央卫",东方卫视
 http://120.76.248.139/live/bfgd/4200000093.m3u8
 #EXTINF:-1 tvg-name="中国天气" group-title="超清央卫",中国天气
-https://live.chinacert.cftest5.cn/cnmg/live/959986621
-#EXTINF:-1 tvg-name="中国天气" group-title="超清央卫",中国天气
 http://119.233.255.62:1234/959986621
+#EXTINF:-1 tvg-name="中国天气" group-title="超清央卫",中国天气
+https://live.chinacert.cftest5.cn/cnmg/live/959986621
 #EXTINF:-1 tvg-name="中国天气" group-title="超清央卫",中国天气
 http://129.150.55.255:31905/959986621
 #EXTINF:-1 tvg-name="云南卫视" group-title="超清央卫",云南卫视
@@ -2886,6 +2886,8 @@ http://mg.cttv.vip/956904896
 #EXTINF:-1 tvg-name="中国天气" group-title="咪咕多线",中国天气
 http://120.48.113.49:6006/959986621
 #EXTINF:-1 tvg-name="中国天气" group-title="咪咕多线",中国天气
+https://live.chinacert.cftest5.cn/cnmg/live/959986621
+#EXTINF:-1 tvg-name="中国天气" group-title="咪咕多线",中国天气
 http://222.213.105.65:7788/959986621
 #EXTINF:-1 tvg-name="中国天气" group-title="咪咕多线",中国天气
 http://2280.eu.org:1234/959986621
@@ -2901,8 +2903,6 @@ http://121.29.157.193:7788/959986621
 http://14.118.89.10:7788/959986621
 #EXTINF:-1 tvg-name="中国天气" group-title="咪咕多线",中国天气
 http://45.78.61.93:1234/959986621
-#EXTINF:-1 tvg-name="中国天气" group-title="咪咕多线",中国天气
-https://live.chinacert.cftest5.cn/cnmg/live/959986621
 #EXTINF:-1 tvg-name="中国天气" group-title="咪咕多线",中国天气
 http://mg.cttv.vip/959986621
 #EXTINF:-1 tvg-name="中国航天“逆袭”之路" group-title="咪咕多线",中国航天“逆袭”之路
@@ -7374,9 +7374,9 @@ https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYx
 #EXTINF:-1 tvg-name="陈奕迅精选34首(2小时)" group-title="歌手音乐",陈奕迅精选34首(2小时)
 https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
 #EXTINF:-1 tvg-name="陈慧娴" group-title="歌手音乐",陈慧娴
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093902302535938_hlsb.m3u8
-#EXTINF:-1 tvg-name="陈慧娴" group-title="歌手音乐",陈慧娴
 https://txmov2.a.kwimgs.com/bs3/video-hls/5218827651929954317_hlsb.m3u8
+#EXTINF:-1 tvg-name="陈慧娴" group-title="歌手音乐",陈慧娴
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093902302535938_hlsb.m3u8
 #EXTINF:-1 tvg-name="陈慧娴30首经典歌曲" group-title="歌手音乐",陈慧娴30首经典歌曲
 https://txmov2.a.kwimgs.com/bs3/video-hls/5218827651929954317_hlsb.m3u8
 #EXTINF:-1 tvg-name="陈慧娴好听十首" group-title="歌手音乐",陈慧娴好听十首
@@ -7686,9 +7686,9 @@ http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
 http://182.140.125.47:808/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
-http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
 http://183.129.255.66:8480/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
+http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
 http://104.152.209.49:8181/720p/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
@@ -7872,9 +7872,9 @@ http://104.152.209.49:8181/720p/ysjp.m3u8
 #EXTINF:-1 tvg-name="CCTV-第一剧场" group-title="央视频道",CCTV-第一剧场
 http://104.152.209.49:8181/720p/dyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云剧场" group-title="央视频道",CCTV-风云剧场
-http://104.152.209.49:8181/720p/fyjc.m3u8
-#EXTINF:-1 tvg-name="CCTV-风云剧场" group-title="央视频道",CCTV-风云剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-风云剧场" group-title="央视频道",CCTV-风云剧场
+http://104.152.209.49:8181/720p/fyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫网球" group-title="央视频道",CCTV-高尔夫网球
 http://104.152.209.49:8181/720p/gefwq.m3u8
 #EXTINF:-1 tvg-name="CGTN" group-title="央视频道",CGTN
