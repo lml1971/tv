@@ -6,12 +6,6 @@
 
 > ——思路是我的，代码是 AI 的：**我负责不正经思路，它负责正规代码**。
 
-![License](https://img.shields.io/badge/license-学习研究-orange.svg)
-![Auto](https://img.shields.io/badge/自动聚合-GitHub%20Actions-blue.svg)
-![Python](https://img.shields.io/badge/python-3.x%20标准库-brightgreen.svg)
-![Status](https://img.shields.io/badge/status-每日更新-success.svg)
-![Author](https://img.shields.io/badge/作者-AI嗑码选手-9cf.svg)
-
 <br>
 
 [关于作者](#-关于作者) · [特性](#-特性) · [30 秒接入](#-30-秒接入) · [文件结构](#-文件结构) · [配置](#️-配置) · [自动更新](#-自动更新) · [FAQ](#-faq)
