@@ -1,5 +1,4 @@
 央视频道,#genre#
-
 CCTV-1综合,http://182.140.125.47:808/hls/1/index.m3u8
 CCTV-1综合,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 CCTV-1综合,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
