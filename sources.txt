@@ -1,0 +1,16 @@
+# ============================================================
+# 上游直播源列表 —— 一行一个 URL
+# · # 开头为注释，行尾注释也支持
+# · txt / m3u 按内容自动识别，无需标注格式
+# · 修改地址：本文件（仓库根目录），改完推送仓库即自动生效（push 触发工作流重跑）
+# ============================================================
+https://0701.tv1288.xyz/txt
+https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png
+
+# ---- 自己仓库的节目单：把本地 tv1.txt 推送到 GitHub 后此行即生效 ----
+https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv1.txt
+
+# ---- 已失效剔除（2026-09-04 实测 404，如上游恢复可取消注释）----
+# https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8
+# https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
+# https://raw.githubusercontent.com/akiralereal/iptv/refs/heads/main/IPTV.m3u
