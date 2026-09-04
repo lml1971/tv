@@ -15,11 +15,6 @@
 
 <br>
 
-![License](https://img.shields.io/badge/license-学习研究-orange.svg)
-![Auto](https://img.shields.io/badge/自动聚合-GitHub%20Actions-blue.svg)
-![Python](https://img.shields.io/badge/python-3.x%20标准库-brightgreen.svg)
-![Status](https://img.shields.io/badge/status-每日更新-success.svg)
-![Author](https://img.shields.io/badge/作者-植保老手%20%2F%20AI嗑码选手-9cf.svg)
 
 <br>
 
