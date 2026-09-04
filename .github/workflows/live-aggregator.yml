@@ -1,1 +1,208 @@
+name: Aggregate Live Sources
 
+on:
+  schedule:
+    # UTC 17:00 = 北京时间 01:00，避开整点高峰
+    - cron: '0 17 * * *'
+
+  workflow_dispatch:
+    inputs:
+      min_height:
+        description: "清晰度门槛帧高（720 / 1080）"
+        required: false
+        default: "720"
+      enable_enhance:
+        description: "是否运行抓流实测 + 测速择优（true/false）"
+        required: false
+        default: "true"
+
+  # 改了源或黑名单立即生效（不会因 tv.txt 的自动提交而自触发）
+  push:
+    paths:
+      - "sources.txt"
+      - "mgou_tv.txt"
+      - "group_blacklist.txt"
+      - "name_blacklist.txt"
+      - "scripts/**"
+
+concurrency:
+  group: live-aggregator
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  aggregate:
+    name: 聚合 → 规范化 → 断言 → 推送
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg（抓流实测所需）
+        continue-on-error: true   # 装不上也不影响快速通道
+        run: sudo apt-get update -y && sudo apt-get install -y ffmpeg
+
+      - name: 恢复探测 / 测速 / 校验缓存
+        uses: actions/cache/restore@v4
+        continue-on-error: true
+        with:
+          path: |
+            probe_cache.json
+            speed_cache.json
+            validate_cache.json
+          key: live-cache-${{ github.run_id }}
+          restore-keys: |
+            live-cache-
+
+      # ==========================================================
+      #  阶段 A · 快速通道
+      #  不抓流、不测速，几分钟内必定产出并推送 tv.txt。
+      #  这是"保命"通道：无论阶段 B 是否超时/失败，仓库当天都有可用列表。
+      # ==========================================================
+
+      - name: A1 聚合（不探测 / 不测速）
+        env:
+          MIN_HEIGHT: ${{ github.event.inputs.min_height || '720' }}
+          DISABLE_PROBE: "1"
+          DISABLE_SPEED: "1"
+          # ★ 无效源剔除：连接失败 / 404 / 410 判死（可变量：预算与上限在此调整）
+          VALIDATE_TIMEOUT: "3"       # 单条探测超时（秒）
+          VALIDATE_WORKERS: "32"      # 并发线程数
+          VALIDATE_MAX_ITEMS: "3000"  # 单轮最多探测条数
+          VALIDATE_BUDGET_SEC: "180"  # 单轮探测总耗时上限（秒）
+          FORCE_KEEP: "true"
+          MAX_RETRY: "1"
+          REQUEST_TIMEOUT: "15"
+        run: |
+          set +e
+          python scripts/aggregate.py
+          code=$?
+          if [ "$code" -ne 0 ]; then
+            echo "::warning::aggregate 退出码 $code；尝试保留已有 tv.txt 继续"
+            [ -s tv.txt ] || { echo "::error::tv.txt 为空且无法生成"; exit 1; }
+          fi
+
+      - name: A2 规范化（同步产出 tv.txt + tv.m3u）
+        run: |
+          [ -s tv.txt ] || { echo "::error::tv.txt 缺失或为空"; exit 1; }
+          python scripts/normalize_tv.py
+          [ -s tv.m3u ] || { echo "::error::tv.m3u 缺失"; exit 1; }
+
+      - name: A3 断言（宽松：上游全挂仅警告）
+        run: python scripts/ci_assert.py tv.txt
+
+      # if: always() —— 即使 A3 标红也要把产物推上去，保证订阅端不断源
+      - name: A4 提交并推送（保命提交）
+        if: always()
+        run: |
+          [ -s tv.txt ] || { echo "::warning::无 tv.txt 可提交"; exit 0; }
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f tv.txt
+          [ -f tv.m3u ] && git add -f tv.m3u || true
+          if git diff --cached --quiet; then
+            echo "::notice::tv.txt 无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: daily update tv.txt + tv.m3u [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          for i in 1 2 3; do
+            git pull --rebase origin "$GITHUB_REF_NAME" \
+              && git push origin "HEAD:$GITHUB_REF_NAME" \
+              && { echo "推送成功"; exit 0; }
+            echo "推送失败，第 $i 次重试..."
+            sleep 3
+          done
+          echo "::error::推送失败（已重试 3 次）"
+          exit 1
+
+      # ==========================================================
+      #  阶段 B · 增强通道（可选）
+      #  复用阶段 A 的 tv.txt，抓流实测真实分辨率 + 测速择优。
+      #  条数 / 时间双预算，超时只损失优化，不影响已推送的 tv.txt。
+      # ==========================================================
+
+      - name: B1 抓流实测 + 测速择优
+        if: github.event.inputs.enable_enhance != 'false'
+        continue-on-error: true
+        env:
+          MIN_HEIGHT: ${{ github.event.inputs.min_height || '720' }}
+          FORCE_KEEP: "true"
+          # ★ 无效源剔除（同阶段 A；缓存生效后很快）
+          VALIDATE_TIMEOUT: "3"
+          VALIDATE_WORKERS: "32"
+          VALIDATE_MAX_ITEMS: "3000"
+          VALIDATE_BUDGET_SEC: "240"
+          PROBE_TIMEOUT: "8"        # 单条 ffprobe 上限
+          PROBE_WORKERS: "8"        # 并发数
+          PROBE_MAX_ITEMS: "300"    # 每轮最多探测条数
+          PROBE_BUDGET_SEC: "900"   # 探测总耗时上限 15 分钟
+          SPEED_TIMEOUT: "2"        # 单条 HEAD 上限
+          SPEED_WORKERS: "32"       # 并发数
+          SPEED_MAX_ITEMS: "2000"
+          SPEED_BUDGET_SEC: "240"   # 测速总耗时上限 4 分钟
+        run: python scripts/aggregate.py --in tv.txt --out tv.txt
+
+      - name: B2 规范化 + 断言
+        id: enhance_check
+        if: github.event.inputs.enable_enhance != 'false'
+        continue-on-error: true
+        run: |
+          python scripts/normalize_tv.py
+          python scripts/ci_assert.py tv.txt
+
+      # 断言不通过就不推送，避免把脏数据写回仓库
+      - name: B3 提交优化结果
+        if: github.event.inputs.enable_enhance != 'false' && steps.enhance_check.outcome == 'success'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f tv.txt
+          [ -f tv.m3u ] && git add -f tv.m3u || true
+          if git diff --cached --quiet; then
+            echo "::notice::优化后无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: optimize tv.txt + tv.m3u (probe+speed) [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          for i in 1 2 3; do
+            git pull --rebase origin "$GITHUB_REF_NAME" \
+              && git push origin "HEAD:$GITHUB_REF_NAME" \
+              && { echo "推送成功"; exit 0; }
+            echo "推送失败，第 $i 次重试..."
+            sleep 3
+          done
+          echo "::error::推送失败（已重试 3 次）"
+          exit 1
+
+      - name: 保存探测 / 测速 / 校验缓存
+        if: always()
+        uses: actions/cache/save@v4
+        continue-on-error: true
+        with:
+          path: |
+            probe_cache.json
+            speed_cache.json
+            validate_cache.json
+          key: live-cache-${{ github.run_id }}
+
+      - name: 汇总
+        if: always()
+        run: |
+          echo "### 聚合结果" >> "$GITHUB_STEP_SUMMARY"
+          echo "- 分组数：$(grep -c '#genre#' tv.txt 2>/dev/null || echo 0)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- 总条目（tv.txt）：$(awk -F, 'NF>=2 && $2 ~ /^(http|https|rtp|rtsp|udp):\/\// {n++} END{print n+0}' tv.txt 2>/dev/null)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- 总条目（tv.m3u）：$(grep -c '^#EXTINF' tv.m3u 2>/dev/null || echo 0)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- 文件大小：$(wc -c < tv.txt 2>/dev/null || echo 0) 字节 / $(wc -c < tv.m3u 2>/dev/null || echo 0) 字节" >> "$GITHUB_STEP_SUMMARY"
