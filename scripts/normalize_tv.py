@@ -3,8 +3,9 @@
 """normalize_tv.py —— tv.txt / tv.m3u 最后一道关卡：归一 / 去重 / 排序 / 校验 / 双格式产出。
 
 本版（不重新分组模式）：
-    1. 分组原样保留：上游组叫什么，产物就叫什么，不做任何关键词归类、不错组纠偏。
-    2. 茂哥TV 强制置顶（条目顺序由 mgou_tv.txt 人工维护，不受排序影响）。
+    1. 分组名原样保留：上游组叫什么，产物就叫什么，不做任何关键词归类、不错组纠偏。
+    2. 茂哥TV 强制置顶（条目顺序由 mgou_tv.txt 人工维护，不受排序影响）；
+       其余分组按档排队：央视 → 卫视 → 地方 → 港澳台/国际 → 其他（同档保持出现先后）。
     3. 频道名归一（canonical）+ 同组去重 + 清晰度标签折叠（均在组内进行，不改组名）。
     4. 同步产出 tv.txt 与 tv.m3u（组名、条目、顺序完全一致）。
 """
@@ -110,6 +111,8 @@ def build(path: str = OUTPUT):
                 merged.append((nm, url))
             items = sorted(merged, key=lambda nu: _sort_key(nu[0]))
         final.append((g, items))
+    # ---- 组间排队：茂哥TV 钉在首位，其余 央视→卫视→地方→港澳台/国际→其他（同档保持原顺序）----
+    final = order_groups(final, pin_first=KEEP_ORDER_GROUPS)
     if folded:
         print(f"[FIX] 清晰度标签折叠 {folded} 条（与同名裸频道合并）")
     return final, dropped

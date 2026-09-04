@@ -406,6 +406,7 @@ def _write_out(items, mgou_items, dst, speed_results=None, label="[DONE]"):
         flat = [(nm, url) for nm, urls in grp.items() for url in urls]
         groups.append((g, _sort_items(flat, speed_results or None)))
     groups = [(g, it) for g, it in groups if it]        # 空组剔除
+    groups = order_groups(groups, pin_first=(MGOU_GROUP,))  # ★ 茂哥TV 置顶；其余 央视→卫视→地方→港澳台/国际→其他
 
     write_txt(groups, dst)
     write_m3u(groups, m3u_path_of(dst))
