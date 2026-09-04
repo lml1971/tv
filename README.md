@@ -8,6 +8,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/194325777?s=96&v=4" alt="茂哥" width="120" style="border-radius: 12px;">
 
+<br>
 > **"我原以为看不懂代码，就与码无缘了——没想到只要你敢跟 AI 提要求。它写，你跑；跑不通，就再回去嗑。运行正常的那刻，感觉自己也是伪码农了！"**
 > ——思路是我的，代码是 AI 的：**我负责不正经思路，它负责正规代码**。
 
