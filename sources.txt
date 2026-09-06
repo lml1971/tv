@@ -5,6 +5,7 @@
 # · 修改地址：本文件（仓库根目录），改完推送仓库即自动生效（push 触发工作流重跑）
 # ============================================================
 https://0701.tv1288.xyz/txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv1.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/akiralereal/iptv/refs/heads/main/IPTV.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all_status.m3u8
