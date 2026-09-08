@@ -45,7 +45,7 @@ def build(path: str = OUTPUT):
         sys.exit(1)
 
     buckets = OrderedDict()
-    seen, dropped = set(), 0
+    seen_urls, dropped = set(), 0
     current = None
     for line in open(path, encoding="utf-8", errors="ignore").read().splitlines():
         line = line.strip()
@@ -80,11 +80,11 @@ def build(path: str = OUTPUT):
         # ★ 央视频道合并到单一「央视」组
         group = CENTRAL_GROUP if is_central_channel(name) else current
 
-        key = (group, name, url)
-        if key in seen:
+        # ★ 按 URL 去重：同一 URL 只保留第一条（不管频道名是否相同）
+        if url in seen_urls:
             dropped += 1
             continue
-        seen.add(key)
+        seen_urls.add(url)
         buckets.setdefault(group, [])
         buckets[group].append((name, url))
 
@@ -100,7 +100,7 @@ def build(path: str = OUTPUT):
     for g, items in groups:
         if g not in KEEP_ORDER_GROUPS:
             bare = {nm for nm, _ in items if not split_clarity(nm)[1]}
-            merged, seen2 = [], set()
+            merged, seen2_urls = [], set()
             for nm, url in items:
                 if split_clarity(nm)[1]:
                     base = canonical_name(nm)
@@ -108,11 +108,11 @@ def build(path: str = OUTPUT):
                         if base != nm:
                             folded += 1
                         nm = base
-                key = (nm, url)
-                if key in seen2:
+                # 按 URL 去重：同一 URL 只保留第一条
+                if url in seen2_urls:
                     dropped += 1
                     continue
-                seen2.add(key)
+                seen2_urls.add(url)
                 merged.append((nm, url))
             items = sorted(merged, key=lambda nu: _sort_key(nu[0]))
         final.append((g, items))

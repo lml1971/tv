@@ -165,7 +165,7 @@ def main():
     print(f"  分组数        : {len(groups)}")
     print(f"  总条目        : {total}")
     print(f"  双格式        : tv.txt 与 tv.m3u 完全一致")
-    print(f"  名称规范      : 无别名残留（CCTV 裸号 / CGTN / CETV / CHC 均为唯一形态）")
+    print(f"  名称规范      : 无别名残留（CCTV / CGTN / CETV / CHC 均为唯一形态）")
     for w in _WARN_MSGS:
         print(f"  ! {w} (warn, 非阻断；CI_STRICT=1 可升级为阻断)")
     print("=" * 60)

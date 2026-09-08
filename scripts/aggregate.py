@@ -175,8 +175,8 @@ def aggregate(sources):
         dedup = OrderedDict()
         for g, nm, url in items:
             if nm and url.startswith(VALID_SCHEMES):
-                dedup.setdefault((g, nm, url), True)
-        lst = list(dedup.keys())
+                dedup.setdefault(url, (g, nm, url))
+        lst = list(dedup.values())
         groups = len({g for g, _, _ in lst})
         sources_items.append(lst)
         ok += 1
@@ -444,12 +444,12 @@ def regroup_and_write(items, dst: str, mgou_items=None):
         if before != len(other):
             print(f"[INFO] 名称标签门槛 <{MIN_HEIGHT}p 预筛 {before - len(other)} 条")
 
-    # ---- [阶段 0c] 去重（组名 + 名称 + 地址 三元组）----
-    seen, dedup = set(), []
-    for t in other:
-        if t not in seen:
-            seen.add(t)
-            dedup.append(t)
+    # ---- [阶段 0c] 去重（按 URL 去重，同一 URL 只保留一条）----
+    seen_urls, dedup = set(), []
+    for g, nm, u in other:
+        if u not in seen_urls:
+            seen_urls.add(u)
+            dedup.append((g, nm, u))
     other = dedup
 
     # ---- [阶段 0d] 剔除无效源（并发探测，带缓存与预算）----
@@ -585,17 +585,17 @@ def main():
             sys.exit(0)
         _bootstrap(args.outfile, mgou_items)
 
-    cleaned, seen = [], set()
+    cleaned, seen_urls = [], set()
     for g, nm, url in items:
         pair = normalize_text_line(nm, url)
         if pair is None:
             continue
         nm2, url2 = pair
-        key = (g, nm2, url2)
-        if key in seen:
+        # ★ 按 URL 去重：同一 URL 只保留第一条
+        if url2 in seen_urls:
             continue
-        seen.add(key)
-        cleaned.append(key)
+        seen_urls.add(url2)
+        cleaned.append((g, nm2, url2))
 
     # ★ --no-final 产出带组名的扁平调试中间产物
     if args.no_final:
