@@ -14,7 +14,7 @@
         「中」翁立友-独身仔的生活 —— 歌曲点播，却因含「生活」掉进生活频道
 
 规范后的形态：
-        央视主频道   CCTV-1 综合 …… CCTV-17 农业农村（裸号自动补官方副名）
+        央视主频道   CCTV-1 …… CCTV-17（裸号，不补副名）
         央视付费     CCTV-风云足球 / CCTV-世界地理（中英文写法合并到中文）
         超高清       CCTV-4K / CGTN-4K 系（CCTV-4 4K / CCTV-4K 不再并存）
         CGTN         CGTN / CGTN-法语 / CGTN-西班牙语 / CGTN-阿拉伯语
@@ -180,24 +180,16 @@ def canonical_cctv(name: str) -> str:
             return f"CCTV-{mk.group(1).upper()}"
         rest = _HEAD_SEP_RE.sub("", strip_clarity(raw_rest)).strip()
 
-        # CCTV-5+ / CCTV-5⁺ 体育赛事
+        # CCTV-5+ / CCTV-5⁺ 体育赛事 → CCTV-5+（去副名）
         if rest.startswith(("+", "⁺")):
-            sub = rest.lstrip("+⁺").strip()
-            sub = _CCTV_SUB_ALIAS.get(sub, sub) or _CCTV_PLUS_SUB.get(num, "")
-            # CCTV-5+ 官方全称是「CCTV-5+ 体育赛事」，裸写 CCTV-5+ 会产生第二套名字
-            return f"CCTV-{num}+ {sub}" if sub else f"CCTV-{num}+"
+            return f"CCTV-{num}+"
 
         # CCTV-4 4K / CCTV-8 8K：实为超高清频道，避免与主频混淆
         if rest.upper() in ("4K", "8K"):
             return f"CCTV-{num}{rest.upper()}"
 
-        # 裸号：补官方副名（CCTV-1 → CCTV-1 综合）
-        if not rest:
-            sub = _CCTV_MAIN_SUB.get(num)
-            return f"CCTV-{num} {sub}" if sub else f"CCTV-{num}"
-
-        sub = _CCTV_SUB_ALIAS.get(rest, rest)
-        return f"CCTV-{num} {sub}" if sub else f"CCTV-{num}"
+        # 裸号或带副名：统一为 CCTV-N（不补副名，去除 综合/财经/欧洲 等后缀）
+        return f"CCTV-{num}"
 
     # 5. 无编号付费 / 数字频道
     return _cctv_pay_body(n)
@@ -297,16 +289,16 @@ def canonical_name_keep_label(name: str) -> str:
 # ==================== [5] 自检 ====================
 
 _CASES = [
-    # 央视主频：裸号补副名，写法统一
-    ("CCTV-1", "CCTV-1 综合"), ("CCTV1", "CCTV-1 综合"),
-    ("CCTV-1 综合", "CCTV-1 综合"), ("CCTV-1(720p)", "CCTV-1 综合"),
-    ("CCTV-1 -综合", "CCTV-1 综合"),
-    ("CCTV-5+", "CCTV-5+ 体育赛事"), ("CCTV-5⁺体育赛事", "CCTV-5+ 体育赛事"),
-    ("CCTV5+", "CCTV-5+ 体育赛事"),
-    ("CCTV-4 欧洲", "CCTV-4 欧洲"), ("CCTV-4中文国际", "CCTV-4 中文国际"),
+    # 央视主频：统一为 CCTV-N 裸号（不补副名，去除 综合/财经/欧洲 等后缀）
+    ("CCTV-1", "CCTV-1"), ("CCTV1", "CCTV-1"),
+    ("CCTV-1 综合", "CCTV-1"), ("CCTV-1(720p)", "CCTV-1"),
+    ("CCTV-1 -综合", "CCTV-1"),
+    ("CCTV-5+", "CCTV-5+"), ("CCTV-5⁺体育赛事", "CCTV-5+"),
+    ("CCTV5+", "CCTV-5+"),
+    ("CCTV-4 欧洲", "CCTV-4"), ("CCTV-4中文国际", "CCTV-4"),
     ("CCTV-4K", "CCTV-4K"), ("CCTV-4 4K", "CCTV-4K"),
-    ("CCTV-8 8K", "CCTV-8K"), ("CCTV-6 电影", "CCTV-6 电影"),
-    ("CCTV-17", "CCTV-17 农业农村"),
+    ("CCTV-8 8K", "CCTV-8K"), ("CCTV-6 电影", "CCTV-6"),
+    ("CCTV-17", "CCTV-17"),
     # 央视付费：中英文合并 + 去重复前缀
     ("CCTV世界地理", "CCTV-世界地理"), ("CCTV-世界地理", "CCTV-世界地理"),
     ("CCTV-World Geography", "CCTV-世界地理"),
@@ -348,8 +340,8 @@ def _selftest():
             fail += 1
             print(f"[FAIL] {src!r} -> {got!r}（期望 {want!r}）")
     # 保留标签的入口
-    for src, want in [("CCTV-1 综合(1080p)", "CCTV-1 综合(1080p)"),
-                      ("CCTV1(720p)", "CCTV-1 综合(720p)"),
+    for src, want in [("CCTV-1 综合(1080p)", "CCTV-1(1080p)"),
+                      ("CCTV1(720p)", "CCTV-1(720p)"),
                       ("CHC动作电影(1080p)", "CHC-动作电影(1080p)")]:
         got = canonical_name_keep_label(src)
         if got == want:

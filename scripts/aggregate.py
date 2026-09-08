@@ -30,8 +30,8 @@ import time
 import urllib.request
 from collections import OrderedDict
 
-from canonical import canonical_name_keep_label
-from output import write_txt, write_m3u, order_groups
+from canonical import canonical_name, canonical_name_keep_label
+from output import write_txt, write_m3u, order_groups, is_central_channel, CENTRAL_GROUP
 from validate_lite import validate_urls
 from speed_test_lite import speed_test as lite_speed_test, speed_sort_key
 from probe_resolution import probe_batch, relabel_name
@@ -390,10 +390,16 @@ def m3u_path_of(txt_path: str) -> str:
 
 
 def _write_out(items, mgou_items, dst, speed_results=None, label="[DONE]"):
-    """组装分组 → 排序 → 写 tv.txt + tv.m3u，返回总条数。"""
+    """组装分组 → 排序 → 写 tv.txt + tv.m3u，返回总条数。
+
+    ★ 央视频道（CCTV/CGTN/CETV/CHC）从多个上游组合并到单一「央视」组。
+    """
     speed_results = speed_results or {}
     buckets = OrderedDict()
     for g, nm, url in items:
+        # 央视频道合并到单一「央视」组
+        if is_central_channel(nm):
+            g = CENTRAL_GROUP
         buckets.setdefault(g, OrderedDict())
         buckets[g].setdefault(nm, OrderedDict())
         if url not in buckets[g][nm]:
@@ -453,7 +459,7 @@ def regroup_and_write(items, dst: str, mgou_items=None):
     # 纯 CPU 秒级完成。即使后面的抓流/测速把 job 拖到超时被取消，
     # 仓库里也已经有一份合法、规范、过了门槛的 tv.txt / tv.m3u。
     if os.environ.get("EARLY_WRITE", "true").lower() in ("1", "true", "yes"):
-        _write_out([(g, canonical_name_keep_label(nm), u) for g, nm, u in other],
+        _write_out([(g, canonical_name(nm), u) for g, nm, u in other],
                    mgou_items, dst, label="[EARLY] 保底写出")
 
     # ---- [阶段 2] 抓流实测（并发 + 条数/时间双预算）----
@@ -516,7 +522,7 @@ def regroup_and_write(items, dst: str, mgou_items=None):
             print(f"[WARN] 测速异常，跳过择优: {e}", file=sys.stderr)
 
     # ---- [阶段 5] 最终写出（此处归一，保证命名满足 CI 断言）----
-    _write_out([(g, canonical_name_keep_label(nm), u) for g, nm, u in other],
+    _write_out([(g, canonical_name(nm), u) for g, nm, u in other],
                mgou_items, dst, speed_results=speed_results)
 
 

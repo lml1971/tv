@@ -21,7 +21,7 @@ import sys
 
 from collections import OrderedDict
 
-from canonical import canonical_name_keep_label
+from canonical import canonical_name
 
 DEFAULT = "tv.txt"
 STRICT = os.environ.get("CI_STRICT", "0").lower() in ("1", "true", "yes")
@@ -109,8 +109,8 @@ def main():
         if g == MGOU_GROUP:
             continue  # 人工维护，豁免改名
         for nm in names:
-            if canonical_name_keep_label(nm) != nm:
-                alias_left.append(f"{g}: {nm} -> {canonical_name_keep_label(nm)}")
+            if canonical_name(nm) != nm:
+                alias_left.append(f"{g}: {nm} -> {canonical_name(nm)}")
     if alias_left:
         shown = alias_left[:20]
         failures.append("[名称规范] 仍存在未归一的别名写法"
@@ -165,7 +165,7 @@ def main():
     print(f"  分组数        : {len(groups)}")
     print(f"  总条目        : {total}")
     print(f"  双格式        : tv.txt 与 tv.m3u 完全一致")
-    print(f"  名称规范      : 无别名残留（CCTV / CGTN / CETV / CHC 均为唯一形态）")
+    print(f"  名称规范      : 无别名残留（CCTV 裸号 / CGTN / CETV / CHC 均为唯一形态）")
     for w in _WARN_MSGS:
         print(f"  ! {w} (warn, 非阻断；CI_STRICT=1 可升级为阻断)")
     print("=" * 60)

@@ -16,7 +16,7 @@ import sys
 from collections import OrderedDict
 
 from canonical import canonical_name, canonical_name_keep_label, split_clarity
-from output import write_txt, write_m3u, order_groups
+from output import write_txt, write_m3u, order_groups, is_central_channel, CENTRAL_GROUP
 
 OUTPUT = "tv.txt"
 MGOU_GROUP = "茂哥TV"
@@ -73,15 +73,20 @@ def build(path: str = OUTPUT):
 
         # ★ 归一放在去重之前：否则「CCTV-1」与「CCTV-1 综合」是两条 key，
         #   永远合并不掉 —— 这正是去重形同虚设的根因。
+        # ★ 使用 canonical_name（不保留清晰度标签）去除 HD/高清/4K/[1080] 等冗余后缀
         if current not in KEEP_ORDER_GROUPS:
-            name = canonical_name_keep_label(name)
+            name = canonical_name(name)
 
-        key = (current, name, url)
+        # ★ 央视频道合并到单一「央视」组
+        group = CENTRAL_GROUP if is_central_channel(name) else current
+
+        key = (group, name, url)
         if key in seen:
             dropped += 1
             continue
         seen.add(key)
-        buckets[current].append((name, url))
+        buckets.setdefault(group, [])
+        buckets[group].append((name, url))
 
     # ---- 茂哥TV 强制置顶（其余分组保持文件中的先后顺序）----
     groups = []

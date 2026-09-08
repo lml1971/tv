@@ -5,11 +5,23 @@
 order_groups() 负责组间排队：「茂哥TV」钉在首位，其余
 央视 → 卫视 → 地方 → 港澳台/国际 → 其他（同档保持出现先后，组内顺序不动）。
 
+is_central_channel() 判断频道名是否属于央视（CCTV/CGTN/CETV/CHC），
+用于将所有央视频道从多个上游组合并到单一「央视」组。
+
 组名 / 频道名里若混入逗号、引号、换行，会破坏 txt / m3u 行结构，
 写出前统一清洗（逗号 → 全角，引号 → 单引号）。
 """
 
+import re
+
 M3U_HEAD = "#EXTM3U"
+CENTRAL_GROUP = "央视"
+_CENTRAL_RE = re.compile(r"^(CCTV|央视|CGTN|CETV|CHC|中国教育)", re.I)
+
+
+def is_central_channel(name: str) -> bool:
+    """判断频道名是否属于央视（CCTV/CGTN/CETV/CHC/中国教育）。"""
+    return bool(_CENTRAL_RE.match(name or ""))
 
 # ==================== 分组分档排序：央视 → 卫视 → 地方 → 港澳台/国际 → 其他 ====================
 # 只按「组名关键词」分档、不改组名（不重新分组）；同档内保持出现先后（稳定排序）。
