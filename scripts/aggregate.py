@@ -31,7 +31,7 @@ import urllib.request
 from collections import OrderedDict
 
 from canonical import canonical_name, canonical_name_keep_label
-from output import write_txt, write_m3u, order_groups, is_central_channel, CENTRAL_GROUP
+from output import write_txt, write_m3u, order_groups, is_central_channel, merge_group_name, CENTRAL_GROUP
 from validate_lite import validate_urls
 from speed_test_lite import speed_test as lite_speed_test, speed_sort_key
 from probe_resolution import probe_batch, relabel_name
@@ -392,14 +392,17 @@ def m3u_path_of(txt_path: str) -> str:
 def _write_out(items, mgou_items, dst, speed_results=None, label="[DONE]"):
     """组装分组 → 排序 → 写 tv.txt + tv.m3u，返回总条数。
 
-    ★ 央视频道（CCTV/CGTN/CETV/CHC）从多个上游组合并到单一「央视」组。
+    ★ 央视频道（CCTV/CGTN/CETV/CHC）从多个上游组合并到单一「央视频道」组。
+    ★ 其余分组按关键词合并（卫视→卫视频道，地方→地方频道 等）。
     """
     speed_results = speed_results or {}
     buckets = OrderedDict()
     for g, nm, url in items:
-        # 央视频道合并到单一「央视」组
+        # 央视频道合并到单一「央视频道」组
         if is_central_channel(nm):
             g = CENTRAL_GROUP
+        else:
+            g = merge_group_name(g)
         buckets.setdefault(g, OrderedDict())
         buckets[g].setdefault(nm, OrderedDict())
         if url not in buckets[g][nm]:
