@@ -63,7 +63,7 @@ def merge_group_name(group: str) -> str:
 #   2. 「其他频道」中的节目按名称重新归类
 _HK_KEYWORDS = (
     "TVB", "翡翠台", "J2", "Pearl", "明珠台", "VIU TV", "Now TV",
-    "香港卫视", "HKC", "RHK", "凤凰香港", "HKS", "香港",
+    "香港卫视", "HKC", "RHK", "凤凰香港", "凤凰中文", "凤凰资讯", "凤凰", "HKS", "香港",
 )
 _TW_KEYWORDS = (
     "台视", "中视", "华视", "民视", "公共电视", "PTS", "三立", "TVBS",
