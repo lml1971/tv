@@ -16,7 +16,7 @@ import sys
 from collections import OrderedDict
 
 from canonical import canonical_name, canonical_name_keep_label, split_clarity
-from output import write_txt, write_m3u, order_groups, is_central_channel, merge_group_name, CENTRAL_GROUP
+from output import write_txt, write_m3u, order_groups, is_central_channel, merge_group_name, classify_channel, CENTRAL_GROUP
 
 OUTPUT = "tv.txt"
 MGOU_GROUP = "茂哥TV"
@@ -77,9 +77,10 @@ def build(path: str = OUTPUT):
         if current not in KEEP_ORDER_GROUPS:
             name = canonical_name(name)
 
-        # ★ 央视频道合并到单一「央视频道」组；其余分组按关键词合并
-        if is_central_channel(name):
-            group = CENTRAL_GROUP
+        # ★ 频道名→分组归类（央视合并、香港/台湾准确分组、其他频道重分类）
+        classified = classify_channel(name, current)
+        if classified is not None:
+            group = classified
         else:
             group = merge_group_name(current)
 
