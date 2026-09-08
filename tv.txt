@@ -1207,7 +1207,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
-玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
+玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
@@ -1420,7 +1420,6 @@ Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c
 桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 汪清,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
-玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
