@@ -30,8 +30,8 @@ import time
 import urllib.request
 from collections import OrderedDict
 
-from canonical import canonical_name, canonical_name_keep_label
-from output import write_txt, write_m3u, order_groups, is_central_channel, merge_group_name, classify_channel, CENTRAL_GROUP
+from canonical import canonical_name
+from output import write_txt, write_m3u, order_groups, classify_channel, merge_group_name
 from validate_lite import validate_urls
 from speed_test_lite import speed_test as lite_speed_test, speed_sort_key
 from probe_resolution import probe_batch, relabel_name

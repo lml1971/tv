@@ -15,8 +15,8 @@ import sys
 
 from collections import OrderedDict
 
-from canonical import canonical_name, canonical_name_keep_label, split_clarity
-from output import write_txt, write_m3u, order_groups, is_central_channel, merge_group_name, classify_channel, CENTRAL_GROUP
+from canonical import canonical_name, split_clarity
+from output import write_txt, write_m3u, order_groups, classify_channel, merge_group_name
 
 OUTPUT = "tv.txt"
 MGOU_GROUP = "茂哥TV"
