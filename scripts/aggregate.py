@@ -449,7 +449,7 @@ def regroup_and_write(items, dst: str, mgou_items=None):
         if before != len(other):
             print(f"[INFO] 名称标签门槛 <{MIN_HEIGHT}p 预筛 {before - len(other)} 条")
 
-    # ---- [阶段 0c] 去重（按 URL 去重，同一 URL 只保留一条）----
+    # ---- [阶段 0c] 去重（按 URL 完全相同去重，不同 URL 全部保留）----
     seen_urls, dedup = set(), []
     for g, nm, u in other:
         if u not in seen_urls:
@@ -514,15 +514,18 @@ def regroup_and_write(items, dst: str, mgou_items=None):
         print(f"[INFO] 清晰度门槛 <{MIN_HEIGHT}p 舍弃 {below} 条"
               f"（保守保留无标注 {kept_fb} 条）")
 
-    # ---- [阶段 4] 测速择优（并发 + 双预算）----
+    # ---- [阶段 4] 测速择优（并发 + 双预算，测试所有唯一 URL）----
     speed_results = {}
     if os.environ.get("DISABLE_SPEED") != "1":
-        repr_map = OrderedDict()
+        # ★ 测试所有唯一 URL（不再只测每频道一条代表线路）
+        #   同一频道的多个不同 URL 源全部保留，按响应速度择优排序
+        seen, all_urls = set(), []
         for g, nm, url in other:
-            repr_map.setdefault((g, nm), url)  # 每频道只测一条代表线路
+            if url not in seen:
+                seen.add(url)
+                all_urls.append((f"{g}|{nm}", url))
         try:
-            speed_results = lite_speed_test(
-                [(f"{g}|{nm}", url) for (g, nm), url in repr_map.items()])
+            speed_results = lite_speed_test(all_urls)
         except Exception as e:
             print(f"[WARN] 测速异常，跳过择优: {e}", file=sys.stderr)
 
@@ -596,7 +599,7 @@ def main():
         if pair is None:
             continue
         nm2, url2 = pair
-        # ★ 按 URL 去重：同一 URL 只保留第一条
+        # ★ 按 URL 去重：同一 URL 只保留一条；不同 URL 即使频道名相同也全部保留
         if url2 in seen_urls:
             continue
         seen_urls.add(url2)

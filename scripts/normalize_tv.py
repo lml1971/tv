@@ -84,7 +84,7 @@ def build(path: str = OUTPUT):
         else:
             group = merge_group_name(current)
 
-        # ★ 按 URL 去重：同一 URL 只保留第一条（不管频道名是否相同）
+        # ★ 按 URL 去重：同一 URL 只保留一条；不同 URL 即使频道名相同也全部保留
         if url in seen_urls:
             dropped += 1
             continue
@@ -112,7 +112,7 @@ def build(path: str = OUTPUT):
                         if base != nm:
                             folded += 1
                         nm = base
-                # 按 URL 去重：同一 URL 只保留第一条
+                # 按 URL 去重：同一 URL 只保留一条；不同 URL 即使频道名相同也全部保留
                 if url in seen2_urls:
                     dropped += 1
                     continue
