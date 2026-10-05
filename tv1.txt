@@ -1,3 +1,4 @@
+CCTV-1 综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1 综合,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV-1 综合,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV-1 综合,http://198.204.228.26/live/cctv1hd.m3u8
@@ -28,6 +29,7 @@ CCTV-3 综艺,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
 CCTV-3 综艺,http://8.138.7.223/tv/ysp.php?id=cctv3
 CCTV-3 综艺,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=946c9b8ad616a27881ba78b3e7f291
 CCTV-3 综艺,http://45.78.61.93:1234/624878271
+CCTV-4 中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4 中文国际,http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
 CCTV-4 中文国际,http://113.98.11.46:3000/608807416
 CCTV-4 中文国际,http://113.98.11.46:3000/631780421
@@ -36,6 +38,7 @@ CCTV-4 中文国际,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4 中文国际,http://45.78.61.93:1234/631780421
 CCTV-4 中文国际,http://mg.cttv.vip/608807419
 CCTV-4K,http://104.152.209.49:8181/720p/cctv4k.m3u8
+CCTV-5 体育,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5 体育,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5 体育,http://8.138.7.223/tv/ysp.php?id=cctv5
@@ -49,6 +52,7 @@ CCTV-5+ 体育赛事,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20
 CCTV-5+ 体育赛事,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 CCTV-5+ 体育赛事,http://173.208.234.146/live/cctv5p.m3u8
 CCTV-5+ 体育赛事,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-6 电影,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV-6 电影,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6 电影,http://104.152.209.49:8181/720p/cctv6.m3u8
 CCTV-6 电影,http://113.98.11.46:3000/624878396
@@ -141,6 +145,7 @@ CCTV-15 音乐,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 CCTV-15 音乐,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 CCTV-15 音乐,http://198.204.228.26/live/cctv15hd.m3u8
 CCTV-15 音乐,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=5fec3df34e3f435ce242458fb86a74
+CCTV-16 奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-16 奥林匹克,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16 奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV-16 奥林匹克,http://104.152.209.49:8181/720p/cctv16.m3u8
