@@ -4,7 +4,6 @@
 # · txt / m3u 按内容自动识别，无需标注格式
 # · 修改地址：本文件（仓库根目录），改完推送仓库即自动生效（push 触发工作流重跑）
 # ============================================================
-https://ysp.lml1971.ccwu.cc/txt
 https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv1.txt
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
 https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u
