@@ -1,3 +1,21 @@
+CCTV-1综合,https://ysp.lml1971.ccwu.cc/cctv1/playlist.m3u8
+CCTV-2财经,https://ysp.lml1971.ccwu.cc/cctv2/playlist.m3u8
+CCTV-3综艺,https://ysp.lml1971.ccwu.cc/cctv3/playlist.m3u8
+CCTV-4中文国际,https://ysp.lml1971.ccwu.cc/cctv4/playlist.m3u8
+CCTV-5体育,https://ysp.lml1971.ccwu.cc/cctv5/playlist.m3u8
+CCTV-5⁺体育赛事,https://ysp.lml1971.ccwu.cc/cctv5p/playlist.m3u8
+CCTV-6电影,https://ysp.lml1971.ccwu.cc/cctv6/playlist.m3u8
+CCTV-7国防军事,https://ysp.lml1971.ccwu.cc/cctv7/playlist.m3u8
+CCTV-8电视剧,https://ysp.lml1971.ccwu.cc/cctv8/playlist.m3u8
+CCTV-9纪录,https://ysp.lml1971.ccwu.cc/cctv9/playlist.m3u8
+CCTV-10科教,https://ysp.lml1971.ccwu.cc/cctv10/playlist.m3u8
+CCTV-11戏曲,https://ysp.lml1971.ccwu.cc/cctv11/playlist.m3u8
+CCTV-12社会与法,https://ysp.lml1971.ccwu.cc/cctv12/playlist.m3u8
+CCTV-13新闻,https://ysp.lml1971.ccwu.cc/cctv13/playlist.m3u8
+CCTV-14少儿,https://ysp.lml1971.ccwu.cc/cctv14/playlist.m3u8
+CCTV-15音乐,https://ysp.lml1971.ccwu.cc/cctv15/playlist.m3u8
+CCTV-16奥林匹克,https://ysp.lml1971.ccwu.cc/cctv16/playlist.m3u8
+CCTV-17农业农村,https://ysp.lml1971.ccwu.cc/cctv17/playlist.m3u8
 CCTV-1 综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1 综合,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV-1 综合,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
